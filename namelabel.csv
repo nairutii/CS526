@@ -1,0 +1,1392 @@
+,name,parents
+0,degree0,all
+1,degree-1,all
+2,degree1,all
+3,degree6,all
+4,degree2,all
+5,degree3,all
+6,degree5,all
+7,degree7,all
+8,degree4,all
+9,degree8,all
+10,degree9,all
+11,peel1degree0,degree0
+12,peel-2degree0,degree0
+13,peel-1degree0,degree0
+14,peel0degree0,degree0
+15,peel2degree0,degree0
+16,peel-3degree0,degree0
+17,peel1degree-1,degree-1
+18,peel-2degree-1,degree-1
+19,peel0degree-1,degree-1
+20,peel-1degree-1,degree-1
+21,peel2degree-1,degree-1
+22,peel3degree-1,degree-1
+23,peel-1degree1,degree1
+24,peel0degree1,degree1
+25,peel-2degree1,degree1
+26,peel-3degree1,degree1
+27,peel1degree1,degree1
+28,peel0degree6,degree6
+29,peel0degree2,degree2
+30,peel-2degree2,degree2
+31,peel-2degree3,degree3
+32,peel0degree3,degree3
+33,peel0degree5,degree5
+34,peel-2degree5,degree5
+35,peel0degree7,degree7
+36,peel0degree4,degree4
+37,peel-2degree4,degree4
+38,peel0degree8,degree8
+39,peel0degree9,degree9
+40,pagerank-2peel1degree0,peel1degree0
+41,pagerank1peel1degree0,peel1degree0
+42,pagerank0peel1degree0,peel1degree0
+43,pagerank-1peel1degree0,peel1degree0
+44,pagerank2peel1degree0,peel1degree0
+45,pagerank-1peel-2degree0,peel-2degree0
+46,pagerank2peel-2degree0,peel-2degree0
+47,pagerank0peel-2degree0,peel-2degree0
+48,pagerank0peel-1degree0,peel-1degree0
+49,pagerank-1peel-1degree0,peel-1degree0
+50,pagerank1peel-1degree0,peel-1degree0
+51,pagerank-2peel-1degree0,peel-1degree0
+52,pagerank3peel-1degree0,peel-1degree0
+53,pagerank2peel-1degree0,peel-1degree0
+54,pagerank-1peel0degree0,peel0degree0
+55,pagerank0peel0degree0,peel0degree0
+56,pagerank-2peel0degree0,peel0degree0
+57,pagerank1peel0degree0,peel0degree0
+58,pagerank2peel0degree0,peel0degree0
+59,pagerank-2peel2degree0,peel2degree0
+60,pagerank-1peel2degree0,peel2degree0
+61,pagerank1peel2degree0,peel2degree0
+62,pagerank0peel2degree0,peel2degree0
+63,pagerank0peel-3degree0,peel-3degree0
+64,pagerank-2peel1degree-1,peel1degree-1
+65,pagerank0peel1degree-1,peel1degree-1
+66,pagerank-1peel1degree-1,peel1degree-1
+67,pagerank1peel1degree-1,peel1degree-1
+68,pagerank2peel1degree-1,peel1degree-1
+69,pagerank6peel1degree-1,peel1degree-1
+70,pagerank-1peel-2degree-1,peel-2degree-1
+71,pagerank1peel-2degree-1,peel-2degree-1
+72,pagerank0peel-2degree-1,peel-2degree-1
+73,pagerank4peel-2degree-1,peel-2degree-1
+74,pagerank2peel-2degree-1,peel-2degree-1
+75,pagerank3peel-2degree-1,peel-2degree-1
+76,pagerank0peel0degree-1,peel0degree-1
+77,pagerank-1peel0degree-1,peel0degree-1
+78,pagerank2peel0degree-1,peel0degree-1
+79,pagerank-2peel0degree-1,peel0degree-1
+80,pagerank1peel0degree-1,peel0degree-1
+81,pagerank4peel0degree-1,peel0degree-1
+82,pagerank4peel-1degree-1,peel-1degree-1
+83,pagerank-1peel-1degree-1,peel-1degree-1
+84,pagerank0peel-1degree-1,peel-1degree-1
+85,pagerank1peel-1degree-1,peel-1degree-1
+86,pagerank2peel-1degree-1,peel-1degree-1
+87,pagerank3peel-1degree-1,peel-1degree-1
+88,pagerank-1peel2degree-1,peel2degree-1
+89,pagerank2peel2degree-1,peel2degree-1
+90,pagerank0peel2degree-1,peel2degree-1
+91,pagerank-2peel2degree-1,peel2degree-1
+92,pagerank1peel2degree-1,peel2degree-1
+93,pagerank0peel3degree-1,peel3degree-1
+94,pagerank0peel-1degree1,peel-1degree1
+95,pagerank-1peel-1degree1,peel-1degree1
+96,pagerank-2peel-1degree1,peel-1degree1
+97,pagerank1peel-1degree1,peel-1degree1
+98,pagerank-2peel0degree1,peel0degree1
+99,pagerank0peel0degree1,peel0degree1
+100,pagerank-1peel0degree1,peel0degree1
+101,pagerank1peel0degree1,peel0degree1
+102,pagerank0peel-2degree1,peel-2degree1
+103,pagerank-1peel-3degree1,peel-3degree1
+104,pagerank0peel-3degree1,peel-3degree1
+105,pagerank-1peel1degree1,peel1degree1
+106,pagerank0peel1degree1,peel1degree1
+107,pagerank0peel0degree6,peel0degree6
+108,pagerank-1peel0degree6,peel0degree6
+109,pagerank0peel0degree2,peel0degree2
+110,pagerank1peel0degree2,peel0degree2
+111,pagerank-2peel0degree2,peel0degree2
+112,pagerank-1peel0degree2,peel0degree2
+113,pagerank-1peel-2degree2,peel-2degree2
+114,pagerank1peel-2degree2,peel-2degree2
+115,pagerank0peel-2degree3,peel-2degree3
+116,pagerank0peel0degree3,peel0degree3
+117,pagerank-1peel0degree3,peel0degree3
+118,pagerank-2peel0degree5,peel0degree5
+119,pagerank1peel0degree5,peel0degree5
+120,pagerank0peel0degree5,peel0degree5
+121,pagerank-1peel0degree5,peel0degree5
+122,pagerank0peel-2degree5,peel-2degree5
+123,pagerank0peel0degree7,peel0degree7
+124,pagerank-1peel0degree7,peel0degree7
+125,pagerank0peel0degree4,peel0degree4
+126,pagerank-1peel0degree4,peel0degree4
+127,pagerank0peel-2degree4,peel-2degree4
+128,pagerank0peel0degree8,peel0degree8
+129,pagerank0peel0degree9,peel0degree9
+130,diversity-1pagerank-2peel1degree0,pagerank-2peel1degree0
+131,diversity0pagerank-2peel1degree0,pagerank-2peel1degree0
+132,diversity0pagerank1peel1degree0,pagerank1peel1degree0
+133,diversity-2pagerank0peel1degree0,pagerank0peel1degree0
+134,diversity0pagerank0peel1degree0,pagerank0peel1degree0
+135,diversity-1pagerank0peel1degree0,pagerank0peel1degree0
+136,diversity-1pagerank-1peel1degree0,pagerank-1peel1degree0
+137,diversity0pagerank-1peel1degree0,pagerank-1peel1degree0
+138,diversity-2pagerank-1peel1degree0,pagerank-1peel1degree0
+139,diversity0pagerank2peel1degree0,pagerank2peel1degree0
+140,diversity-1pagerank-1peel-2degree0,pagerank-1peel-2degree0
+141,diversity0pagerank-1peel-2degree0,pagerank-1peel-2degree0
+142,diversity-3pagerank-1peel-2degree0,pagerank-1peel-2degree0
+143,diversity1pagerank-1peel-2degree0,pagerank-1peel-2degree0
+144,diversity-1pagerank2peel-2degree0,pagerank2peel-2degree0
+145,diversity0pagerank2peel-2degree0,pagerank2peel-2degree0
+146,diversity-1pagerank0peel-2degree0,pagerank0peel-2degree0
+147,diversity0pagerank0peel-2degree0,pagerank0peel-2degree0
+148,diversity1pagerank0peel-1degree0,pagerank0peel-1degree0
+149,diversity-1pagerank0peel-1degree0,pagerank0peel-1degree0
+150,diversity0pagerank0peel-1degree0,pagerank0peel-1degree0
+151,diversity-2pagerank0peel-1degree0,pagerank0peel-1degree0
+152,diversity0pagerank-1peel-1degree0,pagerank-1peel-1degree0
+153,diversity-1pagerank-1peel-1degree0,pagerank-1peel-1degree0
+154,diversity-3pagerank-1peel-1degree0,pagerank-1peel-1degree0
+155,diversity-2pagerank-1peel-1degree0,pagerank-1peel-1degree0
+156,diversity1pagerank-1peel-1degree0,pagerank-1peel-1degree0
+157,diversity-3pagerank1peel-1degree0,pagerank1peel-1degree0
+158,diversity1pagerank1peel-1degree0,pagerank1peel-1degree0
+159,diversity0pagerank1peel-1degree0,pagerank1peel-1degree0
+160,diversity-1pagerank1peel-1degree0,pagerank1peel-1degree0
+161,diversity0pagerank-2peel-1degree0,pagerank-2peel-1degree0
+162,diversity1pagerank-2peel-1degree0,pagerank-2peel-1degree0
+163,diversity-2pagerank-2peel-1degree0,pagerank-2peel-1degree0
+164,diversity-1pagerank-2peel-1degree0,pagerank-2peel-1degree0
+165,diversity0pagerank3peel-1degree0,pagerank3peel-1degree0
+166,diversity0pagerank2peel-1degree0,pagerank2peel-1degree0
+167,diversity-2pagerank-1peel0degree0,pagerank-1peel0degree0
+168,diversity0pagerank-1peel0degree0,pagerank-1peel0degree0
+169,diversity1pagerank-1peel0degree0,pagerank-1peel0degree0
+170,diversity-1pagerank-1peel0degree0,pagerank-1peel0degree0
+171,diversity0pagerank0peel0degree0,pagerank0peel0degree0
+172,diversity-2pagerank0peel0degree0,pagerank0peel0degree0
+173,diversity-1pagerank0peel0degree0,pagerank0peel0degree0
+174,diversity1pagerank0peel0degree0,pagerank0peel0degree0
+175,diversity1pagerank-2peel0degree0,pagerank-2peel0degree0
+176,diversity-2pagerank-2peel0degree0,pagerank-2peel0degree0
+177,diversity-1pagerank-2peel0degree0,pagerank-2peel0degree0
+178,diversity0pagerank-2peel0degree0,pagerank-2peel0degree0
+179,diversity0pagerank1peel0degree0,pagerank1peel0degree0
+180,diversity-1pagerank1peel0degree0,pagerank1peel0degree0
+181,diversity-2pagerank1peel0degree0,pagerank1peel0degree0
+182,diversity1pagerank1peel0degree0,pagerank1peel0degree0
+183,diversity0pagerank2peel0degree0,pagerank2peel0degree0
+184,diversity0pagerank-2peel2degree0,pagerank-2peel2degree0
+185,diversity0pagerank-1peel2degree0,pagerank-1peel2degree0
+186,diversity-2pagerank-1peel2degree0,pagerank-1peel2degree0
+187,diversity0pagerank1peel2degree0,pagerank1peel2degree0
+188,diversity0pagerank0peel2degree0,pagerank0peel2degree0
+189,diversity0pagerank0peel-3degree0,pagerank0peel-3degree0
+190,diversity0pagerank-2peel1degree-1,pagerank-2peel1degree-1
+191,diversity-1pagerank-2peel1degree-1,pagerank-2peel1degree-1
+192,diversity1pagerank-2peel1degree-1,pagerank-2peel1degree-1
+193,diversity-2pagerank-2peel1degree-1,pagerank-2peel1degree-1
+194,diversity0pagerank0peel1degree-1,pagerank0peel1degree-1
+195,diversity-1pagerank0peel1degree-1,pagerank0peel1degree-1
+196,diversity-2pagerank0peel1degree-1,pagerank0peel1degree-1
+197,diversity1pagerank0peel1degree-1,pagerank0peel1degree-1
+198,diversity-3pagerank0peel1degree-1,pagerank0peel1degree-1
+199,diversity0pagerank-1peel1degree-1,pagerank-1peel1degree-1
+200,diversity-2pagerank-1peel1degree-1,pagerank-1peel1degree-1
+201,diversity1pagerank-1peel1degree-1,pagerank-1peel1degree-1
+202,diversity-1pagerank-1peel1degree-1,pagerank-1peel1degree-1
+203,diversity-4pagerank-1peel1degree-1,pagerank-1peel1degree-1
+204,diversity-1pagerank1peel1degree-1,pagerank1peel1degree-1
+205,diversity-2pagerank1peel1degree-1,pagerank1peel1degree-1
+206,diversity0pagerank1peel1degree-1,pagerank1peel1degree-1
+207,diversity1pagerank1peel1degree-1,pagerank1peel1degree-1
+208,diversity0pagerank2peel1degree-1,pagerank2peel1degree-1
+209,diversity-2pagerank2peel1degree-1,pagerank2peel1degree-1
+210,diversity0pagerank6peel1degree-1,pagerank6peel1degree-1
+211,diversity0pagerank-1peel-2degree-1,pagerank-1peel-2degree-1
+212,diversity1pagerank1peel-2degree-1,pagerank1peel-2degree-1
+213,diversity-1pagerank1peel-2degree-1,pagerank1peel-2degree-1
+214,diversity0pagerank0peel-2degree-1,pagerank0peel-2degree-1
+215,diversity-1pagerank4peel-2degree-1,pagerank4peel-2degree-1
+216,diversity0pagerank4peel-2degree-1,pagerank4peel-2degree-1
+217,diversity0pagerank2peel-2degree-1,pagerank2peel-2degree-1
+218,diversity-2pagerank2peel-2degree-1,pagerank2peel-2degree-1
+219,diversity0pagerank3peel-2degree-1,pagerank3peel-2degree-1
+220,diversity1pagerank0peel0degree-1,pagerank0peel0degree-1
+221,diversity-1pagerank0peel0degree-1,pagerank0peel0degree-1
+222,diversity0pagerank0peel0degree-1,pagerank0peel0degree-1
+223,diversity-2pagerank0peel0degree-1,pagerank0peel0degree-1
+224,diversity-2pagerank-1peel0degree-1,pagerank-1peel0degree-1
+225,diversity1pagerank-1peel0degree-1,pagerank-1peel0degree-1
+226,diversity0pagerank-1peel0degree-1,pagerank-1peel0degree-1
+227,diversity-4pagerank-1peel0degree-1,pagerank-1peel0degree-1
+228,diversity0pagerank2peel0degree-1,pagerank2peel0degree-1
+229,diversity-2pagerank2peel0degree-1,pagerank2peel0degree-1
+230,diversity-1pagerank2peel0degree-1,pagerank2peel0degree-1
+231,diversity-1pagerank-2peel0degree-1,pagerank-2peel0degree-1
+232,diversity1pagerank-2peel0degree-1,pagerank-2peel0degree-1
+233,diversity0pagerank1peel0degree-1,pagerank1peel0degree-1
+234,diversity-1pagerank1peel0degree-1,pagerank1peel0degree-1
+235,diversity-2pagerank1peel0degree-1,pagerank1peel0degree-1
+236,diversity0pagerank4peel0degree-1,pagerank4peel0degree-1
+237,diversity0pagerank4peel-1degree-1,pagerank4peel-1degree-1
+238,diversity-3pagerank-1peel-1degree-1,pagerank-1peel-1degree-1
+239,diversity0pagerank-1peel-1degree-1,pagerank-1peel-1degree-1
+240,diversity1pagerank0peel-1degree-1,pagerank0peel-1degree-1
+241,diversity0pagerank0peel-1degree-1,pagerank0peel-1degree-1
+242,diversity-3pagerank0peel-1degree-1,pagerank0peel-1degree-1
+243,diversity0pagerank1peel-1degree-1,pagerank1peel-1degree-1
+244,diversity-1pagerank1peel-1degree-1,pagerank1peel-1degree-1
+245,diversity-3pagerank1peel-1degree-1,pagerank1peel-1degree-1
+246,diversity-2pagerank2peel-1degree-1,pagerank2peel-1degree-1
+247,diversity0pagerank2peel-1degree-1,pagerank2peel-1degree-1
+248,diversity1pagerank2peel-1degree-1,pagerank2peel-1degree-1
+249,diversity0pagerank3peel-1degree-1,pagerank3peel-1degree-1
+250,diversity-1pagerank3peel-1degree-1,pagerank3peel-1degree-1
+251,diversity0pagerank-1peel2degree-1,pagerank-1peel2degree-1
+252,diversity-1pagerank-1peel2degree-1,pagerank-1peel2degree-1
+253,diversity1pagerank-1peel2degree-1,pagerank-1peel2degree-1
+254,diversity-2pagerank-1peel2degree-1,pagerank-1peel2degree-1
+255,diversity0pagerank2peel2degree-1,pagerank2peel2degree-1
+256,diversity0pagerank0peel2degree-1,pagerank0peel2degree-1
+257,diversity-2pagerank0peel2degree-1,pagerank0peel2degree-1
+258,diversity-1pagerank0peel2degree-1,pagerank0peel2degree-1
+259,diversity1pagerank0peel2degree-1,pagerank0peel2degree-1
+260,diversity-1pagerank-2peel2degree-1,pagerank-2peel2degree-1
+261,diversity1pagerank-2peel2degree-1,pagerank-2peel2degree-1
+262,diversity0pagerank1peel2degree-1,pagerank1peel2degree-1
+263,diversity0pagerank0peel3degree-1,pagerank0peel3degree-1
+264,diversity-1pagerank0peel-1degree1,pagerank0peel-1degree1
+265,diversity0pagerank0peel-1degree1,pagerank0peel-1degree1
+266,diversity-2pagerank0peel-1degree1,pagerank0peel-1degree1
+267,diversity1pagerank0peel-1degree1,pagerank0peel-1degree1
+268,diversity0pagerank-1peel-1degree1,pagerank-1peel-1degree1
+269,diversity-1pagerank-1peel-1degree1,pagerank-1peel-1degree1
+270,diversity-1pagerank-2peel-1degree1,pagerank-2peel-1degree1
+271,diversity0pagerank-2peel-1degree1,pagerank-2peel-1degree1
+272,diversity0pagerank1peel-1degree1,pagerank1peel-1degree1
+273,diversity-1pagerank-2peel0degree1,pagerank-2peel0degree1
+274,diversity0pagerank-2peel0degree1,pagerank-2peel0degree1
+275,diversity0pagerank0peel0degree1,pagerank0peel0degree1
+276,diversity-2pagerank0peel0degree1,pagerank0peel0degree1
+277,diversity-1pagerank0peel0degree1,pagerank0peel0degree1
+278,diversity-1pagerank-1peel0degree1,pagerank-1peel0degree1
+279,diversity1pagerank-1peel0degree1,pagerank-1peel0degree1
+280,diversity-1pagerank1peel0degree1,pagerank1peel0degree1
+281,diversity0pagerank1peel0degree1,pagerank1peel0degree1
+282,diversity0pagerank0peel-2degree1,pagerank0peel-2degree1
+283,diversity0pagerank-1peel-3degree1,pagerank-1peel-3degree1
+284,diversity0pagerank0peel-3degree1,pagerank0peel-3degree1
+285,diversity0pagerank-1peel1degree1,pagerank-1peel1degree1
+286,diversity0pagerank0peel1degree1,pagerank0peel1degree1
+287,diversity0pagerank0peel0degree6,pagerank0peel0degree6
+288,diversity0pagerank-1peel0degree6,pagerank-1peel0degree6
+289,diversity0pagerank0peel0degree2,pagerank0peel0degree2
+290,diversity-1pagerank0peel0degree2,pagerank0peel0degree2
+291,diversity0pagerank1peel0degree2,pagerank1peel0degree2
+292,diversity-1pagerank1peel0degree2,pagerank1peel0degree2
+293,diversity0pagerank-2peel0degree2,pagerank-2peel0degree2
+294,diversity-1pagerank-1peel0degree2,pagerank-1peel0degree2
+295,diversity0pagerank-1peel0degree2,pagerank-1peel0degree2
+296,diversity0pagerank-1peel-2degree2,pagerank-1peel-2degree2
+297,diversity-1pagerank-1peel-2degree2,pagerank-1peel-2degree2
+298,diversity0pagerank1peel-2degree2,pagerank1peel-2degree2
+299,diversity0pagerank0peel-2degree3,pagerank0peel-2degree3
+300,diversity0pagerank0peel0degree3,pagerank0peel0degree3
+301,diversity0pagerank-1peel0degree3,pagerank-1peel0degree3
+302,diversity0pagerank-2peel0degree5,pagerank-2peel0degree5
+303,diversity0pagerank1peel0degree5,pagerank1peel0degree5
+304,diversity0pagerank0peel0degree5,pagerank0peel0degree5
+305,diversity0pagerank-1peel0degree5,pagerank-1peel0degree5
+306,diversity0pagerank0peel-2degree5,pagerank0peel-2degree5
+307,diversity0pagerank0peel0degree7,pagerank0peel0degree7
+308,diversity0pagerank-1peel0degree7,pagerank-1peel0degree7
+309,diversity0pagerank0peel0degree4,pagerank0peel0degree4
+310,diversity0pagerank-1peel0degree4,pagerank-1peel0degree4
+311,diversity0pagerank0peel-2degree4,pagerank0peel-2degree4
+312,diversity0pagerank0peel0degree8,pagerank0peel0degree8
+313,diversity0pagerank0peel0degree9,pagerank0peel0degree9
+314,betweenness0diversity-1pagerank-2peel1degree0,diversity-1pagerank-2peel1degree0
+315,betweenness0diversity0pagerank-2peel1degree0,diversity0pagerank-2peel1degree0
+316,betweenness0diversity0pagerank1peel1degree0,diversity0pagerank1peel1degree0
+317,betweenness0diversity-2pagerank0peel1degree0,diversity-2pagerank0peel1degree0
+318,betweenness-1diversity0pagerank0peel1degree0,diversity0pagerank0peel1degree0
+319,betweenness1diversity0pagerank0peel1degree0,diversity0pagerank0peel1degree0
+320,betweenness0diversity-1pagerank0peel1degree0,diversity-1pagerank0peel1degree0
+321,betweenness0diversity-1pagerank-1peel1degree0,diversity-1pagerank-1peel1degree0
+322,betweenness-1diversity0pagerank-1peel1degree0,diversity0pagerank-1peel1degree0
+323,betweenness0diversity0pagerank-1peel1degree0,diversity0pagerank-1peel1degree0
+324,betweenness0diversity-2pagerank-1peel1degree0,diversity-2pagerank-1peel1degree0
+325,betweenness0diversity0pagerank2peel1degree0,diversity0pagerank2peel1degree0
+326,betweenness1diversity-1pagerank-1peel-2degree0,diversity-1pagerank-1peel-2degree0
+327,betweenness-1diversity-1pagerank-1peel-2degree0,diversity-1pagerank-1peel-2degree0
+328,betweenness-1diversity0pagerank-1peel-2degree0,diversity0pagerank-1peel-2degree0
+329,betweenness1diversity0pagerank-1peel-2degree0,diversity0pagerank-1peel-2degree0
+330,betweenness0diversity-3pagerank-1peel-2degree0,diversity-3pagerank-1peel-2degree0
+331,betweenness-1diversity1pagerank-1peel-2degree0,diversity1pagerank-1peel-2degree0
+332,betweenness0diversity1pagerank-1peel-2degree0,diversity1pagerank-1peel-2degree0
+333,betweenness0diversity-1pagerank2peel-2degree0,diversity-1pagerank2peel-2degree0
+334,betweenness0diversity0pagerank2peel-2degree0,diversity0pagerank2peel-2degree0
+335,betweenness0diversity-1pagerank0peel-2degree0,diversity-1pagerank0peel-2degree0
+336,betweenness0diversity0pagerank0peel-2degree0,diversity0pagerank0peel-2degree0
+337,betweenness1diversity1pagerank0peel-1degree0,diversity1pagerank0peel-1degree0
+338,betweenness-1diversity1pagerank0peel-1degree0,diversity1pagerank0peel-1degree0
+339,betweenness-2diversity-1pagerank0peel-1degree0,diversity-1pagerank0peel-1degree0
+340,betweenness0diversity-1pagerank0peel-1degree0,diversity-1pagerank0peel-1degree0
+341,betweenness-1diversity-1pagerank0peel-1degree0,diversity-1pagerank0peel-1degree0
+342,betweenness-1diversity0pagerank0peel-1degree0,diversity0pagerank0peel-1degree0
+343,betweenness0diversity0pagerank0peel-1degree0,diversity0pagerank0peel-1degree0
+344,betweenness0diversity-2pagerank0peel-1degree0,diversity-2pagerank0peel-1degree0
+345,betweenness0diversity0pagerank-1peel-1degree0,diversity0pagerank-1peel-1degree0
+346,betweenness1diversity0pagerank-1peel-1degree0,diversity0pagerank-1peel-1degree0
+347,betweenness-1diversity0pagerank-1peel-1degree0,diversity0pagerank-1peel-1degree0
+348,betweenness-2diversity0pagerank-1peel-1degree0,diversity0pagerank-1peel-1degree0
+349,betweenness-1diversity-1pagerank-1peel-1degree0,diversity-1pagerank-1peel-1degree0
+350,betweenness1diversity-1pagerank-1peel-1degree0,diversity-1pagerank-1peel-1degree0
+351,betweenness0diversity-3pagerank-1peel-1degree0,diversity-3pagerank-1peel-1degree0
+352,betweenness1diversity-2pagerank-1peel-1degree0,diversity-2pagerank-1peel-1degree0
+353,betweenness-1diversity-2pagerank-1peel-1degree0,diversity-2pagerank-1peel-1degree0
+354,betweenness-1diversity1pagerank-1peel-1degree0,diversity1pagerank-1peel-1degree0
+355,betweenness1diversity1pagerank-1peel-1degree0,diversity1pagerank-1peel-1degree0
+356,betweenness0diversity1pagerank-1peel-1degree0,diversity1pagerank-1peel-1degree0
+357,betweenness0diversity-3pagerank1peel-1degree0,diversity-3pagerank1peel-1degree0
+358,betweenness0diversity1pagerank1peel-1degree0,diversity1pagerank1peel-1degree0
+359,betweenness1diversity0pagerank1peel-1degree0,diversity0pagerank1peel-1degree0
+360,betweenness-1diversity0pagerank1peel-1degree0,diversity0pagerank1peel-1degree0
+361,betweenness0diversity-1pagerank1peel-1degree0,diversity-1pagerank1peel-1degree0
+362,betweenness0diversity0pagerank-2peel-1degree0,diversity0pagerank-2peel-1degree0
+363,betweenness-1diversity0pagerank-2peel-1degree0,diversity0pagerank-2peel-1degree0
+364,betweenness0diversity1pagerank-2peel-1degree0,diversity1pagerank-2peel-1degree0
+365,betweenness0diversity-2pagerank-2peel-1degree0,diversity-2pagerank-2peel-1degree0
+366,betweenness0diversity-1pagerank-2peel-1degree0,diversity-1pagerank-2peel-1degree0
+367,betweenness0diversity0pagerank3peel-1degree0,diversity0pagerank3peel-1degree0
+368,betweenness0diversity0pagerank2peel-1degree0,diversity0pagerank2peel-1degree0
+369,betweenness-1diversity-2pagerank-1peel0degree0,diversity-2pagerank-1peel0degree0
+370,betweenness1diversity-2pagerank-1peel0degree0,diversity-2pagerank-1peel0degree0
+371,betweenness1diversity0pagerank-1peel0degree0,diversity0pagerank-1peel0degree0
+372,betweenness-1diversity0pagerank-1peel0degree0,diversity0pagerank-1peel0degree0
+373,betweenness-1diversity1pagerank-1peel0degree0,diversity1pagerank-1peel0degree0
+374,betweenness0diversity1pagerank-1peel0degree0,diversity1pagerank-1peel0degree0
+375,betweenness0diversity-1pagerank-1peel0degree0,diversity-1pagerank-1peel0degree0
+376,betweenness-1diversity-1pagerank-1peel0degree0,diversity-1pagerank-1peel0degree0
+377,betweenness1diversity0pagerank0peel0degree0,diversity0pagerank0peel0degree0
+378,betweenness-2diversity0pagerank0peel0degree0,diversity0pagerank0peel0degree0
+379,betweenness-1diversity0pagerank0peel0degree0,diversity0pagerank0peel0degree0
+380,betweenness0diversity0pagerank0peel0degree0,diversity0pagerank0peel0degree0
+381,betweenness0diversity-2pagerank0peel0degree0,diversity-2pagerank0peel0degree0
+382,betweenness-1diversity-1pagerank0peel0degree0,diversity-1pagerank0peel0degree0
+383,betweenness1diversity-1pagerank0peel0degree0,diversity-1pagerank0peel0degree0
+384,betweenness-1diversity1pagerank0peel0degree0,diversity1pagerank0peel0degree0
+385,betweenness0diversity1pagerank0peel0degree0,diversity1pagerank0peel0degree0
+386,betweenness0diversity1pagerank-2peel0degree0,diversity1pagerank-2peel0degree0
+387,betweenness-2diversity1pagerank-2peel0degree0,diversity1pagerank-2peel0degree0
+388,betweenness-2diversity-2pagerank-2peel0degree0,diversity-2pagerank-2peel0degree0
+389,betweenness0diversity-2pagerank-2peel0degree0,diversity-2pagerank-2peel0degree0
+390,betweenness-1diversity-1pagerank-2peel0degree0,diversity-1pagerank-2peel0degree0
+391,betweenness0diversity-1pagerank-2peel0degree0,diversity-1pagerank-2peel0degree0
+392,betweenness-1diversity0pagerank-2peel0degree0,diversity0pagerank-2peel0degree0
+393,betweenness1diversity0pagerank-2peel0degree0,diversity0pagerank-2peel0degree0
+394,betweenness0diversity0pagerank1peel0degree0,diversity0pagerank1peel0degree0
+395,betweenness-2diversity0pagerank1peel0degree0,diversity0pagerank1peel0degree0
+396,betweenness1diversity-1pagerank1peel0degree0,diversity-1pagerank1peel0degree0
+397,betweenness-1diversity-1pagerank1peel0degree0,diversity-1pagerank1peel0degree0
+398,betweenness0diversity-2pagerank1peel0degree0,diversity-2pagerank1peel0degree0
+399,betweenness0diversity1pagerank1peel0degree0,diversity1pagerank1peel0degree0
+400,betweenness0diversity0pagerank2peel0degree0,diversity0pagerank2peel0degree0
+401,betweenness0diversity0pagerank-2peel2degree0,diversity0pagerank-2peel2degree0
+402,betweenness-1diversity0pagerank-1peel2degree0,diversity0pagerank-1peel2degree0
+403,betweenness0diversity0pagerank-1peel2degree0,diversity0pagerank-1peel2degree0
+404,betweenness0diversity-2pagerank-1peel2degree0,diversity-2pagerank-1peel2degree0
+405,betweenness0diversity0pagerank1peel2degree0,diversity0pagerank1peel2degree0
+406,betweenness0diversity0pagerank0peel2degree0,diversity0pagerank0peel2degree0
+407,betweenness0diversity0pagerank0peel-3degree0,diversity0pagerank0peel-3degree0
+408,betweenness-1diversity0pagerank-2peel1degree-1,diversity0pagerank-2peel1degree-1
+409,betweenness0diversity0pagerank-2peel1degree-1,diversity0pagerank-2peel1degree-1
+410,betweenness1diversity0pagerank-2peel1degree-1,diversity0pagerank-2peel1degree-1
+411,betweenness-1diversity-1pagerank-2peel1degree-1,diversity-1pagerank-2peel1degree-1
+412,betweenness1diversity-1pagerank-2peel1degree-1,diversity-1pagerank-2peel1degree-1
+413,betweenness1diversity1pagerank-2peel1degree-1,diversity1pagerank-2peel1degree-1
+414,betweenness-1diversity1pagerank-2peel1degree-1,diversity1pagerank-2peel1degree-1
+415,betweenness0diversity-2pagerank-2peel1degree-1,diversity-2pagerank-2peel1degree-1
+416,betweenness-1diversity0pagerank0peel1degree-1,diversity0pagerank0peel1degree-1
+417,betweenness1diversity0pagerank0peel1degree-1,diversity0pagerank0peel1degree-1
+418,betweenness0diversity0pagerank0peel1degree-1,diversity0pagerank0peel1degree-1
+419,betweenness-1diversity-1pagerank0peel1degree-1,diversity-1pagerank0peel1degree-1
+420,betweenness1diversity-1pagerank0peel1degree-1,diversity-1pagerank0peel1degree-1
+421,betweenness-1diversity-2pagerank0peel1degree-1,diversity-2pagerank0peel1degree-1
+422,betweenness1diversity-2pagerank0peel1degree-1,diversity-2pagerank0peel1degree-1
+423,betweenness0diversity1pagerank0peel1degree-1,diversity1pagerank0peel1degree-1
+424,betweenness-1diversity1pagerank0peel1degree-1,diversity1pagerank0peel1degree-1
+425,betweenness-2diversity1pagerank0peel1degree-1,diversity1pagerank0peel1degree-1
+426,betweenness1diversity-3pagerank0peel1degree-1,diversity-3pagerank0peel1degree-1
+427,betweenness-1diversity-3pagerank0peel1degree-1,diversity-3pagerank0peel1degree-1
+428,betweenness-1diversity0pagerank-1peel1degree-1,diversity0pagerank-1peel1degree-1
+429,betweenness0diversity0pagerank-1peel1degree-1,diversity0pagerank-1peel1degree-1
+430,betweenness2diversity0pagerank-1peel1degree-1,diversity0pagerank-1peel1degree-1
+431,betweenness-1diversity-2pagerank-1peel1degree-1,diversity-2pagerank-1peel1degree-1
+432,betweenness2diversity-2pagerank-1peel1degree-1,diversity-2pagerank-1peel1degree-1
+433,betweenness1diversity-2pagerank-1peel1degree-1,diversity-2pagerank-1peel1degree-1
+434,betweenness0diversity-2pagerank-1peel1degree-1,diversity-2pagerank-1peel1degree-1
+435,betweenness1diversity1pagerank-1peel1degree-1,diversity1pagerank-1peel1degree-1
+436,betweenness-1diversity1pagerank-1peel1degree-1,diversity1pagerank-1peel1degree-1
+437,betweenness0diversity1pagerank-1peel1degree-1,diversity1pagerank-1peel1degree-1
+438,betweenness-1diversity-1pagerank-1peel1degree-1,diversity-1pagerank-1peel1degree-1
+439,betweenness2diversity-1pagerank-1peel1degree-1,diversity-1pagerank-1peel1degree-1
+440,betweenness3diversity-1pagerank-1peel1degree-1,diversity-1pagerank-1peel1degree-1
+441,betweenness0diversity-1pagerank-1peel1degree-1,diversity-1pagerank-1peel1degree-1
+442,betweenness0diversity-4pagerank-1peel1degree-1,diversity-4pagerank-1peel1degree-1
+443,betweenness0diversity-1pagerank1peel1degree-1,diversity-1pagerank1peel1degree-1
+444,betweenness-1diversity-1pagerank1peel1degree-1,diversity-1pagerank1peel1degree-1
+445,betweenness-1diversity-2pagerank1peel1degree-1,diversity-2pagerank1peel1degree-1
+446,betweenness0diversity-2pagerank1peel1degree-1,diversity-2pagerank1peel1degree-1
+447,betweenness1diversity0pagerank1peel1degree-1,diversity0pagerank1peel1degree-1
+448,betweenness-1diversity0pagerank1peel1degree-1,diversity0pagerank1peel1degree-1
+449,betweenness0diversity1pagerank1peel1degree-1,diversity1pagerank1peel1degree-1
+450,betweenness-1diversity1pagerank1peel1degree-1,diversity1pagerank1peel1degree-1
+451,betweenness-1diversity0pagerank2peel1degree-1,diversity0pagerank2peel1degree-1
+452,betweenness0diversity0pagerank2peel1degree-1,diversity0pagerank2peel1degree-1
+453,betweenness0diversity-2pagerank2peel1degree-1,diversity-2pagerank2peel1degree-1
+454,betweenness0diversity0pagerank6peel1degree-1,diversity0pagerank6peel1degree-1
+455,betweenness0diversity0pagerank-1peel-2degree-1,diversity0pagerank-1peel-2degree-1
+456,betweenness-1diversity1pagerank1peel-2degree-1,diversity1pagerank1peel-2degree-1
+457,betweenness0diversity-1pagerank1peel-2degree-1,diversity-1pagerank1peel-2degree-1
+458,betweenness0diversity0pagerank0peel-2degree-1,diversity0pagerank0peel-2degree-1
+459,betweenness0diversity-1pagerank4peel-2degree-1,diversity-1pagerank4peel-2degree-1
+460,betweenness0diversity0pagerank4peel-2degree-1,diversity0pagerank4peel-2degree-1
+461,betweenness-1diversity0pagerank2peel-2degree-1,diversity0pagerank2peel-2degree-1
+462,betweenness0diversity-2pagerank2peel-2degree-1,diversity-2pagerank2peel-2degree-1
+463,betweenness0diversity0pagerank3peel-2degree-1,diversity0pagerank3peel-2degree-1
+464,betweenness-1diversity1pagerank0peel0degree-1,diversity1pagerank0peel0degree-1
+465,betweenness1diversity1pagerank0peel0degree-1,diversity1pagerank0peel0degree-1
+466,betweenness2diversity-1pagerank0peel0degree-1,diversity-1pagerank0peel0degree-1
+467,betweenness-1diversity-1pagerank0peel0degree-1,diversity-1pagerank0peel0degree-1
+468,betweenness0diversity-1pagerank0peel0degree-1,diversity-1pagerank0peel0degree-1
+469,betweenness-1diversity0pagerank0peel0degree-1,diversity0pagerank0peel0degree-1
+470,betweenness1diversity0pagerank0peel0degree-1,diversity0pagerank0peel0degree-1
+471,betweenness0diversity-2pagerank0peel0degree-1,diversity-2pagerank0peel0degree-1
+472,betweenness-1diversity-2pagerank-1peel0degree-1,diversity-2pagerank-1peel0degree-1
+473,betweenness4diversity-2pagerank-1peel0degree-1,diversity-2pagerank-1peel0degree-1
+474,betweenness0diversity-2pagerank-1peel0degree-1,diversity-2pagerank-1peel0degree-1
+475,betweenness-1diversity1pagerank-1peel0degree-1,diversity1pagerank-1peel0degree-1
+476,betweenness1diversity1pagerank-1peel0degree-1,diversity1pagerank-1peel0degree-1
+477,betweenness0diversity1pagerank-1peel0degree-1,diversity1pagerank-1peel0degree-1
+478,betweenness-1diversity0pagerank-1peel0degree-1,diversity0pagerank-1peel0degree-1
+479,betweenness0diversity0pagerank-1peel0degree-1,diversity0pagerank-1peel0degree-1
+480,betweenness4diversity0pagerank-1peel0degree-1,diversity0pagerank-1peel0degree-1
+481,betweenness2diversity0pagerank-1peel0degree-1,diversity0pagerank-1peel0degree-1
+482,betweenness0diversity-4pagerank-1peel0degree-1,diversity-4pagerank-1peel0degree-1
+483,betweenness1diversity0pagerank2peel0degree-1,diversity0pagerank2peel0degree-1
+484,betweenness-1diversity0pagerank2peel0degree-1,diversity0pagerank2peel0degree-1
+485,betweenness0diversity-2pagerank2peel0degree-1,diversity-2pagerank2peel0degree-1
+486,betweenness0diversity-1pagerank2peel0degree-1,diversity-1pagerank2peel0degree-1
+487,betweenness0diversity-1pagerank-2peel0degree-1,diversity-1pagerank-2peel0degree-1
+488,betweenness0diversity1pagerank-2peel0degree-1,diversity1pagerank-2peel0degree-1
+489,betweenness1diversity0pagerank1peel0degree-1,diversity0pagerank1peel0degree-1
+490,betweenness-1diversity0pagerank1peel0degree-1,diversity0pagerank1peel0degree-1
+491,betweenness1diversity-1pagerank1peel0degree-1,diversity-1pagerank1peel0degree-1
+492,betweenness-1diversity-1pagerank1peel0degree-1,diversity-1pagerank1peel0degree-1
+493,betweenness0diversity-2pagerank1peel0degree-1,diversity-2pagerank1peel0degree-1
+494,betweenness0diversity0pagerank4peel0degree-1,diversity0pagerank4peel0degree-1
+495,betweenness0diversity0pagerank4peel-1degree-1,diversity0pagerank4peel-1degree-1
+496,betweenness-1diversity-3pagerank-1peel-1degree-1,diversity-3pagerank-1peel-1degree-1
+497,betweenness4diversity-3pagerank-1peel-1degree-1,diversity-3pagerank-1peel-1degree-1
+498,betweenness-1diversity0pagerank-1peel-1degree-1,diversity0pagerank-1peel-1degree-1
+499,betweenness7diversity0pagerank-1peel-1degree-1,diversity0pagerank-1peel-1degree-1
+500,betweenness0diversity0pagerank-1peel-1degree-1,diversity0pagerank-1peel-1degree-1
+501,betweenness3diversity0pagerank-1peel-1degree-1,diversity0pagerank-1peel-1degree-1
+502,betweenness0diversity1pagerank0peel-1degree-1,diversity1pagerank0peel-1degree-1
+503,betweenness1diversity1pagerank0peel-1degree-1,diversity1pagerank0peel-1degree-1
+504,betweenness-1diversity1pagerank0peel-1degree-1,diversity1pagerank0peel-1degree-1
+505,betweenness-2diversity1pagerank0peel-1degree-1,diversity1pagerank0peel-1degree-1
+506,betweenness-1diversity0pagerank0peel-1degree-1,diversity0pagerank0peel-1degree-1
+507,betweenness1diversity0pagerank0peel-1degree-1,diversity0pagerank0peel-1degree-1
+508,betweenness4diversity0pagerank0peel-1degree-1,diversity0pagerank0peel-1degree-1
+509,betweenness0diversity-3pagerank0peel-1degree-1,diversity-3pagerank0peel-1degree-1
+510,betweenness0diversity0pagerank1peel-1degree-1,diversity0pagerank1peel-1degree-1
+511,betweenness-2diversity0pagerank1peel-1degree-1,diversity0pagerank1peel-1degree-1
+512,betweenness-3diversity0pagerank1peel-1degree-1,diversity0pagerank1peel-1degree-1
+513,betweenness-1diversity-1pagerank1peel-1degree-1,diversity-1pagerank1peel-1degree-1
+514,betweenness1diversity-1pagerank1peel-1degree-1,diversity-1pagerank1peel-1degree-1
+515,betweenness0diversity-3pagerank1peel-1degree-1,diversity-3pagerank1peel-1degree-1
+516,betweenness-1diversity-2pagerank2peel-1degree-1,diversity-2pagerank2peel-1degree-1
+517,betweenness0diversity-2pagerank2peel-1degree-1,diversity-2pagerank2peel-1degree-1
+518,betweenness-1diversity0pagerank2peel-1degree-1,diversity0pagerank2peel-1degree-1
+519,betweenness0diversity0pagerank2peel-1degree-1,diversity0pagerank2peel-1degree-1
+520,betweenness0diversity1pagerank2peel-1degree-1,diversity1pagerank2peel-1degree-1
+521,betweenness0diversity0pagerank3peel-1degree-1,diversity0pagerank3peel-1degree-1
+522,betweenness0diversity-1pagerank3peel-1degree-1,diversity-1pagerank3peel-1degree-1
+523,betweenness-1diversity0pagerank-1peel2degree-1,diversity0pagerank-1peel2degree-1
+524,betweenness1diversity0pagerank-1peel2degree-1,diversity0pagerank-1peel2degree-1
+525,betweenness0diversity-1pagerank-1peel2degree-1,diversity-1pagerank-1peel2degree-1
+526,betweenness0diversity1pagerank-1peel2degree-1,diversity1pagerank-1peel2degree-1
+527,betweenness0diversity-2pagerank-1peel2degree-1,diversity-2pagerank-1peel2degree-1
+528,betweenness0diversity0pagerank2peel2degree-1,diversity0pagerank2peel2degree-1
+529,betweenness-1diversity0pagerank0peel2degree-1,diversity0pagerank0peel2degree-1
+530,betweenness1diversity0pagerank0peel2degree-1,diversity0pagerank0peel2degree-1
+531,betweenness0diversity-2pagerank0peel2degree-1,diversity-2pagerank0peel2degree-1
+532,betweenness0diversity-1pagerank0peel2degree-1,diversity-1pagerank0peel2degree-1
+533,betweenness-1diversity-1pagerank0peel2degree-1,diversity-1pagerank0peel2degree-1
+534,betweenness0diversity1pagerank0peel2degree-1,diversity1pagerank0peel2degree-1
+535,betweenness0diversity-1pagerank-2peel2degree-1,diversity-1pagerank-2peel2degree-1
+536,betweenness-1diversity-1pagerank-2peel2degree-1,diversity-1pagerank-2peel2degree-1
+537,betweenness0diversity1pagerank-2peel2degree-1,diversity1pagerank-2peel2degree-1
+538,betweenness0diversity0pagerank1peel2degree-1,diversity0pagerank1peel2degree-1
+539,betweenness0diversity0pagerank0peel3degree-1,diversity0pagerank0peel3degree-1
+540,betweenness0diversity-1pagerank0peel-1degree1,diversity-1pagerank0peel-1degree1
+541,betweenness-1diversity-1pagerank0peel-1degree1,diversity-1pagerank0peel-1degree1
+542,betweenness-1diversity0pagerank0peel-1degree1,diversity0pagerank0peel-1degree1
+543,betweenness0diversity0pagerank0peel-1degree1,diversity0pagerank0peel-1degree1
+544,betweenness0diversity-2pagerank0peel-1degree1,diversity-2pagerank0peel-1degree1
+545,betweenness0diversity1pagerank0peel-1degree1,diversity1pagerank0peel-1degree1
+546,betweenness0diversity0pagerank-1peel-1degree1,diversity0pagerank-1peel-1degree1
+547,betweenness0diversity-1pagerank-1peel-1degree1,diversity-1pagerank-1peel-1degree1
+548,betweenness0diversity-1pagerank-2peel-1degree1,diversity-1pagerank-2peel-1degree1
+549,betweenness0diversity0pagerank-2peel-1degree1,diversity0pagerank-2peel-1degree1
+550,betweenness0diversity0pagerank1peel-1degree1,diversity0pagerank1peel-1degree1
+551,betweenness0diversity-1pagerank-2peel0degree1,diversity-1pagerank-2peel0degree1
+552,betweenness0diversity0pagerank-2peel0degree1,diversity0pagerank-2peel0degree1
+553,betweenness-1diversity0pagerank0peel0degree1,diversity0pagerank0peel0degree1
+554,betweenness1diversity0pagerank0peel0degree1,diversity0pagerank0peel0degree1
+555,betweenness0diversity-2pagerank0peel0degree1,diversity-2pagerank0peel0degree1
+556,betweenness0diversity-1pagerank0peel0degree1,diversity-1pagerank0peel0degree1
+557,betweenness-1diversity-1pagerank-1peel0degree1,diversity-1pagerank-1peel0degree1
+558,betweenness1diversity-1pagerank-1peel0degree1,diversity-1pagerank-1peel0degree1
+559,betweenness-1diversity1pagerank-1peel0degree1,diversity1pagerank-1peel0degree1
+560,betweenness0diversity1pagerank-1peel0degree1,diversity1pagerank-1peel0degree1
+561,betweenness0diversity-1pagerank1peel0degree1,diversity-1pagerank1peel0degree1
+562,betweenness0diversity0pagerank1peel0degree1,diversity0pagerank1peel0degree1
+563,betweenness0diversity0pagerank0peel-2degree1,diversity0pagerank0peel-2degree1
+564,betweenness0diversity0pagerank-1peel-3degree1,diversity0pagerank-1peel-3degree1
+565,betweenness0diversity0pagerank0peel-3degree1,diversity0pagerank0peel-3degree1
+566,betweenness0diversity0pagerank-1peel1degree1,diversity0pagerank-1peel1degree1
+567,betweenness0diversity0pagerank0peel1degree1,diversity0pagerank0peel1degree1
+568,betweenness0diversity0pagerank0peel0degree6,diversity0pagerank0peel0degree6
+569,betweenness0diversity0pagerank-1peel0degree6,diversity0pagerank-1peel0degree6
+570,betweenness0diversity0pagerank0peel0degree2,diversity0pagerank0peel0degree2
+571,betweenness0diversity-1pagerank0peel0degree2,diversity-1pagerank0peel0degree2
+572,betweenness0diversity0pagerank1peel0degree2,diversity0pagerank1peel0degree2
+573,betweenness0diversity-1pagerank1peel0degree2,diversity-1pagerank1peel0degree2
+574,betweenness0diversity0pagerank-2peel0degree2,diversity0pagerank-2peel0degree2
+575,betweenness0diversity-1pagerank-1peel0degree2,diversity-1pagerank-1peel0degree2
+576,betweenness0diversity0pagerank-1peel0degree2,diversity0pagerank-1peel0degree2
+577,betweenness0diversity0pagerank-1peel-2degree2,diversity0pagerank-1peel-2degree2
+578,betweenness0diversity-1pagerank-1peel-2degree2,diversity-1pagerank-1peel-2degree2
+579,betweenness0diversity0pagerank1peel-2degree2,diversity0pagerank1peel-2degree2
+580,betweenness0diversity0pagerank0peel-2degree3,diversity0pagerank0peel-2degree3
+581,betweenness0diversity0pagerank0peel0degree3,diversity0pagerank0peel0degree3
+582,betweenness0diversity0pagerank-1peel0degree3,diversity0pagerank-1peel0degree3
+583,betweenness0diversity0pagerank-2peel0degree5,diversity0pagerank-2peel0degree5
+584,betweenness0diversity0pagerank1peel0degree5,diversity0pagerank1peel0degree5
+585,betweenness0diversity0pagerank0peel0degree5,diversity0pagerank0peel0degree5
+586,betweenness0diversity0pagerank-1peel0degree5,diversity0pagerank-1peel0degree5
+587,betweenness0diversity0pagerank0peel-2degree5,diversity0pagerank0peel-2degree5
+588,betweenness0diversity0pagerank0peel0degree7,diversity0pagerank0peel0degree7
+589,betweenness0diversity0pagerank-1peel0degree7,diversity0pagerank-1peel0degree7
+590,betweenness0diversity0pagerank0peel0degree4,diversity0pagerank0peel0degree4
+591,betweenness0diversity0pagerank-1peel0degree4,diversity0pagerank-1peel0degree4
+592,betweenness0diversity0pagerank0peel-2degree4,diversity0pagerank0peel-2degree4
+593,betweenness0diversity0pagerank0peel0degree8,diversity0pagerank0peel0degree8
+594,betweenness0diversity0pagerank0peel0degree9,diversity0pagerank0peel0degree9
+595,"('name:Addam Marbrand degree:12 peel:10 diversity:1.198849313 betweenness:', '0.000469682 pagerank:0.000813212')",betweenness0diversity-1pagerank-2peel1degree0
+596,"('name:Balon Swann degree:16 peel:11 diversity:1.541976433 betweenness:', '0.003599005 pagerank:0.001195924')",betweenness0diversity0pagerank-2peel1degree0
+597,"('name:Aerys II Targaryen degree:19 peel:10 diversity:1.70407034 betweenness:', '0.014068789 pagerank:0.002867744')",betweenness0diversity0pagerank1peel1degree0
+598,"('name:Beric Dondarrion degree:18 peel:10 diversity:1.351039416 betweenness:', '0.002139778 pagerank:0.002079181')",betweenness0diversity-2pagerank0peel1degree0
+599,"('name:Brynden Tully degree:19 peel:10 diversity:1.986266518 betweenness:', '0.002227036 pagerank:0.002297805')",betweenness-1diversity0pagerank0peel1degree0
+600,"('name:Osmund Kettleblack degree:18 peel:11 diversity:1.873510521 betweenness:', '0.000670672 pagerank:0.002282676')",betweenness-1diversity0pagerank0peel1degree0
+601,"('name:Walder Frey degree:19 peel:10 diversity:1.986266518 betweenness:', '0.006634157 pagerank:0.002404955')",betweenness1diversity0pagerank0peel1degree0
+602,"('name:Kevan Lannister degree:17 peel:11 diversity:1.506883349 betweenness:', '0.001893308 pagerank:0.002255223')",betweenness0diversity-1pagerank0peel1degree0
+603,"('name:Boros Blount degree:14 peel:11 diversity:1.536722469 betweenness:', '0.000227913 pagerank:0.001547904')",betweenness0diversity-1pagerank-1peel1degree0
+604,"('name:Gyles Rosby degree:18 peel:10 diversity:1.923068868 betweenness:', '0.000415441 pagerank:0.001277748')",betweenness-1diversity0pagerank-1peel1degree0
+605,"('name:Qyburn degree:18 peel:10 diversity:1.719477814 betweenness:', '0.001700923 pagerank:0.001629493')",betweenness0diversity0pagerank-1peel1degree0
+606,"('name:Mordane degree:11 peel:10 diversity:1.033562054 betweenness:', '0.000477052 pagerank:0.001621421')",betweenness0diversity-2pagerank-1peel1degree0
+607,"('name:Rickon Stark degree:17 peel:10 diversity:1.466907105 betweenness:', '0.001981032 pagerank:0.003680916')",betweenness0diversity0pagerank2peel1degree0
+608,"('name:Aegon I Targaryen degree:9 peel:5 diversity:1.464816385 betweenness:', '0.006891002 pagerank:0.001100074')",betweenness1diversity-1pagerank-1peel-2degree0
+609,"('name:Garin (orphan) degree:9 peel:5 diversity:1.427061043 betweenness:', '0.000798417 pagerank:0.001327989')",betweenness-1diversity-1pagerank-1peel-2degree0
+610,"('name:Halder degree:8 peel:5 diversity:1.386294361 betweenness:', '4.41e-05 pagerank:0.000931331')",betweenness-1diversity-1pagerank-1peel-2degree0
+611,"('name:Emmon Frey degree:8 peel:5 diversity:1.559581156 betweenness:', '0.000464205 pagerank:0.000830611')",betweenness-1diversity0pagerank-1peel-2degree0
+612,"('name:Hareth (Moles Town) degree:11 peel:5 diversity:1.641734712 betweenness:', '0.002203437 pagerank:0.001266545')",betweenness-1diversity0pagerank-1peel-2degree0
+613,"('name:Rorge degree:9 peel:5 diversity:1.522955068 betweenness:', '0.000417866 pagerank:0.001253026')",betweenness-1diversity0pagerank-1peel-2degree0
+614,"('name:Yohn Royce degree:8 peel:4 diversity:1.494175138 betweenness:', '0.001976174 pagerank:0.000829984')",betweenness-1diversity0pagerank-1peel-2degree0
+615,"('name:Gerold Hightower degree:8 peel:5 diversity:1.494175138 betweenness:', '0.008395747 pagerank:0.001095867')",betweenness1diversity0pagerank-1peel-2degree0
+616,"('name:Tattered Prince degree:8 peel:4 diversity:1.073542846 betweenness:', '0.005877204 pagerank:0.001280541')",betweenness0diversity-3pagerank-1peel-2degree0
+617,"('name:Thoren Smallwood degree:9 peel:5 diversity:1.676987774 betweenness:', '0.002560759 pagerank:0.001151752')",betweenness-1diversity1pagerank-1peel-2degree0
+618,"('name:Tyene Sand degree:9 peel:5 diversity:1.676987774 betweenness:', '0.00267653 pagerank:0.001293676')",betweenness0diversity1pagerank-1peel-2degree0
+619,"('name:Aeron Greyjoy degree:15 peel:5 diversity:1.748970751 betweenness:', '0.012935047 pagerank:0.004498805')",betweenness0diversity-1pagerank2peel-2degree0
+620,"('name:Euron Greyjoy degree:13 peel:5 diversity:1.804371619 betweenness:', '0.008004883 pagerank:0.004461793')",betweenness0diversity0pagerank2peel-2degree0
+621,"('name:Alleras degree:8 peel:4 diversity:0.900256051 betweenness:', '0.014199147 pagerank:0.001749233')",betweenness0diversity-1pagerank0peel-2degree0
+622,"('name:Gerris Drinkwater degree:9 peel:4 diversity:1.303092404 betweenness:', '0.00265698 pagerank:0.001808226')",betweenness0diversity0pagerank0peel-2degree0
+623,"('name:Aegon Targaryen (son of Rhaegar) degree:15 peel:7 diversity:1.801892401 betweenness:', '0.006012167 pagerank:0.002093592')",betweenness1diversity1pagerank0peel-1degree0
+624,"('name:Axell Florent degree:10 peel:6 diversity:1.83437197 betweenness:', '0.001703351 pagerank:0.001524473')",betweenness-1diversity1pagerank0peel-1degree0
+625,"('name:Satin degree:13 peel:6 diversity:1.844621476 betweenness:', '0.00294103 pagerank:0.001724603')",betweenness-1diversity1pagerank0peel-1degree0
+626,"('name:Areo Hotah degree:9 peel:6 diversity:1.522955068 betweenness:', '0.000130391 pagerank:0.001863187')",betweenness-2diversity-1pagerank0peel-1degree0
+627,"('name:Shae degree:13 peel:7 diversity:1.524707393 betweenness:', '0.000826092 pagerank:0.001752541')",betweenness0diversity-1pagerank0peel-1degree0
+628,"('name:Val degree:9 peel:6 diversity:1.522955068 betweenness:', '0.000812097 pagerank:0.001651056')",betweenness0diversity-1pagerank0peel-1degree0
+629,"('name:Thoros of Myr degree:9 peel:7 diversity:1.58109375 betweenness:', '0.000502707 pagerank:0.001517948')",betweenness-1diversity-1pagerank0peel-1degree0
+630,"('name:Haldon degree:11 peel:6 diversity:1.641734712 betweenness:', '0.000285338 pagerank:0.001811175')",betweenness-1diversity0pagerank0peel-1degree0
+631,"('name:Podrick Payne degree:11 peel:6 diversity:1.666332585 betweenness:', '0.003390512 pagerank:0.002239123')",betweenness0diversity0pagerank0peel-1degree0
+632,"('name:Rattleshirt degree:11 peel:6 diversity:1.294545166 betweenness:', '8.27e-05 pagerank:0.001746136')",betweenness0diversity-2pagerank0peel-1degree0
+633,"('name:Anguy degree:9 peel:6 diversity:1.735126457 betweenness:', '0.001262506 pagerank:0.001294206')",betweenness0diversity0pagerank-1peel-1degree0
+634,"('name:Ben Plumm degree:9 peel:6 diversity:1.676987774 betweenness:', '0.001076548 pagerank:0.001036099')",betweenness0diversity0pagerank-1peel-1degree0
+635,"('name:Ryman Frey degree:12 peel:6 diversity:1.704551445 betweenness:', '0.001020753 pagerank:0.001127589')",betweenness0diversity0pagerank-1peel-1degree0
+636,"('name:Arys Oakheart degree:9 peel:6 diversity:1.522955068 betweenness:', '0.001771183 pagerank:0.001188945')",betweenness1diversity0pagerank-1peel-1degree0
+637,"('name:Harwin degree:11 peel:7 diversity:1.798652206 betweenness:', '0.000358115 pagerank:0.001040526')",betweenness-1diversity0pagerank-1peel-1degree0
+638,"('name:Hoster Tully degree:10 peel:7 diversity:1.609437912 betweenness:', '0.000347545 pagerank:0.001219369')",betweenness-1diversity0pagerank-1peel-1degree0
+639,"('name:Nan degree:8 peel:6 diversity:1.732867951 betweenness:', '0.000714461 pagerank:0.001172386')",betweenness-1diversity0pagerank-1peel-1degree0
+640,"('name:Tom of Sevenstreams degree:9 peel:6 diversity:1.58109375 betweenness:', '0.000428688 pagerank:0.001254658')",betweenness-1diversity0pagerank-1peel-1degree0
+641,"('name:Mully degree:9 peel:6 diversity:1.522955068 betweenness:', '3.74e-05 pagerank:0.00086889')",betweenness-2diversity0pagerank-1peel-1degree0
+642,"('name:Arstan degree:8 peel:6 diversity:1.213007566 betweenness:', '0.000123935 pagerank:0.001309324')",betweenness-1diversity-1pagerank-1peel-1degree0
+643,"('name:Brandon Stark degree:8 peel:6 diversity:1.213007566 betweenness:', '0.000462025 pagerank:0.000811601')",betweenness-1diversity-1pagerank-1peel-1degree0
+644,"('name:Cressen degree:9 peel:7 diversity:1.464816385 betweenness:', '0.000352511 pagerank:0.001279163')",betweenness-1diversity-1pagerank-1peel-1degree0
+645,"('name:Donal Noye degree:8 peel:6 diversity:1.386294361 betweenness:', '0.000240414 pagerank:0.001235143')",betweenness-1diversity-1pagerank-1peel-1degree0
+646,"('name:Owen degree:10 peel:6 diversity:1.470808476 betweenness:', '0.000804616 pagerank:0.000895542')",betweenness-1diversity-1pagerank-1peel-1degree0
+647,"('name:Rolly Duckfield degree:8 peel:6 diversity:1.213007566 betweenness:', '1.35e-05 pagerank:0.001381021')",betweenness-1diversity-1pagerank-1peel-1degree0
+648,"('name:Vargo Hoat degree:10 peel:6 diversity:1.33217904 betweenness:', '0.000684034 pagerank:0.001091866')",betweenness-1diversity-1pagerank-1peel-1degree0
+649,"('name:Walder Frey (son of Merrett) degree:8 peel:6 diversity:1.320888343 betweenness:', '0.000137213 pagerank:0.00093115')",betweenness-1diversity-1pagerank-1peel-1degree0
+650,"('name:Elia Martell degree:9 peel:7 diversity:1.303092404 betweenness:', '0.002700036 pagerank:0.00093676')",betweenness1diversity-1pagerank-1peel-1degree0
+651,"('name:Mathis Rowan degree:8 peel:6 diversity:1.494175138 betweenness:', '0.002588277 pagerank:0.00078388')",betweenness1diversity-1pagerank-1peel-1degree0
+652,"('name:Dontos Hollard degree:9 peel:7 diversity:0.848685558 betweenness:', '0.000468306 pagerank:0.001197805')",betweenness0diversity-3pagerank-1peel-1degree0
+653,"('name:Dywen degree:8 peel:6 diversity:1.073542846 betweenness:', '0.000552933 pagerank:0.000861158')",betweenness1diversity-2pagerank-1peel-1degree0
+654,"('name:Jarl degree:8 peel:6 diversity:1.073542846 betweenness:', '2.07e-05 pagerank:0.001029757')",betweenness-1diversity-2pagerank-1peel-1degree0
+655,"('name:Styr degree:8 peel:6 diversity:1.073542846 betweenness:', '2.12e-05 pagerank:0.001405197')",betweenness-1diversity-2pagerank-1peel-1degree0
+656,"('name:High Sparrow degree:8 peel:6 diversity:1.906154747 betweenness:', '3.77e-05 pagerank:0.000984155')",betweenness-1diversity1pagerank-1peel-1degree0
+657,"('name:Lothar Frey degree:11 peel:7 diversity:1.893788232 betweenness:', '0.000277633 pagerank:0.000873458')",betweenness-1diversity1pagerank-1peel-1degree0
+658,"('name:Osney Kettleblack degree:11 peel:7 diversity:2.019814992 betweenness:', '0.000488439 pagerank:0.001026739')",betweenness-1diversity1pagerank-1peel-1degree0
+659,"('name:Randyll Tarly degree:13 peel:7 diversity:2.031759219 betweenness:', '0.004472798 pagerank:0.001229287')",betweenness1diversity1pagerank-1peel-1degree0
+660,"('name:Shireen Baratheon degree:13 peel:7 diversity:1.884871334 betweenness:', '0.003259286 pagerank:0.001234029')",betweenness0diversity1pagerank-1peel-1degree0
+661,"('name:Balon Greyjoy degree:13 peel:7 diversity:1.118968867 betweenness:', '0.009545732 pagerank:0.002957548')",betweenness0diversity-3pagerank1peel-1degree0
+662,"('name:Hot Pie degree:11 peel:6 diversity:2.019814992 betweenness:', '0.003040202 pagerank:0.002656905')",betweenness0diversity1pagerank1peel-1degree0
+663,"('name:Jon Connington degree:16 peel:7 diversity:1.78680834 betweenness:', '0.012689827 pagerank:0.002603882')",betweenness1diversity0pagerank1peel-1degree0
+664,"('name:Lem degree:15 peel:7 diversity:1.859428815 betweenness:', '0.005932663 pagerank:0.002317313')",betweenness-1diversity0pagerank1peel-1degree0
+665,"('name:Tormund degree:15 peel:6 diversity:1.767009191 betweenness:', '0.005149821 pagerank:0.00271543')",betweenness-1diversity0pagerank1peel-1degree0
+666,"('name:Ygritte degree:13 peel:6 diversity:1.73265872 betweenness:', '0.002655179 pagerank:0.002400135')",betweenness-1diversity0pagerank1peel-1degree0
+667,"('name:Qhorin Halfhand degree:14 peel:6 diversity:1.673118363 betweenness:', '0.002814466 pagerank:0.00237447')",betweenness0diversity-1pagerank1peel-1degree0
+668,"('name:Galbart Glover degree:8 peel:6 diversity:1.320888343 betweenness:', '0.000946307 pagerank:0.000672682')",betweenness0diversity0pagerank-2peel-1degree0
+669,"('name:Weese degree:8 peel:6 diversity:1.255482325 betweenness:', '0.000107469 pagerank:0.000723267')",betweenness-1diversity0pagerank-2peel-1degree0
+670,"('name:Harma degree:8 peel:6 diversity:1.386294361 betweenness:', '3.91e-05 pagerank:0.000718848')",betweenness0diversity1pagerank-2peel-1degree0
+671,"('name:Marq Piper degree:8 peel:7 diversity:1.073542846 betweenness:', '0.000177945 pagerank:0.000573616')",betweenness0diversity-2pagerank-2peel-1degree0
+672,"('name:Willas Tyrell degree:8 peel:7 diversity:1.213007566 betweenness:', '1.65e-05 pagerank:0.000547806')",betweenness0diversity-1pagerank-2peel-1degree0
+673,"('name:Quentyn Martell degree:19 peel:7 diversity:1.721954449 betweenness:', '0.011349668 pagerank:0.00437337')",betweenness0diversity0pagerank3peel-1degree0
+674,"('name:Selyse Florent degree:19 peel:7 diversity:1.909660422 betweenness:', '0.005670667 pagerank:0.003097164')",betweenness0diversity0pagerank2peel-1degree0
+675,"('name:Aggo degree:10 peel:8 diversity:0.940447989 betweenness:', '0.000100433 pagerank:0.001520208')",betweenness-1diversity-2pagerank-1peel0degree0
+676,"('name:Rakharo degree:10 peel:8 diversity:0.801818553 betweenness:', '3.22e-05 pagerank:0.001214878')",betweenness-1diversity-2pagerank-1peel0degree0
+677,"('name:Cotter Pyke degree:10 peel:8 diversity:0.940447989 betweenness:', '0.000259524 pagerank:0.000973969')",betweenness1diversity-2pagerank-1peel0degree0
+678,"('name:Benjen Stark degree:14 peel:9 diversity:1.593424237 betweenness:', '0.005675488 pagerank:0.001597077')",betweenness1diversity0pagerank-1peel0degree0
+679,"('name:Jeyne Poole degree:13 peel:9 diversity:1.778233306 betweenness:', '0.001726905 pagerank:0.001625258')",betweenness-1diversity0pagerank-1peel0degree0
+680,"('name:Osha degree:9 peel:8 diversity:1.522955068 betweenness:', '0.0002196 pagerank:0.001322379')",betweenness-1diversity0pagerank-1peel0degree0
+681,"('name:Rickard Karstark degree:12 peel:8 diversity:1.676234939 betweenness:', '0.000916443 pagerank:0.001254606')",betweenness-1diversity0pagerank-1peel0degree0
+682,"('name:Taena of Myr degree:12 peel:8 diversity:1.676234939 betweenness:', '0.000492062 pagerank:0.001215846')",betweenness-1diversity0pagerank-1peel0degree0
+683,"('name:Jon Umber (Greatjon) degree:14 peel:8 diversity:1.932806573 betweenness:', '0.001360964 pagerank:0.001593452')",betweenness-1diversity1pagerank-1peel0degree0
+684,"('name:Yoren degree:18 peel:8 diversity:1.875121856 betweenness:', '0.00484853 pagerank:0.001645924')",betweenness0diversity1pagerank-1peel0degree0
+685,"('name:Missandei degree:9 peel:8 diversity:1.002718265 betweenness:', '9.63e-05 pagerank:0.001586885')",betweenness0diversity-1pagerank-1peel0degree0
+686,"('name:Othell Yarwyck degree:11 peel:8 diversity:1.159588814 betweenness:', '7.31e-05 pagerank:0.001165994')",betweenness-1diversity-1pagerank-1peel0degree0
+687,"('name:Alliser Thorne degree:15 peel:8 diversity:1.487816716 betweenness:', '0.002217858 pagerank:0.001928278')",betweenness1diversity0pagerank0peel0degree0
+688,"('name:Belwas degree:13 peel:8 diversity:1.410513557 betweenness:', '0.000281012 pagerank:0.002070866')",betweenness-2diversity0pagerank0peel0degree0
+689,"('name:Bowen Marsh degree:18 peel:8 diversity:1.428055769 betweenness:', '0.001065829 pagerank:0.002438314')",betweenness-1diversity0pagerank0peel0degree0
+690,"('name:Illyrio Mopatis degree:12 peel:8 diversity:1.424129917 betweenness:', '0.001202512 pagerank:0.001720713')",betweenness0diversity0pagerank0peel0degree0
+691,"('name:Jhiqui degree:12 peel:8 diversity:0.721463687 betweenness:', '7.18e-05 pagerank:0.002276592')",betweenness0diversity-2pagerank0peel0degree0
+692,"('name:Jhogo degree:12 peel:8 diversity:1.234267866 betweenness:', '0.000165397 pagerank:0.001771561')",betweenness-1diversity-1pagerank0peel0degree0
+693,"('name:Skahaz mo Kandaq degree:12 peel:8 diversity:1.075139324 betweenness:', '5.94e-05 pagerank:0.001829313')",betweenness-1diversity-1pagerank0peel0degree0
+694,"('name:Lancel Lannister degree:12 peel:9 diversity:1.234267866 betweenness:', '0.000520242 pagerank:0.001715529')",betweenness1diversity-1pagerank0peel0degree0
+695,"('name:Viserys Targaryen degree:14 peel:8 diversity:1.809514256 betweenness:', '0.002457249 pagerank:0.002157296')",betweenness-1diversity1pagerank0peel0degree0
+696,"('name:Wyman Manderly degree:17 peel:8 diversity:1.905420043 betweenness:', '0.009242797 pagerank:0.002203488')",betweenness0diversity1pagerank0peel0degree0
+697,"('name:Aurane Waters degree:9 peel:8 diversity:1.522955068 betweenness:', '7.82e-05 pagerank:0.000577919')",betweenness0diversity1pagerank-2peel0degree0
+698,"('name:Marillion degree:9 peel:8 diversity:1.427061043 betweenness:', '8.37e-05 pagerank:0.000853962')",betweenness0diversity1pagerank-2peel0degree0
+699,"('name:Jacelyn Bywater degree:9 peel:9 diversity:1.427061043 betweenness:', '1.52e-05 pagerank:0.000706275')",betweenness-2diversity1pagerank-2peel0degree0
+700,"('name:Denys Mallister degree:9 peel:8 diversity:0.683738906 betweenness:', '1.26e-05 pagerank:0.000858632')",betweenness-2diversity-2pagerank-2peel0degree0
+701,"('name:Grey Worm degree:8 peel:8 diversity:0.73562194 betweenness:', '3.26e-05 pagerank:0.00087105')",betweenness0diversity-2pagerank-2peel0degree0
+702,"('name:Mandon Moore degree:9 peel:9 diversity:0.683738906 betweenness:', '2.31e-05 pagerank:0.000725772')",betweenness0diversity-2pagerank-2peel0degree0
+703,"('name:Elmar Frey degree:9 peel:9 diversity:0.848685558 betweenness:', '0.000105404 pagerank:0.000677919')",betweenness-1diversity-1pagerank-2peel0degree0
+704,"('name:Olenna Redwyne degree:9 peel:8 diversity:0.848685558 betweenness:', '0.000292522 pagerank:0.000756117')",betweenness0diversity-1pagerank-2peel0degree0
+705,"('name:Harys Swyft degree:9 peel:8 diversity:1.214889654 betweenness:', '8.29e-05 pagerank:0.000625421')",betweenness-1diversity0pagerank-2peel0degree0
+706,"('name:Orton Merryweather degree:10 peel:8 diversity:1.279854226 betweenness:', '8.14e-05 pagerank:0.000620349')",betweenness-1diversity0pagerank-2peel0degree0
+707,"('name:Hobb degree:11 peel:8 diversity:1.120950393 betweenness:', '8.7e-05 pagerank:0.000773659')",betweenness1diversity0pagerank-2peel0degree0
+708,"('name:Craster degree:15 peel:8 diversity:1.522699926 betweenness:', '0.003894223 pagerank:0.002708792')",betweenness0diversity0pagerank1peel0degree0
+709,"('name:Daario Naharis degree:19 peel:8 diversity:1.48322096 betweenness:', '0.005468229 pagerank:0.002784419')",betweenness0diversity0pagerank1peel0degree0
+710,"('name:Meera Reed degree:11 peel:8 diversity:1.414279065 betweenness:', '0.000301138 pagerank:0.002933076')",betweenness-2diversity0pagerank1peel0degree0
+711,"('name:Gilly degree:14 peel:8 diversity:1.351783994 betweenness:', '0.00112531 pagerank:0.002697651')",betweenness1diversity-1pagerank1peel0degree0
+712,"('name:Grenn degree:15 peel:8 diversity:1.337860678 betweenness:', '0.000474681 pagerank:0.003203872')",betweenness-1diversity-1pagerank1peel0degree0
+713,"('name:Jojen Reed degree:10 peel:8 diversity:1.088899975 betweenness:', '0.000271599 pagerank:0.00263205')",betweenness-1diversity-1pagerank1peel0degree0
+714,"('name:Pypar degree:16 peel:8 diversity:1.244016696 betweenness:', '0.000234447 pagerank:0.002813027')",betweenness-1diversity-1pagerank1peel0degree0
+715,"('name:Irri degree:15 peel:8 diversity:0.720124881 betweenness:', '0.000992876 pagerank:0.002759077')",betweenness0diversity-2pagerank1peel0degree0
+716,"('name:Rhaegar Targaryen degree:18 peel:9 diversity:2.0330002 betweenness:', '0.007841725 pagerank:0.002563142')",betweenness0diversity1pagerank1peel0degree0
+717,"('name:Hodor degree:11 peel:8 diversity:1.641734712 betweenness:', '0.000213484 pagerank:0.003778806')",betweenness0diversity0pagerank2peel0degree0
+718,"('name:Chiswyck degree:13 peel:12 diversity:0.898137003 betweenness:', '4.28e-05 pagerank:0.000715803')",betweenness0diversity0pagerank-2peel2degree0
+719,"('name:Dunsen degree:13 peel:12 diversity:0.898137003 betweenness:', '4.28e-05 pagerank:0.001547673')",betweenness-1diversity0pagerank-1peel2degree0
+720,"('name:Polliver degree:14 peel:12 diversity:0.89820534 betweenness:', '8.96e-05 pagerank:0.001543562')",betweenness0diversity0pagerank-1peel2degree0
+721,"('name:Tickler degree:12 peel:12 diversity:0.679193266 betweenness:', '0.0 pagerank:0.001448483')",betweenness0diversity-2pagerank-1peel2degree0
+722,"('name:Jon Arryn degree:17 peel:12 diversity:1.203332041 betweenness:', '0.008811733 pagerank:0.002508965')",betweenness0diversity0pagerank1peel2degree0
+723,"('name:Rafford degree:13 peel:12 diversity:0.690185676 betweenness:', '4.65e-05 pagerank:0.00171038')",betweenness0diversity0pagerank0peel2degree0
+724,"('name:Lorren degree:8 peel:3 diversity:1.255482325 betweenness:', '0.003753628 pagerank:0.00145556')",betweenness0diversity0pagerank0peel-3degree0
+725,"('name:Aegon Frey (son of Stevron) degree:4 peel:4 diversity:1.039720771 betweenness:', '0.0 pagerank:0.000410273')",betweenness-1diversity0pagerank-2peel1degree-1
+726,"('name:Woth degree:5 peel:5 diversity:1.33217904 betweenness:', '0.0 pagerank:0.000396638')",betweenness-1diversity0pagerank-2peel1degree-1
+727,"('name:Ottyn Wythers degree:4 peel:4 diversity:1.039720771 betweenness:', '1.79e-05 pagerank:0.000391081')",betweenness0diversity0pagerank-2peel1degree-1
+728,"('name:Pono degree:4 peel:4 diversity:1.039720771 betweenness:', '4.84e-05 pagerank:0.000349678')",betweenness1diversity0pagerank-2peel1degree-1
+729,"('name:Bedwyck degree:5 peel:5 diversity:0.500402424 betweenness:', '0.0 pagerank:0.000397118')",betweenness-1diversity-1pagerank-2peel1degree-1
+730,"('name:Coldhands degree:4 peel:4 diversity:0.562335145 betweenness:', '1.59e-05 pagerank:0.000373553')",betweenness-1diversity-1pagerank-2peel1degree-1
+731,"('name:Sharna degree:4 peel:4 diversity:0.562335145 betweenness:', '1.58e-06 pagerank:0.000380371')",betweenness-1diversity-1pagerank-2peel1degree-1
+732,"('name:Stafford Lannister degree:4 peel:4 diversity:0.562335145 betweenness:', '4.89e-05 pagerank:0.000332016')",betweenness1diversity-1pagerank-2peel1degree-1
+733,"('name:Bloodbeard degree:4 peel:4 diversity:1.386294361 betweenness:', '0.000112216 pagerank:0.00039272')",betweenness1diversity1pagerank-2peel1degree-1
+734,"('name:Robert Strong degree:4 peel:4 diversity:1.386294361 betweenness:', '3.06e-05 pagerank:0.000344689')",betweenness-1diversity1pagerank-2peel1degree-1
+735,"('name:Zollo degree:4 peel:4 diversity:1.386294361 betweenness:', '6.34e-07 pagerank:0.000385717')",betweenness-1diversity1pagerank-2peel1degree-1
+736,"('name:High Septon (Tyrions) degree:4 peel:4 diversity:0.0 betweenness:', '0.0 pagerank:0.000410379')",betweenness0diversity-2pagerank-2peel1degree-1
+737,"('name:Alla Tyrell degree:5 peel:4 diversity:1.33217904 betweenness:', '1.18e-05 pagerank:0.000754206')",betweenness-1diversity0pagerank0peel1degree-1
+738,"('name:Barbrey Dustin degree:6 peel:5 diversity:1.329661349 betweenness:', '0.000182731 pagerank:0.000787446')",betweenness-1diversity0pagerank0peel1degree-1
+739,"('name:Chett degree:7 peel:5 diversity:1.277034259 betweenness:', '9.59e-05 pagerank:0.000911682')",betweenness-1diversity0pagerank0peel1degree-1
+740,"('name:Damon Dance for Me degree:5 peel:4 diversity:1.33217904 betweenness:', '9.35e-06 pagerank:0.000774889')",betweenness-1diversity0pagerank0peel1degree-1
+741,"('name:Haggo degree:6 peel:5 diversity:1.329661349 betweenness:', '3.12e-06 pagerank:0.000777584')",betweenness-1diversity0pagerank0peel1degree-1
+742,"('name:Hallis Mollen degree:6 peel:5 diversity:1.329661349 betweenness:', '0.000118024 pagerank:0.000736982')",betweenness-1diversity0pagerank0peel1degree-1
+743,"('name:Jaqen Hghar degree:6 peel:5 diversity:1.329661349 betweenness:', '2.81e-05 pagerank:0.000982349')",betweenness-1diversity0pagerank0peel1degree-1
+744,"('name:Khrazz degree:5 peel:4 diversity:1.33217904 betweenness:', '0.000747583 pagerank:0.000713687')",betweenness-1diversity0pagerank0peel1degree-1
+745,"('name:Mya Stone degree:5 peel:4 diversity:1.33217904 betweenness:', '0.000108766 pagerank:0.000739087')",betweenness-1diversity0pagerank0peel1degree-1
+746,"('name:Reznak mo Reznak degree:5 peel:5 diversity:1.33217904 betweenness:', '0.0 pagerank:0.000782543')",betweenness-1diversity0pagerank0peel1degree-1
+747,"('name:Sour Alyn degree:6 peel:4 diversity:1.329661349 betweenness:', '1.41e-05 pagerank:0.000979725')",betweenness-1diversity0pagerank0peel1degree-1
+748,"('name:Dareon degree:6 peel:5 diversity:1.242453325 betweenness:', '0.003075872 pagerank:0.000930619')",betweenness1diversity0pagerank0peel1degree-1
+749,"('name:Lark degree:6 peel:5 diversity:1.329661349 betweenness:', '0.002588977 pagerank:0.000761442')",betweenness1diversity0pagerank0peel1degree-1
+750,"('name:Skinner degree:5 peel:4 diversity:1.33217904 betweenness:', '0.002515723 pagerank:0.000887165')",betweenness1diversity0pagerank0peel1degree-1
+751,"('name:Spotted Cat degree:6 peel:4 diversity:1.242453325 betweenness:', '0.003356216 pagerank:0.000919978')",betweenness1diversity0pagerank0peel1degree-1
+752,"('name:Walton degree:5 peel:4 diversity:1.33217904 betweenness:', '0.002515723 pagerank:0.000735855')",betweenness1diversity0pagerank0peel1degree-1
+753,"('name:Edric Storm degree:6 peel:5 diversity:1.329661349 betweenness:', '0.001610784 pagerank:0.000897121')",betweenness0diversity0pagerank0peel1degree-1
+754,"('name:Jeyne Westerling degree:5 peel:4 diversity:1.33217904 betweenness:', '0.001015193 pagerank:0.000823548')",betweenness0diversity0pagerank0peel1degree-1
+755,"('name:Andrey Dalt degree:5 peel:5 diversity:0.950270539 betweenness:', '4.1e-05 pagerank:0.000832746')",betweenness-1diversity-1pagerank0peel1degree-1
+756,"('name:Biter degree:5 peel:5 diversity:1.054920168 betweenness:', '9.44e-05 pagerank:0.000782857')",betweenness-1diversity-1pagerank0peel1degree-1
+757,"('name:Elinor Tyrell degree:5 peel:4 diversity:0.950270539 betweenness:', '3.16e-05 pagerank:0.000807866')",betweenness-1diversity-1pagerank0peel1degree-1
+758,"('name:Megga Tyrell degree:4 peel:4 diversity:1.039720771 betweenness:', '0.0 pagerank:0.000842091')",betweenness-1diversity-1pagerank0peel1degree-1
+759,"('name:Mirri Maz Duur degree:6 peel:5 diversity:1.011404265 betweenness:', '9.63e-06 pagerank:0.000987082')",betweenness-1diversity-1pagerank0peel1degree-1
+760,"('name:Nymeria Sand degree:4 peel:4 diversity:1.039720771 betweenness:', '1.81e-05 pagerank:0.000856141')",betweenness-1diversity-1pagerank0peel1degree-1
+761,"('name:Shagwell degree:6 peel:4 diversity:1.011404265 betweenness:', '0.000199782 pagerank:0.000772709')",betweenness-1diversity-1pagerank0peel1degree-1
+762,"('name:Sylva Santagar degree:5 peel:5 diversity:0.950270539 betweenness:', '4.1e-05 pagerank:0.000756735')",betweenness-1diversity-1pagerank0peel1degree-1
+763,"('name:Caggo degree:5 peel:4 diversity:0.950270539 betweenness:', '0.002515723 pagerank:0.00083633')",betweenness1diversity-1pagerank0peel1degree-1
+764,"('name:Dick Crabb degree:5 peel:4 diversity:0.950270539 betweenness:', '0.002557403 pagerank:0.00081538')",betweenness1diversity-1pagerank0peel1degree-1
+765,"('name:Archibald Yronwood degree:4 peel:4 diversity:0.562335145 betweenness:', '2.38e-06 pagerank:0.000918824')",betweenness-1diversity-2pagerank0peel1degree-1
+766,"('name:Goghor the Giant degree:4 peel:4 diversity:0.562335145 betweenness:', '1.06e-06 pagerank:0.000718528')",betweenness-1diversity-2pagerank0peel1degree-1
+767,"('name:Small Paul degree:6 peel:5 diversity:0.636514168 betweenness:', '1.19e-05 pagerank:0.000776101')",betweenness1diversity-2pagerank0peel1degree-1
+768,"('name:Arnolf Karstark degree:5 peel:4 diversity:1.609437912 betweenness:', '0.002619954 pagerank:0.000704456')",betweenness0diversity1pagerank0peel1degree-1
+769,"('name:Jaremy Rykker degree:5 peel:4 diversity:1.609437912 betweenness:', '0.002518575 pagerank:0.000713031')",betweenness0diversity1pagerank0peel1degree-1
+770,"('name:Wendel Manderly degree:7 peel:4 diversity:1.747868097 betweenness:', '0.002579961 pagerank:0.000814957')",betweenness0diversity1pagerank0peel1degree-1
+771,"('name:Devan Seaworth degree:6 peel:5 diversity:1.560710409 betweenness:', '0.000328126 pagerank:0.000829714')",betweenness-1diversity1pagerank0peel1degree-1
+772,"('name:Galazza Galare degree:6 peel:5 diversity:1.560710409 betweenness:', '7.68e-05 pagerank:0.00095014')",betweenness-2diversity1pagerank0peel1degree-1
+773,"('name:Mollander degree:4 peel:4 diversity:0.0 betweenness:', '3.96e-06 pagerank:0.000934248')",betweenness1diversity-3pagerank0peel1degree-1
+774,"('name:Mycah degree:5 peel:5 diversity:0.0 betweenness:', '0.0 pagerank:0.000805042')",betweenness-1diversity-3pagerank0peel1degree-1
+775,"('name:Roone degree:4 peel:4 diversity:0.0 betweenness:', '7.92e-07 pagerank:0.000920016')",betweenness-1diversity-3pagerank0peel1degree-1
+776,"('name:Alyn degree:5 peel:5 diversity:1.33217904 betweenness:', '2.3e-05 pagerank:0.000538663')",betweenness-1diversity0pagerank-1peel1degree-1
+777,"('name:Benerro degree:4 peel:4 diversity:1.386294361 betweenness:', '3.71e-05 pagerank:0.000431198')",betweenness-1diversity0pagerank-1peel1degree-1
+778,"('name:Caleotte degree:4 peel:4 diversity:1.386294361 betweenness:', '7.3e-05 pagerank:0.000534515')",betweenness-1diversity0pagerank-1peel1degree-1
+779,"('name:Edwyn Frey degree:4 peel:4 diversity:1.386294361 betweenness:', '1.04e-06 pagerank:0.000544132')",betweenness-1diversity0pagerank-1peel1degree-1
+780,"('name:Groleo degree:6 peel:5 diversity:1.242453325 betweenness:', '3.57e-05 pagerank:0.000603235')",betweenness-1diversity0pagerank-1peel1degree-1
+781,"('name:Kegs degree:7 peel:5 diversity:1.351783994 betweenness:', '9.87e-06 pagerank:0.000584785')",betweenness-1diversity0pagerank-1peel1degree-1
+782,"('name:Lothor Brune degree:5 peel:4 diversity:1.33217904 betweenness:', '4.54e-05 pagerank:0.000544936')",betweenness-1diversity0pagerank-1peel1degree-1
+783,"('name:Lyle Crakehall degree:5 peel:4 diversity:1.33217904 betweenness:', '9.04e-06 pagerank:0.000497301')",betweenness-1diversity0pagerank-1peel1degree-1
+784,"('name:Moon Boy degree:4 peel:4 diversity:1.386294361 betweenness:', '9.3e-06 pagerank:0.000526634')",betweenness-1diversity0pagerank-1peel1degree-1
+785,"('name:Rast degree:6 peel:5 diversity:1.242453325 betweenness:', '2.33e-05 pagerank:0.000516994')",betweenness-1diversity0pagerank-1peel1degree-1
+786,"('name:Squirrel degree:4 peel:4 diversity:1.386294361 betweenness:', '9.19e-06 pagerank:0.000486326')",betweenness-1diversity0pagerank-1peel1degree-1
+787,"('name:Stevron Frey degree:5 peel:4 diversity:1.33217904 betweenness:', '2.64e-06 pagerank:0.000435193')",betweenness-1diversity0pagerank-1peel1degree-1
+788,"('name:Tomard degree:7 peel:5 diversity:1.153741943 betweenness:', '0.000146291 pagerank:0.000682677')",betweenness-1diversity0pagerank-1peel1degree-1
+789,"('name:Walder Rivers degree:5 peel:4 diversity:1.33217904 betweenness:', '6.15e-05 pagerank:0.000539948')",betweenness-1diversity0pagerank-1peel1degree-1
+790,"('name:Cletus Yronwood degree:5 peel:4 diversity:1.33217904 betweenness:', '0.000787012 pagerank:0.000626553')",betweenness0diversity0pagerank-1peel1degree-1
+791,"('name:Jalabhar Xho degree:5 peel:4 diversity:1.33217904 betweenness:', '0.00080684 pagerank:0.000481371')",betweenness0diversity0pagerank-1peel1degree-1
+792,"('name:Tallad degree:6 peel:4 diversity:1.242453325 betweenness:', '0.000844655 pagerank:0.000546731')",betweenness0diversity0pagerank-1peel1degree-1
+793,"('name:Maegor I Targaryen degree:6 peel:5 diversity:1.242453325 betweenness:', '0.00253038 pagerank:0.000582325')",betweenness2diversity0pagerank-1peel1degree-1
+794,"('name:Sybell Spicer degree:6 peel:4 diversity:1.329661349 betweenness:', '0.002361903 pagerank:0.000603267')",betweenness2diversity0pagerank-1peel1degree-1
+795,"('name:Baelor Blacktyde degree:4 peel:4 diversity:0.562335145 betweenness:', '0.0 pagerank:0.000542884')",betweenness-1diversity-2pagerank-1peel1degree-1
+796,"('name:Belaquo degree:4 peel:4 diversity:0.693147181 betweenness:', '1.28e-05 pagerank:0.000603305')",betweenness-1diversity-2pagerank-1peel1degree-1
+797,"('name:Patchface degree:4 peel:4 diversity:0.562335145 betweenness:', '0.0 pagerank:0.000489713')",betweenness-1diversity-2pagerank-1peel1degree-1
+798,"('name:Ryk degree:4 peel:4 diversity:0.562335145 betweenness:', '0.0 pagerank:0.000531352')",betweenness-1diversity-2pagerank-1peel1degree-1
+799,"('name:Symond Templeton degree:5 peel:4 diversity:0.500402424 betweenness:', '3.78e-05 pagerank:0.000651893')",betweenness-1diversity-2pagerank-1peel1degree-1
+800,"('name:Timeon degree:4 peel:4 diversity:0.693147181 betweenness:', '2.86e-05 pagerank:0.000555996')",betweenness-1diversity-2pagerank-1peel1degree-1
+801,"('name:Tysha degree:4 peel:4 diversity:0.562335145 betweenness:', '1.5e-05 pagerank:0.000425077')",betweenness-1diversity-2pagerank-1peel1degree-1
+802,"('name:Vayon Poole degree:5 peel:5 diversity:0.500402424 betweenness:', '0.0 pagerank:0.000468302')",betweenness-1diversity-2pagerank-1peel1degree-1
+803,"('name:Benedar Belmore degree:5 peel:4 diversity:0.500402424 betweenness:', '0.000440168 pagerank:0.000641825')",betweenness2diversity-2pagerank-1peel1degree-1
+804,"('name:Gilwood Hunter degree:5 peel:4 diversity:0.500402424 betweenness:', '0.000275404 pagerank:0.000692599')",betweenness1diversity-2pagerank-1peel1degree-1
+805,"('name:Mors Umber degree:4 peel:4 diversity:0.562335145 betweenness:', '0.000238248 pagerank:0.000518088')",betweenness0diversity-2pagerank-1peel1degree-1
+806,"('name:Blue Bard degree:5 peel:4 diversity:1.609437912 betweenness:', '0.000908267 pagerank:0.000534842')",betweenness1diversity1pagerank-1peel1degree-1
+807,"('name:Godry Farring degree:7 peel:5 diversity:1.549826046 betweenness:', '0.001010475 pagerank:0.000636765')",betweenness1diversity1pagerank-1peel1degree-1
+808,"('name:Donella Hornwood degree:7 peel:4 diversity:1.549826046 betweenness:', '0.000224091 pagerank:0.000635385')",betweenness-1diversity1pagerank-1peel1degree-1
+809,"('name:Dorcas degree:6 peel:5 diversity:1.791759469 betweenness:', '5.21e-06 pagerank:0.00061026')",betweenness-1diversity1pagerank-1peel1degree-1
+810,"('name:Emmett degree:5 peel:4 diversity:1.609437912 betweenness:', '2.22e-05 pagerank:0.000643053')",betweenness-1diversity1pagerank-1peel1degree-1
+811,"('name:Jocelyn Swyft degree:5 peel:5 diversity:1.609437912 betweenness:', '1.83e-06 pagerank:0.000505047')",betweenness-1diversity1pagerank-1peel1degree-1
+812,"('name:Rowan degree:5 peel:4 diversity:1.609437912 betweenness:', '5.76e-05 pagerank:0.000628659')",betweenness-1diversity1pagerank-1peel1degree-1
+813,"('name:Vardis Egen degree:6 peel:4 diversity:1.560710409 betweenness:', '0.000178986 pagerank:0.000642911')",betweenness-1diversity1pagerank-1peel1degree-1
+814,"('name:Willis Wode degree:6 peel:5 diversity:1.560710409 betweenness:', '4.27e-05 pagerank:0.000511857')",betweenness-1diversity1pagerank-1peel1degree-1
+815,"('name:Robett Glover degree:7 peel:5 diversity:1.549826046 betweenness:', '0.000500339 pagerank:0.000580181')",betweenness0diversity1pagerank-1peel1degree-1
+816,"('name:Cellador degree:4 peel:4 diversity:1.039720771 betweenness:', '1.58e-06 pagerank:0.000443189')",betweenness-1diversity-1pagerank-1peel1degree-1
+817,"('name:Cohollo degree:4 peel:4 diversity:1.039720771 betweenness:', '0.0 pagerank:0.000563735')",betweenness-1diversity-1pagerank-1peel1degree-1
+818,"('name:Gerold Dayne degree:5 peel:5 diversity:1.054920168 betweenness:', '9.13e-06 pagerank:0.000672915')",betweenness-1diversity-1pagerank-1peel1degree-1
+819,"('name:Gretchel degree:4 peel:4 diversity:1.039720771 betweenness:', '1.2e-05 pagerank:0.000552535')",betweenness-1diversity-1pagerank-1peel1degree-1
+820,"('name:Hero degree:4 peel:4 diversity:1.039720771 betweenness:', '0.0 pagerank:0.000484281')",betweenness-1diversity-1pagerank-1peel1degree-1
+821,"('name:Lyanna Stark degree:5 peel:5 diversity:0.950270539 betweenness:', '1.15e-05 pagerank:0.000583469')",betweenness-1diversity-1pagerank-1peel1degree-1
+822,"('name:Maege Mormont degree:5 peel:4 diversity:1.054920168 betweenness:', '4.01e-06 pagerank:0.000540965')",betweenness-1diversity-1pagerank-1peel1degree-1
+823,"('name:Pyg degree:4 peel:4 diversity:1.039720771 betweenness:', '2.85e-06 pagerank:0.000579416')",betweenness-1diversity-1pagerank-1peel1degree-1
+824,"('name:Quaro degree:5 peel:5 diversity:0.950270539 betweenness:', '1.43e-06 pagerank:0.000445212')",betweenness-1diversity-1pagerank-1peel1degree-1
+825,"('name:Roslin Frey degree:5 peel:5 diversity:1.054920168 betweenness:', '0.0 pagerank:0.000672614')",betweenness-1diversity-1pagerank-1peel1degree-1
+826,"('name:Spare Boot degree:6 peel:5 diversity:1.011404265 betweenness:', '1.27e-06 pagerank:0.000527414')",betweenness-1diversity-1pagerank-1peel1degree-1
+827,"('name:Syrio Forel degree:4 peel:4 diversity:1.039720771 betweenness:', '9.94e-06 pagerank:0.00063575')",betweenness-1diversity-1pagerank-1peel1degree-1
+828,"('name:Timett degree:4 peel:4 diversity:1.039720771 betweenness:', '4.1e-06 pagerank:0.000534884')",betweenness-1diversity-1pagerank-1peel1degree-1
+829,"('name:Todder degree:4 peel:4 diversity:1.039720771 betweenness:', '0.0 pagerank:0.000634487')",betweenness-1diversity-1pagerank-1peel1degree-1
+830,"('name:Weasel degree:4 peel:4 diversity:1.039720771 betweenness:', '5.39e-06 pagerank:0.000500168')",betweenness-1diversity-1pagerank-1peel1degree-1
+831,"('name:Weeper degree:5 peel:5 diversity:0.950270539 betweenness:', '6.34e-06 pagerank:0.000490304')",betweenness-1diversity-1pagerank-1peel1degree-1
+832,"('name:Colemon degree:6 peel:4 diversity:1.011404265 betweenness:', '0.000114647 pagerank:0.000654006')",betweenness2diversity-1pagerank-1peel1degree-1
+833,"('name:Dagmer degree:5 peel:5 diversity:1.054920168 betweenness:', '0.000143971 pagerank:0.000608929')",betweenness3diversity-1pagerank-1peel1degree-1
+834,"('name:Hother Umber degree:4 peel:4 diversity:1.039720771 betweenness:', '4.3e-05 pagerank:0.000463209')",betweenness0diversity-1pagerank-1peel1degree-1
+835,"('name:Maddy degree:5 peel:4 diversity:0.950270539 betweenness:', '3.67e-05 pagerank:0.000684088')",betweenness0diversity-1pagerank-1peel1degree-1
+836,"('name:Horton Redfort degree:4 peel:4 diversity:0.0 betweenness:', '1.85e-06 pagerank:0.000687368')",betweenness0diversity-4pagerank-1peel1degree-1
+837,"('name:Anya Waynwood degree:7 peel:4 diversity:0.79631164 betweenness:', '0.000583944 pagerank:0.001147792')",betweenness0diversity-1pagerank1peel1degree-1
+838,"('name:Pylos degree:6 peel:5 diversity:1.011404265 betweenness:', '3.91e-06 pagerank:0.001241409')",betweenness-1diversity-1pagerank1peel1degree-1
+839,"('name:Armen degree:6 peel:4 diversity:0.450561209 betweenness:', '1.69e-05 pagerank:0.001056421')",betweenness-1diversity-2pagerank1peel1degree-1
+840,"('name:Leo Tyrell degree:5 peel:4 diversity:0.500402424 betweenness:', '0.005207007 pagerank:0.001036994')",betweenness0diversity-2pagerank1peel1degree-1
+841,"('name:Meris degree:6 peel:4 diversity:1.242453325 betweenness:', '0.003065646 pagerank:0.001177615')",betweenness1diversity0pagerank1peel1degree-1
+842,"('name:Penny degree:7 peel:4 diversity:1.475076311 betweenness:', '0.000279064 pagerank:0.001225714')",betweenness-1diversity0pagerank1peel1degree-1
+843,"('name:Qotho degree:7 peel:5 diversity:1.277034259 betweenness:', '2.97e-05 pagerank:0.001078742')",betweenness-1diversity0pagerank1peel1degree-1
+844,"('name:Moqorro degree:5 peel:4 diversity:1.609437912 betweenness:', '0.002409717 pagerank:0.001073681')",betweenness0diversity1pagerank1peel1degree-1
+845,"('name:Salladhor Saan degree:5 peel:4 diversity:1.609437912 betweenness:', '9.54e-06 pagerank:0.001188731')",betweenness-1diversity1pagerank1peel1degree-1
+846,"('name:Lommy Greenhands degree:6 peel:5 diversity:1.560710409 betweenness:', '1.11e-05 pagerank:0.001369274')",betweenness-1diversity0pagerank2peel1degree-1
+847,"('name:Shagga degree:7 peel:4 diversity:1.549826046 betweenness:', '0.005057665 pagerank:0.001493422')",betweenness0diversity0pagerank2peel1degree-1
+848,"('name:Obara Sand degree:6 peel:4 diversity:1.329661349 betweenness:', '2.49e-05 pagerank:0.001299752')",betweenness0diversity-2pagerank2peel1degree-1
+849,"('name:Pate (novice) degree:7 peel:4 diversity:0.682908105 betweenness:', '0.010041506 pagerank:0.002498661')",betweenness0diversity0pagerank6peel1degree-1
+850,"('name:Aegon V Targaryen degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000255747')",betweenness0diversity0pagerank-1peel-2degree-1
+851,"('name:Aemon Targaryen (Dragonknight) degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000220526')",betweenness0diversity0pagerank-1peel-2degree-1
+852,"('name:Aerys I Targaryen degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000215297')",betweenness0diversity0pagerank-1peel-2degree-1
+853,"('name:Aron Santagar degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000214682')",betweenness0diversity0pagerank-1peel-2degree-1
+854,"('name:Arson degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00022145')",betweenness0diversity0pagerank-1peel-2degree-1
+855,"('name:Arthor Karstark degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000278294')",betweenness0diversity0pagerank-1peel-2degree-1
+856,"('name:Arwyn Oakheart degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000235214')",betweenness0diversity0pagerank-1peel-2degree-1
+857,"('name:Ashara Dayne degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00023108')",betweenness0diversity0pagerank-1peel-2degree-1
+858,"('name:Azor Ahai degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000255405')",betweenness0diversity0pagerank-1peel-2degree-1
+859,"('name:Bael the Bard degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000250263')",betweenness0diversity0pagerank-1peel-2degree-1
+860,"('name:Barsena degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000235622')",betweenness0diversity0pagerank-1peel-2degree-1
+861,"('name:Bartimus degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000243793')",betweenness0diversity0pagerank-1peel-2degree-1
+862,"('name:Bellegere Otherys degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000220809')",betweenness0diversity0pagerank-1peel-2degree-1
+863,"('name:Blane degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000220771')",betweenness0diversity0pagerank-1peel-2degree-1
+864,"('name:Bonifer Hasty degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000231221')",betweenness0diversity0pagerank-1peel-2degree-1
+865,"('name:Brenett degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000219962')",betweenness0diversity0pagerank-1peel-2degree-1
+866,"('name:Byam Flint degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000224228')",betweenness0diversity0pagerank-1peel-2degree-1
+867,"('name:Camarron degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000278713')",betweenness0diversity0pagerank-1peel-2degree-1
+868,"('name:Captain Myraham degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000248835')",betweenness0diversity0pagerank-1peel-2degree-1
+869,"('name:Captain Myraham Daughter degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000233737')",betweenness0diversity0pagerank-1peel-2degree-1
+870,"('name:Cedric Payne degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000224332')",betweenness0diversity0pagerank-1peel-2degree-1
+871,"('name:Chataya degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000285567')",betweenness0diversity0pagerank-1peel-2degree-1
+872,"('name:Clarence Crabb degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000236456')",betweenness0diversity0pagerank-1peel-2degree-1
+873,"('name:Corliss Penny degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000221924')",betweenness0diversity0pagerank-1peel-2degree-1
+874,"('name:Daeron I Targaryen degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000234727')",betweenness0diversity0pagerank-1peel-2degree-1
+875,"('name:Dancy degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000275602')",betweenness0diversity0pagerank-1peel-2degree-1
+876,"('name:Denys Darklyn degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000241434')",betweenness0diversity0pagerank-1peel-2degree-1
+877,"('name:Denzo Dhan degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000258358')",betweenness0diversity0pagerank-1peel-2degree-1
+878,"('name:Dobber degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000231597')",betweenness0diversity0pagerank-1peel-2degree-1
+879,"('name:Donnel Waynwood degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000219962')",betweenness0diversity0pagerank-1peel-2degree-1
+880,"('name:Dryn degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000226914')",betweenness0diversity0pagerank-1peel-2degree-1
+881,"('name:Elbert Arryn degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000228186')",betweenness0diversity0pagerank-1peel-2degree-1
+882,"('name:Emmond degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000290008')",betweenness0diversity0pagerank-1peel-2degree-1
+883,"('name:Eroeh degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000282801')",betweenness0diversity0pagerank-1peel-2degree-1
+884,"('name:Eustace Brune degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000241736')",betweenness0diversity0pagerank-1peel-2degree-1
+885,"('name:Ezzara degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000223827')",betweenness0diversity0pagerank-1peel-2degree-1
+886,"('name:Farlen degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000279032')",betweenness0diversity0pagerank-1peel-2degree-1
+887,"('name:Franklyn Fowler degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00023997')",betweenness0diversity0pagerank-1peel-2degree-1
+888,"('name:Frenken degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000279681')",betweenness0diversity0pagerank-1peel-2degree-1
+889,"('name:Galyeon of Cuy degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00021758')",betweenness0diversity0pagerank-1peel-2degree-1
+890,"('name:Garrett Paege degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000220526')",betweenness0diversity0pagerank-1peel-2degree-1
+891,"('name:Garth Tyrell degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000215389')",betweenness0diversity0pagerank-1peel-2degree-1
+892,"('name:Godric Borrell degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000312981')",betweenness0diversity0pagerank-1peel-2degree-1
+893,"('name:Grazdan mo Eraz degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000257173')",betweenness0diversity0pagerank-1peel-2degree-1
+894,"('name:Greydon Goodbrother degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000290008')",betweenness0diversity0pagerank-1peel-2degree-1
+895,"('name:Grisel degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00021762')",betweenness0diversity0pagerank-1peel-2degree-1
+896,"('name:Gunthor son of Gurn degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000256429')",betweenness0diversity0pagerank-1peel-2degree-1
+897,"('name:Hake degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000232452')",betweenness0diversity0pagerank-1peel-2degree-1
+898,"('name:Hali degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000216665')",betweenness0diversity0pagerank-1peel-2degree-1
+899,"('name:Halys Hornwood degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000222694')",betweenness0diversity0pagerank-1peel-2degree-1
+900,"('name:Harl degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000308393')",betweenness0diversity0pagerank-1peel-2degree-1
+901,"('name:Harras Harlaw degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000267817')",betweenness0diversity0pagerank-1peel-2degree-1
+902,"('name:Harwood Stout degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000263933')",betweenness0diversity0pagerank-1peel-2degree-1
+903,"('name:Hoster Blackwood degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000231221')",betweenness0diversity0pagerank-1peel-2degree-1
+904,"('name:Hugh degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000220576')",betweenness0diversity0pagerank-1peel-2degree-1
+905,"('name:Hugo Vance degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000220526')",betweenness0diversity0pagerank-1peel-2degree-1
+906,"('name:Imry Florent degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000229955')",betweenness0diversity0pagerank-1peel-2degree-1
+907,"('name:Jack Be Lucky degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000251953')",betweenness0diversity0pagerank-1peel-2degree-1
+908,"('name:Jacks degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000227473')",betweenness0diversity0pagerank-1peel-2degree-1
+909,"('name:Jaehaerys I Targaryen degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000255911')",betweenness0diversity0pagerank-1peel-2degree-1
+910,"('name:Jafer Flowers degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000249044')",betweenness0diversity0pagerank-1peel-2degree-1
+911,"('name:Jeyne Heddle degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000236456')",betweenness0diversity0pagerank-1peel-2degree-1
+912,"('name:Joanna Lannister degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000226091')",betweenness0diversity0pagerank-1peel-2degree-1
+913,"('name:Jon Fossoway degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000245536')",betweenness0diversity0pagerank-1peel-2degree-1
+914,"('name:Joss degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00023723')",betweenness0diversity0pagerank-1peel-2degree-1
+915,"('name:Joy Hill degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000220526')",betweenness0diversity0pagerank-1peel-2degree-1
+916,"('name:Kella degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000215275')",betweenness0diversity0pagerank-1peel-2degree-1
+917,"('name:Kurleket degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000237004')",betweenness0diversity0pagerank-1peel-2degree-1
+918,"('name:Kyra degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000248835')",betweenness0diversity0pagerank-1peel-2degree-1
+919,"('name:Lanna (Happy Port) degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000248134')",betweenness0diversity0pagerank-1peel-2degree-1
+920,"('name:Larraq degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00022139')",betweenness0diversity0pagerank-1peel-2degree-1
+921,"('name:Leo Lefford degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000227292')",betweenness0diversity0pagerank-1peel-2degree-1
+922,"('name:Leonette Fossoway degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000232809')",betweenness0diversity0pagerank-1peel-2degree-1
+923,"('name:Lewys Piper degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000220526')",betweenness0diversity0pagerank-1peel-2degree-1
+924,"('name:Longwater Pyke degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000267817')",betweenness0diversity0pagerank-1peel-2degree-1
+925,"('name:Lorent Caswell degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000218098')",betweenness0diversity0pagerank-1peel-2degree-1
+926,"('name:Lucifer Long degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00027739')",betweenness0diversity0pagerank-1peel-2degree-1
+927,"('name:Luton degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000279018')",betweenness0diversity0pagerank-1peel-2degree-1
+928,"('name:Lyanna Mormont degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000221924')",betweenness0diversity0pagerank-1peel-2degree-1
+929,"('name:Lynesse Hightower degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000223827')",betweenness0diversity0pagerank-1peel-2degree-1
+930,"('name:Lysono Maar degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000223827')",betweenness0diversity0pagerank-1peel-2degree-1
+931,"('name:Mad Huntsman degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000231597')",betweenness0diversity0pagerank-1peel-2degree-1
+932,"('name:Maekar I Targaryen degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000222095')",betweenness0diversity0pagerank-1peel-2degree-1
+933,"('name:Mallador Locke degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000258368')",betweenness0diversity0pagerank-1peel-2degree-1
+934,"('name:Marghaz zo Loraq degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000251769')",betweenness0diversity0pagerank-1peel-2degree-1
+935,"('name:Mark Mullendore degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000215389')",betweenness0diversity0pagerank-1peel-2degree-1
+936,"('name:Maron Greyjoy degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000217715')",betweenness0diversity0pagerank-1peel-2degree-1
+937,"('name:Martyn Rivers degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000219491')",betweenness0diversity0pagerank-1peel-2degree-1
+938,"('name:Masha Heddle degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000240975')",betweenness0diversity0pagerank-1peel-2degree-1
+939,"('name:Matthar degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00022145')",betweenness0diversity0pagerank-1peel-2degree-1
+940,"('name:Matthos Seaworth degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000229955')",betweenness0diversity0pagerank-1peel-2degree-1
+941,"('name:Mebble degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000234778')",betweenness0diversity0pagerank-1peel-2degree-1
+942,"('name:Meralyn degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000285541')",betweenness0diversity0pagerank-1peel-2degree-1
+943,"('name:Merrit degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000224475')",betweenness0diversity0pagerank-1peel-2degree-1
+944,"('name:Moreo Tumitis degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000219962')",betweenness0diversity0pagerank-1peel-2degree-1
+945,"('name:Morgo degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000227292')",betweenness0diversity0pagerank-1peel-2degree-1
+946,"('name:Munda degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000239738')",betweenness0diversity0pagerank-1peel-2degree-1
+947,"('name:Mychel Redfort degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000219962')",betweenness0diversity0pagerank-1peel-2degree-1
+948,"('name:Nage degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000243613')",betweenness0diversity0pagerank-1peel-2degree-1
+949,"('name:Old Bill Bone degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000233822')",betweenness0diversity0pagerank-1peel-2degree-1
+950,"('name:Othor degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000243455')",betweenness0diversity0pagerank-1peel-2degree-1
+951,"('name:Owen Merryweather degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000228186')",betweenness0diversity0pagerank-1peel-2degree-1
+952,"('name:Pate (Old) degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000231597')",betweenness0diversity0pagerank-1peel-2degree-1
+953,"('name:Pate (whipping boy) degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000223331')",betweenness0diversity0pagerank-1peel-2degree-1
+954,"('name:Porther degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000227473')",betweenness0diversity0pagerank-1peel-2degree-1
+955,"('name:Poxy Tym degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000216665')",betweenness0diversity0pagerank-1peel-2degree-1
+956,"('name:Praed degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000220809')",betweenness0diversity0pagerank-1peel-2degree-1
+957,"('name:Quaithe degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000318185')",betweenness0diversity0pagerank-1peel-2degree-1
+958,"('name:Ragwyle degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000224916')",betweenness0diversity0pagerank-1peel-2degree-1
+959,"('name:Ravella Swann degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000263964')",betweenness0diversity0pagerank-1peel-2degree-1
+960,"('name:Rhaegel Targaryen degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000247416')",betweenness0diversity0pagerank-1peel-2degree-1
+961,"('name:Rhaego degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00024899')",betweenness0diversity0pagerank-1peel-2degree-1
+962,"('name:Rhaenys Targaryen (daughter of Rhaegar) degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000240767')",betweenness0diversity0pagerank-1peel-2degree-1
+963,"('name:Rolfe the Dwarf degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000250159')",betweenness0diversity0pagerank-1peel-2degree-1
+964,"('name:Rolph Spicer degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00024019')",betweenness0diversity0pagerank-1peel-2degree-1
+965,"('name:Roose Ryswell degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000221924')",betweenness0diversity0pagerank-1peel-2degree-1
+966,"('name:Rossart degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000241434')",betweenness0diversity0pagerank-1peel-2degree-1
+967,"('name:Rus degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000315399')",betweenness0diversity0pagerank-1peel-2degree-1
+968,"('name:Sarella Sand degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000246374')",betweenness0diversity0pagerank-1peel-2degree-1
+969,"('name:Sawane Botley degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000260678')",betweenness0diversity0pagerank-1peel-2degree-1
+970,"('name:Selwyn Tarth degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000236456')",betweenness0diversity0pagerank-1peel-2degree-1
+971,"('name:Shadd degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000262648')",betweenness0diversity0pagerank-1peel-2degree-1
+972,"('name:Shitmouth degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000220526')",betweenness0diversity0pagerank-1peel-2degree-1
+973,"('name:Shrouded Lord degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000227292')",betweenness0diversity0pagerank-1peel-2degree-1
+974,"('name:Softfoot degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00025316')",betweenness0diversity0pagerank-1peel-2degree-1
+975,"('name:Soren Shieldbreaker degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00022145')",betweenness0diversity0pagerank-1peel-2degree-1
+976,"('name:Theobald degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000264075')",betweenness0diversity0pagerank-1peel-2degree-1
+977,"('name:Timoth degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00023997')",betweenness0diversity0pagerank-1peel-2degree-1
+978,"('name:Tobho Mott degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000256745')",betweenness0diversity0pagerank-1peel-2degree-1
+979,"('name:Tom Barleycorn degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000232452')",betweenness0diversity0pagerank-1peel-2degree-1
+980,"('name:Torgon Greyiron degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000250159')",betweenness0diversity0pagerank-1peel-2degree-1
+981,"('name:Tregar degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000227473')",betweenness0diversity0pagerank-1peel-2degree-1
+982,"('name:Tristifer IV Mudd degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000219491')",betweenness0diversity0pagerank-1peel-2degree-1
+983,"('name:Ulf son of Umar degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000260961')",betweenness0diversity0pagerank-1peel-2degree-1
+984,"('name:Ulmer degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00022145')",betweenness0diversity0pagerank-1peel-2degree-1
+985,"('name:Umma degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000253175')",betweenness0diversity0pagerank-1peel-2degree-1
+986,"('name:Urswyck degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000306083')",betweenness0diversity0pagerank-1peel-2degree-1
+987,"('name:Varly degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000227473')",betweenness0diversity0pagerank-1peel-2degree-1
+988,"('name:Watt degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000224086')",betweenness0diversity0pagerank-1peel-2degree-1
+989,"('name:Widower degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00022139')",betweenness0diversity0pagerank-1peel-2degree-1
+990,"('name:William Foxglove degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000221924')",betweenness0diversity0pagerank-1peel-2degree-1
+991,"('name:Willow Witch eye degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000248835')",betweenness0diversity0pagerank-1peel-2degree-1
+992,"('name:Wulfe degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000267817')",betweenness0diversity0pagerank-1peel-2degree-1
+993,"('name:Wylla degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000217715')",betweenness0diversity0pagerank-1peel-2degree-1
+994,"('name:Wynton Stout degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000222095')",betweenness0diversity0pagerank-1peel-2degree-1
+995,"('name:Yorko Terys degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000253175')",betweenness0diversity0pagerank-1peel-2degree-1
+996,"('name:Yurkhaz zo Yunzak degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000235622')",betweenness0diversity0pagerank-1peel-2degree-1
+997,"('name:Zei degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00022145')",betweenness0diversity0pagerank-1peel-2degree-1
+998,"('name:Alys Arryn degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000649616')",betweenness-1diversity1pagerank1peel-2degree-1
+999,"('name:Brandon Norrey degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000597971')",betweenness-1diversity1pagerank1peel-2degree-1
+1000,"('name:Dick Straw degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000645862')",betweenness-1diversity1pagerank1peel-2degree-1
+1001,"('name:Gerrick Kingsblood degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.00055369')",betweenness-1diversity1pagerank1peel-2degree-1
+1002,"('name:Puckens degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000590127')",betweenness-1diversity1pagerank1peel-2degree-1
+1003,"('name:Raynard degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000640699')",betweenness-1diversity1pagerank1peel-2degree-1
+1004,"('name:Rennifer Longwaters degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000596489')",betweenness-1diversity1pagerank1peel-2degree-1
+1005,"('name:Elys Waynwood degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000504899')",betweenness0diversity-1pagerank1peel-2degree-1
+1006,"('name:Hobber Redwyne degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00064311')",betweenness0diversity-1pagerank1peel-2degree-1
+1007,"('name:Kerwin degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00050594')",betweenness0diversity-1pagerank1peel-2degree-1
+1008,"('name:Kurz degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000570494')",betweenness0diversity-1pagerank1peel-2degree-1
+1009,"('name:Manfrey Martell degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000521197')",betweenness0diversity-1pagerank1peel-2degree-1
+1010,"('name:Rosey degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00059763')",betweenness0diversity-1pagerank1peel-2degree-1
+1011,"('name:Torbert degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000500465')",betweenness0diversity-1pagerank1peel-2degree-1
+1012,"('name:Torwold Browntooth degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000526955')",betweenness0diversity-1pagerank1peel-2degree-1
+1013,"('name:Ardrian Celtigar degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000432511')",betweenness0diversity0pagerank0peel-2degree-1
+1014,"('name:Black Balaq degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000331797')",betweenness0diversity0pagerank0peel-2degree-1
+1015,"('name:Bump degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00034388')",betweenness0diversity0pagerank0peel-2degree-1
+1016,"('name:Coratt degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000336228')",betweenness0diversity0pagerank0peel-2degree-1
+1017,"('name:Dolf degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000369739')",betweenness0diversity0pagerank0peel-2degree-1
+1018,"('name:Draqaz degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000355612')",betweenness0diversity0pagerank0peel-2degree-1
+1019,"('name:Fogo degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000328426')",betweenness0diversity0pagerank0peel-2degree-1
+1020,"('name:Gelmarr degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000408841')",betweenness0diversity0pagerank0peel-2degree-1
+1021,"('name:Gerald Gower degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000325153')",betweenness0diversity0pagerank0peel-2degree-1
+1022,"('name:Gerold Grafton degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00036738')",betweenness0diversity0pagerank0peel-2degree-1
+1023,"('name:Gormon Tyrell degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000377591')",betweenness0diversity0pagerank0peel-2degree-1
+1024,"('name:Gormond Goodbrother degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00034079')",betweenness0diversity0pagerank0peel-2degree-1
+1025,"('name:Haggon degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000437142')",betweenness0diversity0pagerank0peel-2degree-1
+1026,"('name:Hugh Hungerford degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000424186')",betweenness0diversity0pagerank0peel-2degree-1
+1027,"('name:Jeyne Farman degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00033889')",betweenness0diversity0pagerank0peel-2degree-1
+1028,"('name:Mord degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000382691')",betweenness0diversity0pagerank0peel-2degree-1
+1029,"('name:Quill degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000370303')",betweenness0diversity0pagerank0peel-2degree-1
+1030,"('name:Ralf (Limper) degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000373649')",betweenness0diversity0pagerank0peel-2degree-1
+1031,"('name:Raymun Redbeard degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000364995')",betweenness0diversity0pagerank0peel-2degree-1
+1032,"('name:Rugen degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000442313')",betweenness0diversity0pagerank0peel-2degree-1
+1033,"('name:Shortear degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00043965')",betweenness0diversity0pagerank0peel-2degree-1
+1034,"('name:Simon Toyne degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000453171')",betweenness0diversity0pagerank0peel-2degree-1
+1035,"('name:Steffon Varner degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000484995')",betweenness0diversity0pagerank0peel-2degree-1
+1036,"('name:Talbert Serry degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000453024')",betweenness0diversity0pagerank0peel-2degree-1
+1037,"('name:Tarber degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000474981')",betweenness0diversity0pagerank0peel-2degree-1
+1038,"('name:Thistle degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000406055')",betweenness0diversity0pagerank0peel-2degree-1
+1039,"('name:Tion Frey degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.00045581')",betweenness0diversity0pagerank0peel-2degree-1
+1040,"('name:Torghen Flint degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000442975')",betweenness0diversity0pagerank0peel-2degree-1
+1041,"('name:Cutjack degree:3 peel:1 diversity:0.636514168 betweenness:', '0.005028278 pagerank:0.001103553')",betweenness0diversity-1pagerank4peel-2degree-1
+1042,"('name:Gariss degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.001045996')",betweenness0diversity0pagerank4peel-2degree-1
+1043,"('name:Eldon Estermont degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000695329')",betweenness-1diversity0pagerank2peel-2degree-1
+1044,"('name:Florian the Fool degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000795762')",betweenness-1diversity0pagerank2peel-2degree-1
+1045,"('name:Horas Redwyne degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000759925')",betweenness-1diversity0pagerank2peel-2degree-1
+1046,"('name:Lucas Codd degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000791631')",betweenness-1diversity0pagerank2peel-2degree-1
+1047,"('name:Nyessos Vhassar degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000789027')",betweenness-1diversity0pagerank2peel-2degree-1
+1048,"('name:Ricasso degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000683305')",betweenness-1diversity0pagerank2peel-2degree-1
+1049,"('name:Smiling Knight degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000724057')",betweenness-1diversity0pagerank2peel-2degree-1
+1050,"('name:Jonquil degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000683271')",betweenness0diversity-2pagerank2peel-2degree-1
+1051,"('name:Malaquo Maegyr degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000660519')",betweenness0diversity-2pagerank2peel-2degree-1
+1052,"('name:Murch degree:1 peel:1 diversity:0.0 betweenness:', '0.0 pagerank:0.000745047')",betweenness0diversity-2pagerank2peel-2degree-1
+1053,"('name:Walgrave degree:2 peel:1 diversity:0.693147181 betweenness:', '0.002515723 pagerank:0.000965371')",betweenness0diversity0pagerank3peel-2degree-1
+1054,"('name:Aenys Frey degree:4 peel:3 diversity:1.386294361 betweenness:', '0.000811867 pagerank:0.000587833')",betweenness-1diversity1pagerank0peel0degree-1
+1055,"('name:Holly degree:4 peel:3 diversity:1.386294361 betweenness:', '8.74e-06 pagerank:0.000664264')",betweenness-1diversity1pagerank0peel0degree-1
+1056,"('name:Nurse degree:4 peel:3 diversity:1.386294361 betweenness:', '1.29e-05 pagerank:0.000536213')",betweenness-1diversity1pagerank0peel0degree-1
+1057,"('name:Mero degree:4 peel:3 diversity:1.386294361 betweenness:', '0.002515723 pagerank:0.000646844')",betweenness1diversity1pagerank0peel0degree-1
+1058,"('name:Alayaya degree:4 peel:3 diversity:1.039720771 betweenness:', '0.002515723 pagerank:0.000547053')",betweenness2diversity-1pagerank0peel0degree-1
+1059,"('name:Benfred Tallhart degree:4 peel:3 diversity:1.039720771 betweenness:', '0.000366933 pagerank:0.000599811')",betweenness-1diversity-1pagerank0peel0degree-1
+1060,"('name:Desmond Grell degree:4 peel:3 diversity:1.039720771 betweenness:', '3.2e-06 pagerank:0.000619345')",betweenness-1diversity-1pagerank0peel0degree-1
+1061,"('name:Ebben degree:4 peel:3 diversity:1.039720771 betweenness:', '1.06e-06 pagerank:0.000558816')",betweenness-1diversity-1pagerank0peel0degree-1
+1062,"('name:Falyse Stokeworth degree:4 peel:3 diversity:1.039720771 betweenness:', '5.51e-06 pagerank:0.000584925')",betweenness-1diversity-1pagerank0peel0degree-1
+1063,"('name:Malegorn degree:4 peel:3 diversity:1.039720771 betweenness:', '0.000350894 pagerank:0.00054851')",betweenness-1diversity-1pagerank0peel0degree-1
+1064,"('name:Wun Weg Wun Dar Wun degree:4 peel:3 diversity:1.039720771 betweenness:', '9.66e-06 pagerank:0.000582738')",betweenness-1diversity-1pagerank0peel0degree-1
+1065,"('name:Hotho Harlaw degree:4 peel:3 diversity:1.039720771 betweenness:', '0.000591416 pagerank:0.000735799')",betweenness0diversity-1pagerank0peel0degree-1
+1066,"('name:Alysane Mormont degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000720381')",betweenness-1diversity0pagerank0peel0degree-1
+1067,"('name:Jack Bulwer degree:5 peel:3 diversity:1.33217904 betweenness:', '0.000153222 pagerank:0.000566664')",betweenness-1diversity0pagerank0peel0degree-1
+1068,"('name:Leathers degree:5 peel:3 diversity:1.33217904 betweenness:', '2.27e-05 pagerank:0.000717899')",betweenness-1diversity0pagerank0peel0degree-1
+1069,"('name:Mikken degree:5 peel:3 diversity:1.33217904 betweenness:', '0.000236052 pagerank:0.00058564')",betweenness-1diversity0pagerank0peel0degree-1
+1070,"('name:Narbert Grandison degree:6 peel:3 diversity:1.242453325 betweenness:', '0.000812272 pagerank:0.00068425')",betweenness1diversity0pagerank0peel0degree-1
+1071,"('name:Moelle degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.00063156')",betweenness0diversity-2pagerank0peel0degree-1
+1072,"('name:Qarl the Maid degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000617043')",betweenness0diversity-2pagerank0peel0degree-1
+1073,"('name:Scolera degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000644208')",betweenness0diversity-2pagerank0peel0degree-1
+1074,"('name:Walder Frey (son of Jammos) degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000554463')",betweenness0diversity-2pagerank0peel0degree-1
+1075,"('name:Albett degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000332455')",betweenness-1diversity-2pagerank-1peel0degree-1
+1076,"('name:Brus Buckler degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000496241')",betweenness-1diversity-2pagerank-1peel0degree-1
+1077,"('name:Cayn degree:3 peel:3 diversity:0.636514168 betweenness:', '7.38e-06 pagerank:0.00036926')",betweenness-1diversity-2pagerank-1peel0degree-1
+1078,"('name:Chella degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000341398')",betweenness-1diversity-2pagerank-1peel0degree-1
+1079,"('name:Clayton Suggs degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000431088')",betweenness-1diversity-2pagerank-1peel0degree-1
+1080,"('name:Cley Cerwyn degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000339014')",betweenness-1diversity-2pagerank-1peel0degree-1
+1081,"('name:Dacey Mormont degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000323102')",betweenness-1diversity-2pagerank-1peel0degree-1
+1082,"('name:Dunstan Drumm degree:3 peel:3 diversity:0.636514168 betweenness:', '7.34e-06 pagerank:0.000466786')",betweenness-1diversity-2pagerank-1peel0degree-1
+1083,"('name:Elder Brother degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000392228')",betweenness-1diversity-2pagerank-1peel0degree-1
+1084,"('name:Emmon Cuy degree:3 peel:3 diversity:0.636514168 betweenness:', '1.69e-05 pagerank:0.000386363')",betweenness-1diversity-2pagerank-1peel0degree-1
+1085,"('name:Garth Greyfeather degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000462355')",betweenness-1diversity-2pagerank-1peel0degree-1
+1086,"('name:Genna Lannister degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000371735')",betweenness-1diversity-2pagerank-1peel0degree-1
+1087,"('name:Grunt degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000481448')",betweenness-1diversity-2pagerank-1peel0degree-1
+1088,"('name:Hairy Hal degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000451397')",betweenness-1diversity-2pagerank-1peel0degree-1
+1089,"('name:Harrold Hardyng degree:3 peel:3 diversity:0.636514168 betweenness:', '8.45e-06 pagerank:0.000432205')",betweenness-1diversity-2pagerank-1peel0degree-1
+1090,"('name:Narbert degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000445231')",betweenness-1diversity-2pagerank-1peel0degree-1
+1091,"('name:Utherydes Wayn degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000408889')",betweenness-1diversity-2pagerank-1peel0degree-1
+1092,"('name:Vyman degree:3 peel:3 diversity:0.636514168 betweenness:', '5.8e-06 pagerank:0.000441609')",betweenness-1diversity-2pagerank-1peel0degree-1
+1093,"('name:Marwyn degree:3 peel:3 diversity:0.636514168 betweenness:', '0.000561925 pagerank:0.00046376')",betweenness4diversity-2pagerank-1peel0degree-1
+1094,"('name:Robar Royce degree:3 peel:3 diversity:0.636514168 betweenness:', '5.02e-05 pagerank:0.000368354')",betweenness0diversity-2pagerank-1peel0degree-1
+1095,"('name:Alebelly degree:4 peel:3 diversity:1.386294361 betweenness:', '7.13e-06 pagerank:0.000451938')",betweenness-1diversity1pagerank-1peel0degree-1
+1096,"('name:Karyl Vance degree:4 peel:3 diversity:1.386294361 betweenness:', '2.09e-05 pagerank:0.000480061')",betweenness-1diversity1pagerank-1peel0degree-1
+1097,"('name:Lyn Corbray degree:4 peel:3 diversity:1.386294361 betweenness:', '2.1e-05 pagerank:0.000497425')",betweenness-1diversity1pagerank-1peel0degree-1
+1098,"('name:Sigorn degree:4 peel:3 diversity:1.386294361 betweenness:', '5.42e-05 pagerank:0.000410478')",betweenness-1diversity1pagerank-1peel0degree-1
+1099,"('name:Helman Tallhart degree:4 peel:3 diversity:1.386294361 betweenness:', '0.000136037 pagerank:0.000439299')",betweenness1diversity1pagerank-1peel0degree-1
+1100,"('name:Tytos Blackwood degree:5 peel:3 diversity:1.33217904 betweenness:', '0.000104712 pagerank:0.000478893')",betweenness0diversity1pagerank-1peel0degree-1
+1101,"('name:Alys Karstark degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.00050154')",betweenness-1diversity0pagerank-1peel0degree-1
+1102,"('name:Amerei Frey degree:3 peel:3 diversity:1.098612289 betweenness:', '2.3e-06 pagerank:0.000412983')",betweenness-1diversity0pagerank-1peel0degree-1
+1103,"('name:Arron degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000520314')",betweenness-1diversity0pagerank-1peel0degree-1
+1104,"('name:Balman Byrch degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000466159')",betweenness-1diversity0pagerank-1peel0degree-1
+1105,"('name:Chiggen degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000362125')",betweenness-1diversity0pagerank-1peel0degree-1
+1106,"('name:Dalbridge degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000366312')",betweenness-1diversity0pagerank-1peel0degree-1
+1107,"('name:Daven Lannister degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.00039655')",betweenness-1diversity0pagerank-1peel0degree-1
+1108,"('name:Emrick degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000475367')",betweenness-1diversity0pagerank-1peel0degree-1
+1109,"('name:Errok degree:3 peel:3 diversity:1.098612289 betweenness:', '1.06e-06 pagerank:0.000457692')",betweenness-1diversity0pagerank-1peel0degree-1
+1110,"('name:Grigg degree:3 peel:3 diversity:1.098612289 betweenness:', '1.06e-06 pagerank:0.000476586')",betweenness-1diversity0pagerank-1peel0degree-1
+1111,"('name:Hop Robin degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000386465')",betweenness-1diversity0pagerank-1peel0degree-1
+1112,"('name:Jarman Buckwell degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000380445')",betweenness-1diversity0pagerank-1peel0degree-1
+1113,"('name:Kasporio degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000327866')",betweenness-1diversity0pagerank-1peel0degree-1
+1114,"('name:Khorane Sathmantes degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000331911')",betweenness-1diversity0pagerank-1peel0degree-1
+1115,"('name:Lamprey degree:4 peel:3 diversity:1.039720771 betweenness:', '1.06e-06 pagerank:0.000484811')",betweenness-1diversity0pagerank-1peel0degree-1
+1116,"('name:Leobald Tallhart degree:3 peel:3 diversity:1.098612289 betweenness:', '2.05e-05 pagerank:0.000399025')",betweenness-1diversity0pagerank-1peel0degree-1
+1117,"('name:Myranda Royce degree:3 peel:3 diversity:1.098612289 betweenness:', '2.21e-05 pagerank:0.000383831')",betweenness-1diversity0pagerank-1peel0degree-1
+1118,"('name:Osfryd Kettleblack degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000420289')",betweenness-1diversity0pagerank-1peel0degree-1
+1119,"('name:Patrek of Kings Mountain degree:4 peel:3 diversity:1.039720771 betweenness:', '1.06e-06 pagerank:0.000480282')",betweenness-1diversity0pagerank-1peel0degree-1
+1120,"('name:Porridge degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000402686')",betweenness-1diversity0pagerank-1peel0degree-1
+1121,"('name:Qavo Nogarys degree:3 peel:3 diversity:1.098612289 betweenness:', '2.88e-05 pagerank:0.000362687')",betweenness-1diversity0pagerank-1peel0degree-1
+1122,"('name:Robin Flint degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000333527')",betweenness-1diversity0pagerank-1peel0degree-1
+1123,"('name:Steelskin degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000324408')",betweenness-1diversity0pagerank-1peel0degree-1
+1124,"('name:Stonesnake degree:4 peel:3 diversity:1.039720771 betweenness:', '2.11e-06 pagerank:0.000514585')",betweenness-1diversity0pagerank-1peel0degree-1
+1125,"('name:Sweets degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000393154')",betweenness-1diversity0pagerank-1peel0degree-1
+1126,"('name:Symon Silver Tongue degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000325363')",betweenness-1diversity0pagerank-1peel0degree-1
+1127,"('name:Toregg degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000423017')",betweenness-1diversity0pagerank-1peel0degree-1
+1128,"('name:Tybero Istarion degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000428926')",betweenness-1diversity0pagerank-1peel0degree-1
+1129,"('name:Yellow Dick degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.000444504')",betweenness-1diversity0pagerank-1peel0degree-1
+1130,"('name:Grazhar degree:3 peel:3 diversity:1.098612289 betweenness:', '3.76e-05 pagerank:0.000439397')",betweenness0diversity0pagerank-1peel0degree-1
+1131,"('name:Harren Hoare degree:3 peel:3 diversity:1.098612289 betweenness:', '7.67e-05 pagerank:0.000409919')",betweenness0diversity0pagerank-1peel0degree-1
+1132,"('name:Jason Mallister degree:3 peel:3 diversity:1.098612289 betweenness:', '6.51e-05 pagerank:0.000365624')",betweenness0diversity0pagerank-1peel0degree-1
+1133,"('name:Pia degree:4 peel:3 diversity:1.039720771 betweenness:', '0.000130851 pagerank:0.000463067')",betweenness0diversity0pagerank-1peel0degree-1
+1134,"('name:Tycho Nestoris degree:3 peel:3 diversity:1.098612289 betweenness:', '0.000534001 pagerank:0.000460313')",betweenness4diversity0pagerank-1peel0degree-1
+1135,"('name:Wyl (guard) degree:4 peel:3 diversity:1.039720771 betweenness:', '0.000269369 pagerank:0.000418843')",betweenness2diversity0pagerank-1peel0degree-1
+1136,"('name:Lambert Turnberry degree:3 peel:3 diversity:0.0 betweenness:', '1.06e-06 pagerank:0.000397737')",betweenness0diversity-4pagerank-1peel0degree-1
+1137,"('name:Arthur Dayne degree:5 peel:3 diversity:1.609437912 betweenness:', '0.005297159 pagerank:0.001060521')",betweenness1diversity0pagerank2peel0degree-1
+1138,"('name:Justin Massey degree:5 peel:3 diversity:1.33217904 betweenness:', '4.8e-05 pagerank:0.000994606')",betweenness-1diversity0pagerank2peel0degree-1
+1139,"('name:Wex Pyke degree:5 peel:3 diversity:1.609437912 betweenness:', '0.002152951 pagerank:0.00097706')",betweenness-1diversity0pagerank2peel0degree-1
+1140,"('name:Hagen degree:6 peel:3 diversity:0.867563228 betweenness:', '0.001299751 pagerank:0.000997847')",betweenness0diversity-2pagerank2peel0degree-1
+1141,"('name:Rodrik Harlaw degree:7 peel:3 diversity:1.004242473 betweenness:', '0.002132001 pagerank:0.001142976')",betweenness0diversity-1pagerank2peel0degree-1
+1142,"('name:Baelor I Targaryen degree:3 peel:3 diversity:0.0 betweenness:', '0.0 pagerank:0.000316271')",betweenness0diversity-1pagerank-2peel0degree-1
+1143,"('name:Beth Cassel degree:3 peel:3 diversity:0.0 betweenness:', '0.0 pagerank:0.000317037')",betweenness0diversity-1pagerank-2peel0degree-1
+1144,"('name:High Septon (fat one) degree:3 peel:3 diversity:0.0 betweenness:', '0.0 pagerank:0.000299908')",betweenness0diversity-1pagerank-2peel0degree-1
+1145,"('name:Eon Hunter degree:3 peel:3 diversity:1.098612289 betweenness:', '0.0 pagerank:0.00029378')",betweenness0diversity1pagerank-2peel0degree-1
+1146,"('name:Bryce Caron degree:5 peel:3 diversity:1.33217904 betweenness:', '0.005174682 pagerank:0.000780848')",betweenness1diversity0pagerank1peel0degree-1
+1147,"('name:Qezza degree:5 peel:3 diversity:1.33217904 betweenness:', '0.000106433 pagerank:0.000796912')",betweenness-1diversity0pagerank1peel0degree-1
+1148,"('name:Yezzan zo Qaggaz degree:5 peel:3 diversity:1.33217904 betweenness:', '5.81e-06 pagerank:0.000861203')",betweenness-1diversity0pagerank1peel0degree-1
+1149,"('name:Grimtongue degree:4 peel:3 diversity:1.039720771 betweenness:', '0.001271235 pagerank:0.000876535')",betweenness1diversity-1pagerank1peel0degree-1
+1150,"('name:Meribald degree:5 peel:3 diversity:1.054920168 betweenness:', '1.66e-05 pagerank:0.00087892')",betweenness-1diversity-1pagerank1peel0degree-1
+1151,"('name:Nute degree:4 peel:3 diversity:1.039720771 betweenness:', '8.98e-06 pagerank:0.000926631')",betweenness-1diversity-1pagerank1peel0degree-1
+1152,"('name:Unella degree:4 peel:3 diversity:1.039720771 betweenness:', '3.17e-06 pagerank:0.000862194')",betweenness-1diversity-1pagerank1peel0degree-1
+1153,"('name:Tristifer Botley degree:3 peel:3 diversity:0.636514168 betweenness:', '0.0 pagerank:0.000803304')",betweenness0diversity-2pagerank1peel0degree-1
+1154,"('name:Varamyr degree:6 peel:3 diversity:1.242453325 betweenness:', '0.007537665 pagerank:0.001419966')",betweenness0diversity0pagerank4peel0degree-1
+1155,"('name:Aggar degree:4 peel:2 diversity:1.039720771 betweenness:', '0.007996771 pagerank:0.001118448')",betweenness0diversity0pagerank4peel-1degree-1
+1156,"('name:Alerie Hightower degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000245362')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1157,"('name:Clubfoot Karl degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000292428')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1158,"('name:Colen of Greenpools degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000281137')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1159,"('name:Desmond degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000259839')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1160,"('name:Dirk degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000303233')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1161,"('name:Hallyne degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000262194')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1162,"('name:Humfrey Hewett degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000366511')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1163,"('name:Joramun degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000300797')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1164,"('name:Kojja Mo degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000349181')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1165,"('name:Oswell Kettleblack degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000272067')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1166,"('name:Preston Greenfield degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000244527')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1167,"('name:Quellon Greyjoy degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000366511')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1168,"('name:Raymun Darry degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000299085')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1169,"('name:Robin Ryger degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000316213')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1170,"('name:Steffon Baratheon degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.00025158')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1171,"('name:Vylarr degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000273664')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1172,"('name:Walda Frey (daughter of Merrett) degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000279242')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1173,"('name:Willam Dustin degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000254327')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1174,"('name:Wylis Manderly degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000248762')",betweenness-1diversity-3pagerank-1peel-1degree-1
+1175,"('name:Gawen Westerling degree:2 peel:2 diversity:0.0 betweenness:', '2.64e-06 pagerank:0.000312257')",betweenness4diversity-3pagerank-1peel-1degree-1
+1176,"('name:Allar Deem degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000257008')",betweenness-1diversity0pagerank-1peel-1degree-1
+1177,"('name:Anders Yronwood degree:2 peel:2 diversity:0.693147181 betweenness:', '1.66e-05 pagerank:0.000280168')",betweenness-1diversity0pagerank-1peel-1degree-1
+1178,"('name:Bannen degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00037383')",betweenness-1diversity0pagerank-1peel-1degree-1
+1179,"('name:Ben Bones degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000325274')",betweenness-1diversity0pagerank-1peel-1degree-1
+1180,"('name:Benethon Scales degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000312033')",betweenness-1diversity0pagerank-1peel-1degree-1
+1181,"('name:Big Boil degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000258542')",betweenness-1diversity0pagerank-1peel-1degree-1
+1182,"('name:Brella degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.0003005')",betweenness-1diversity0pagerank-1peel-1degree-1
+1183,"('name:Brynden Rivers degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000345825')",betweenness-1diversity0pagerank-1peel-1degree-1
+1184,"('name:Butterbumps degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000288816')",betweenness-1diversity0pagerank-1peel-1degree-1
+1185,"('name:Chayle degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000296296')",betweenness-1diversity0pagerank-1peel-1degree-1
+1186,"('name:Clement Piper degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000329309')",betweenness-1diversity0pagerank-1peel-1degree-1
+1187,"('name:Daemon Sand degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000256672')",betweenness-1diversity0pagerank-1peel-1degree-1
+1188,"('name:Daryn Hornwood degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000310475')",betweenness-1diversity0pagerank-1peel-1degree-1
+1189,"('name:Denyo Terys degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000380068')",betweenness-1diversity0pagerank-1peel-1degree-1
+1190,"('name:Dick Follard degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000294019')",betweenness-1diversity0pagerank-1peel-1degree-1
+1191,"('name:Drennan degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000379843')",betweenness-1diversity0pagerank-1peel-1degree-1
+1192,"('name:Forley Prester degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000268983')",betweenness-1diversity0pagerank-1peel-1degree-1
+1193,"('name:Frenya degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000381121')",betweenness-1diversity0pagerank-1peel-1degree-1
+1194,"('name:Fulk degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000312726')",betweenness-1diversity0pagerank-1peel-1degree-1
+1195,"('name:Garth (Wolfs Den) degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000324762')",betweenness-1diversity0pagerank-1peel-1degree-1
+1196,"('name:Gendel degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000385128')",betweenness-1diversity0pagerank-1peel-1degree-1
+1197,"('name:Ghael degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000386775')",betweenness-1diversity0pagerank-1peel-1degree-1
+1198,"('name:Gorne degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000385128')",betweenness-1diversity0pagerank-1peel-1degree-1
+1199,"('name:Guncer Sunglass degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000274918')",betweenness-1diversity0pagerank-1peel-1degree-1
+1200,"('name:Harra degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000367546')",betweenness-1diversity0pagerank-1peel-1degree-1
+1201,"('name:Hayhead degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000305517')",betweenness-1diversity0pagerank-1peel-1degree-1
+1202,"('name:Heward degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000316455')",betweenness-1diversity0pagerank-1peel-1degree-1
+1203,"('name:Howland Reed degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000245938')",betweenness-1diversity0pagerank-1peel-1degree-1
+1204,"('name:Husband degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000279971')",betweenness-1diversity0pagerank-1peel-1degree-1
+1205,"('name:Jommo degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000329759')",betweenness-1diversity0pagerank-1peel-1degree-1
+1206,"('name:Jon Umber (Smalljon) degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000293296')",betweenness-1diversity0pagerank-1peel-1degree-1
+1207,"('name:Jonos Bracken degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00034895')",betweenness-1diversity0pagerank-1peel-1degree-1
+1208,"('name:Joseth degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000254404')",betweenness-1diversity0pagerank-1peel-1degree-1
+1209,"('name:Kedry degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000303343')",betweenness-1diversity0pagerank-1peel-1degree-1
+1210,"('name:Koss degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000279078')",betweenness-1diversity0pagerank-1peel-1degree-1
+1211,"('name:Kraznys mo Nakloz degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000414261')",betweenness-1diversity0pagerank-1peel-1degree-1
+1212,"('name:Leaf degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000286834')",betweenness-1diversity0pagerank-1peel-1degree-1
+1213,"('name:Leona Woolfield degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00029457')",betweenness-1diversity0pagerank-1peel-1degree-1
+1214,"('name:Lyonel Corbray degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000317103')",betweenness-1diversity0pagerank-1peel-1degree-1
+1215,"('name:Mag Mar Tun Doh Weg degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000295555')",betweenness-1diversity0pagerank-1peel-1degree-1
+1216,"('name:Maggy degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000346189')",betweenness-1diversity0pagerank-1peel-1degree-1
+1217,"('name:Mariya Darry degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000305805')",betweenness-1diversity0pagerank-1peel-1degree-1
+1218,"('name:Marlon Manderly degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000291112')",betweenness-1diversity0pagerank-1peel-1degree-1
+1219,"('name:Marselen degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000408268')",betweenness-1diversity0pagerank-1peel-1degree-1
+1220,"('name:Marya Seaworth degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000383786')",betweenness-1diversity0pagerank-1peel-1degree-1
+1221,"('name:Merrett Frey degree:2 peel:2 diversity:0.693147181 betweenness:', '8.77e-06 pagerank:0.000262151')",betweenness-1diversity0pagerank-1peel-1degree-1
+1222,"('name:Mezzara degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000332411')",betweenness-1diversity0pagerank-1peel-1degree-1
+1223,"('name:Morrec degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000397546')",betweenness-1diversity0pagerank-1peel-1degree-1
+1224,"('name:Myles Toyne degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000376496')",betweenness-1diversity0pagerank-1peel-1degree-1
+1225,"('name:Olyvar Frey degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000372516')",betweenness-1diversity0pagerank-1peel-1degree-1
+1226,"('name:Orell degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00029155')",betweenness-1diversity0pagerank-1peel-1degree-1
+1227,"('name:Oznak zo Pahl degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000327679')",betweenness-1diversity0pagerank-1peel-1degree-1
+1228,"('name:Palla degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.0002796')",betweenness-1diversity0pagerank-1peel-1degree-1
+1229,"('name:Perwyn Frey degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000324745')",betweenness-1diversity0pagerank-1peel-1degree-1
+1230,"('name:Petyr Frey degree:2 peel:2 diversity:0.693147181 betweenness:', '1.06e-06 pagerank:0.000294765')",betweenness-1diversity0pagerank-1peel-1degree-1
+1231,"('name:Quhuru Mo degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000311279')",betweenness-1diversity0pagerank-1peel-1degree-1
+1232,"('name:Ralf Stonehouse degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00036651')",betweenness-1diversity0pagerank-1peel-1degree-1
+1233,"('name:Reek degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000277816')",betweenness-1diversity0pagerank-1peel-1degree-1
+1234,"('name:Rhaella Targaryen degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00025335')",betweenness-1diversity0pagerank-1peel-1degree-1
+1235,"('name:Richard Horpe degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00037009')",betweenness-1diversity0pagerank-1peel-1degree-1
+1236,"('name:Rickard Stark degree:2 peel:2 diversity:0.693147181 betweenness:', '6.48e-06 pagerank:0.000263685')",betweenness-1diversity0pagerank-1peel-1degree-1
+1237,"('name:Roger Ryswell degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000321248')",betweenness-1diversity0pagerank-1peel-1degree-1
+1238,"('name:Rollam Westerling degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000298771')",betweenness-1diversity0pagerank-1peel-1degree-1
+1239,"('name:Ronnet Connington degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000260535')",betweenness-1diversity0pagerank-1peel-1degree-1
+1240,"('name:Rory degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000326228')",betweenness-1diversity0pagerank-1peel-1degree-1
+1241,"('name:Scar degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00032711')",betweenness-1diversity0pagerank-1peel-1degree-1
+1242,"('name:Senelle degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00029625')",betweenness-1diversity0pagerank-1peel-1degree-1
+1243,"('name:Stiv degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000257121')",betweenness-1diversity0pagerank-1peel-1degree-1
+1244,"('name:Sybelle Glover degree:2 peel:2 diversity:0.693147181 betweenness:', '1.81e-05 pagerank:0.00037011')",betweenness-1diversity0pagerank-1peel-1degree-1
+1245,"('name:Talea degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000355607')",betweenness-1diversity0pagerank-1peel-1degree-1
+1246,"('name:Ternesio Terys degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000330469')",betweenness-1diversity0pagerank-1peel-1degree-1
+1247,"('name:Theomore degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000270385')",betweenness-1diversity0pagerank-1peel-1degree-1
+1248,"('name:Torrhen Stark degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000286139')",betweenness-1diversity0pagerank-1peel-1degree-1
+1249,"('name:Urzen degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000353687')",betweenness-1diversity0pagerank-1peel-1degree-1
+1250,"('name:Werlag degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000360739')",betweenness-1diversity0pagerank-1peel-1degree-1
+1251,"('name:Wick Whittlestick degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000298864')",betweenness-1diversity0pagerank-1peel-1degree-1
+1252,"('name:Willow Heddle degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000284493')",betweenness-1diversity0pagerank-1peel-1degree-1
+1253,"('name:Daeron II Targaryen degree:2 peel:2 diversity:0.693147181 betweenness:', '0.001246763 pagerank:0.000257479')",betweenness7diversity0pagerank-1peel-1degree-1
+1254,"('name:Martyn Lannister degree:2 peel:2 diversity:0.693147181 betweenness:', '3.11e-05 pagerank:0.000350362')",betweenness0diversity0pagerank-1peel-1degree-1
+1255,"('name:Shadrich degree:2 peel:2 diversity:0.693147181 betweenness:', '0.000132657 pagerank:0.000322764')",betweenness0diversity0pagerank-1peel-1degree-1
+1256,"('name:Torrhen Karstark degree:3 peel:2 diversity:0.636514168 betweenness:', '5.23e-05 pagerank:0.000400213')",betweenness0diversity0pagerank-1peel-1degree-1
+1257,"('name:Trystane Martell degree:2 peel:2 diversity:0.693147181 betweenness:', '6.41e-05 pagerank:0.000380437')",betweenness0diversity0pagerank-1peel-1degree-1
+1258,"('name:Rhaegar Frey degree:2 peel:2 diversity:0.693147181 betweenness:', '0.000632098 pagerank:0.000413198')",betweenness3diversity0pagerank-1peel-1degree-1
+1259,"('name:Allard Seaworth degree:3 peel:2 diversity:1.098612289 betweenness:', '1.67e-05 pagerank:0.000495025')",betweenness0diversity1pagerank0peel-1degree-1
+1260,"('name:Cleon degree:3 peel:2 diversity:1.098612289 betweenness:', '1.91e-05 pagerank:0.000513622')",betweenness1diversity1pagerank0peel-1degree-1
+1261,"('name:Squint degree:3 peel:2 diversity:1.098612289 betweenness:', '7.39e-06 pagerank:0.000515248')",betweenness-1diversity1pagerank0peel-1degree-1
+1262,"('name:Stygg degree:3 peel:2 diversity:1.098612289 betweenness:', '4.22e-06 pagerank:0.000497838')",betweenness-2diversity1pagerank0peel-1degree-1
+1263,"('name:Amabel degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000431671')",betweenness-1diversity0pagerank0peel-1degree-1
+1264,"('name:Brea degree:3 peel:2 diversity:0.636514168 betweenness:', '1.58e-06 pagerank:0.00054718')",betweenness-1diversity0pagerank0peel-1degree-1
+1265,"('name:Brusco degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000482345')",betweenness-1diversity0pagerank0peel-1degree-1
+1266,"('name:Cedra degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000415537')",betweenness-1diversity0pagerank0peel-1degree-1
+1267,"('name:Guyard Morrigen degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000415617')",betweenness-1diversity0pagerank0peel-1degree-1
+1268,"('name:Gyles Grafton degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000529945')",betweenness-1diversity0pagerank0peel-1degree-1
+1269,"('name:Gynir degree:2 peel:2 diversity:0.693147181 betweenness:', '8.06e-05 pagerank:0.000512858')",betweenness-1diversity0pagerank0peel-1degree-1
+1270,"('name:Josmyn Peckledon degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00047755')",betweenness-1diversity0pagerank0peel-1degree-1
+1271,"('name:Jyck degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00041563')",betweenness-1diversity0pagerank0peel-1degree-1
+1272,"('name:Kindly Man degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00057841')",betweenness-1diversity0pagerank0peel-1degree-1
+1273,"('name:Mellei degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000512378')",betweenness-1diversity0pagerank0peel-1degree-1
+1274,"('name:Morra degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000512378')",betweenness-1diversity0pagerank0peel-1degree-1
+1275,"('name:Murenmure degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000513042')",betweenness-1diversity0pagerank0peel-1degree-1
+1276,"('name:Prendahl na Ghezn degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000518784')",betweenness-1diversity0pagerank0peel-1degree-1
+1277,"('name:Pyat Pree degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000503741')",betweenness-1diversity0pagerank0peel-1degree-1
+1278,"('name:Raynald Westerling degree:3 peel:2 diversity:0.636514168 betweenness:', '3.21e-05 pagerank:0.000432595')",betweenness-1diversity0pagerank0peel-1degree-1
+1279,"('name:Rhaenys Targaryen degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000460117')",betweenness-1diversity0pagerank0peel-1degree-1
+1280,"('name:Rodrik Sparr degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000467438')",betweenness-1diversity0pagerank0peel-1degree-1
+1281,"('name:Sallor degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000518784')",betweenness-1diversity0pagerank0peel-1degree-1
+1282,"('name:Symon Stripeback degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.00043394')",betweenness-1diversity0pagerank0peel-1degree-1
+1283,"('name:Visenya Targaryen degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000424507')",betweenness-1diversity0pagerank0peel-1degree-1
+1284,"('name:Xhondo degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000515215')",betweenness-1diversity0pagerank0peel-1degree-1
+1285,"('name:Danwell Frey degree:3 peel:2 diversity:0.636514168 betweenness:', '0.001046981 pagerank:0.000511944')",betweenness1diversity0pagerank0peel-1degree-1
+1286,"('name:Franklyn Flowers degree:3 peel:2 diversity:0.636514168 betweenness:', '0.002515723 pagerank:0.000562059')",betweenness4diversity0pagerank0peel-1degree-1
+1287,"('name:Cromm degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000526047')",betweenness0diversity-3pagerank0peel-1degree-1
+1288,"('name:Gorold Goodbrother degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.00052173')",betweenness0diversity-3pagerank0peel-1degree-1
+1289,"('name:Jonothor Darry degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000554972')",betweenness0diversity-3pagerank0peel-1degree-1
+1290,"('name:Meldred Merlyn degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000445556')",betweenness0diversity-3pagerank0peel-1degree-1
+1291,"('name:Sigfryd Harlaw degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.000442543')",betweenness0diversity-3pagerank0peel-1degree-1
+1292,"('name:Andrew Estermont degree:3 peel:2 diversity:1.098612289 betweenness:', '0.002515723 pagerank:0.000589546')",betweenness0diversity0pagerank1peel-1degree-1
+1293,"('name:Ballabar degree:3 peel:2 diversity:1.098612289 betweenness:', '0.002515723 pagerank:0.000617424')",betweenness0diversity0pagerank1peel-1degree-1
+1294,"('name:Conn degree:3 peel:2 diversity:1.098612289 betweenness:', '0.002515723 pagerank:0.000695691')",betweenness0diversity0pagerank1peel-1degree-1
+1295,"('name:Melara Hetherspoon degree:4 peel:2 diversity:1.039720771 betweenness:', '0.002586857 pagerank:0.000663734')",betweenness0diversity0pagerank1peel-1degree-1
+1296,"('name:Miklaz degree:3 peel:2 diversity:1.098612289 betweenness:', '0.002515723 pagerank:0.000655193')",betweenness0diversity0pagerank1peel-1degree-1
+1297,"('name:Monford Velaryon degree:3 peel:2 diversity:1.098612289 betweenness:', '0.002515723 pagerank:0.00063116')",betweenness0diversity0pagerank1peel-1degree-1
+1298,"('name:Ogo degree:3 peel:2 diversity:1.098612289 betweenness:', '0.002515723 pagerank:0.00074093')",betweenness0diversity0pagerank1peel-1degree-1
+1299,"('name:Hosteen Frey degree:4 peel:2 diversity:1.039720771 betweenness:', '0.000968636 pagerank:0.000748541')",betweenness-2diversity0pagerank1peel-1degree-1
+1300,"('name:Xaro Xhoan Daxos degree:3 peel:2 diversity:1.098612289 betweenness:', '4.48e-05 pagerank:0.000741878')",betweenness-3diversity0pagerank1peel-1degree-1
+1301,"('name:Harry Strickland degree:3 peel:2 diversity:0.636514168 betweenness:', '5.34e-06 pagerank:0.000640291')",betweenness-1diversity-1pagerank1peel-1degree-1
+1302,"('name:Illifer degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000667861')",betweenness-1diversity-1pagerank1peel-1degree-1
+1303,"('name:Oswell Whent degree:3 peel:2 diversity:0.636514168 betweenness:', '0.001200188 pagerank:0.000680536')",betweenness-1diversity-1pagerank1peel-1degree-1
+1304,"('name:Waif degree:2 peel:2 diversity:0.693147181 betweenness:', '0.0 pagerank:0.000617169')",betweenness-1diversity-1pagerank1peel-1degree-1
+1305,"('name:Red Oarsman degree:3 peel:2 diversity:0.636514168 betweenness:', '0.00502511 pagerank:0.000733144')",betweenness1diversity-1pagerank1peel-1degree-1
+1306,"('name:Jared Frey degree:3 peel:2 diversity:0.0 betweenness:', '6.07e-06 pagerank:0.00062169')",betweenness0diversity-3pagerank1peel-1degree-1
+1307,"('name:Creighton Longbough degree:3 peel:2 diversity:0.636514168 betweenness:', '2.56e-05 pagerank:0.00081125')",betweenness-1diversity-2pagerank2peel-1degree-1
+1308,"('name:Gared degree:3 peel:2 diversity:0.636514168 betweenness:', '0.001020953 pagerank:0.000930895')",betweenness0diversity-2pagerank2peel-1degree-1
+1309,"('name:Lewyn Martell degree:4 peel:2 diversity:1.039720771 betweenness:', '0.001318426 pagerank:0.000813275')",betweenness-1diversity0pagerank2peel-1degree-1
+1310,"('name:Terrance Lynderly degree:3 peel:2 diversity:1.098612289 betweenness:', '0.002515723 pagerank:0.0008394')",betweenness0diversity0pagerank2peel-1degree-1
+1311,"('name:Willem Lannister degree:4 peel:2 diversity:1.386294361 betweenness:', '0.002623001 pagerank:0.000784547')",betweenness0diversity1pagerank2peel-1degree-1
+1312,"('name:Waymar Royce degree:3 peel:2 diversity:0.636514168 betweenness:', '0.001593511 pagerank:0.001092001')",betweenness0diversity0pagerank3peel-1degree-1
+1313,"('name:Will (prologue) degree:2 peel:2 diversity:0.0 betweenness:', '0.0 pagerank:0.001008893')",betweenness0diversity-1pagerank3peel-1degree-1
+1314,"('name:Alester Florent degree:7 peel:6 diversity:1.351783994 betweenness:', '0.000362833 pagerank:0.000742177')",betweenness-1diversity0pagerank-1peel2degree-1
+1315,"('name:Greenbeard degree:7 peel:6 diversity:1.277034259 betweenness:', '5.72e-06 pagerank:0.00072922')",betweenness-1diversity0pagerank-1peel2degree-1
+1316,"('name:Paxter Redwyne degree:6 peel:6 diversity:1.329661349 betweenness:', '0.000772814 pagerank:0.000604391')",betweenness1diversity0pagerank-1peel2degree-1
+1317,"('name:Cortnay Penrose degree:7 peel:6 diversity:1.153741943 betweenness:', '0.00066034 pagerank:0.000699725')",betweenness0diversity-1pagerank-1peel2degree-1
+1318,"('name:Tanda Stokeworth degree:7 peel:6 diversity:1.475076311 betweenness:', '2.31e-05 pagerank:0.000707311')",betweenness0diversity1pagerank-1peel2degree-1
+1319,"('name:Ysilla degree:6 peel:6 diversity:0.867563228 betweenness:', '0.0 pagerank:0.000725298')",betweenness0diversity-2pagerank-1peel2degree-1
+1320,"('name:Clydas degree:7 peel:6 diversity:1.475076311 betweenness:', '0.00022216 pagerank:0.001215514')",betweenness0diversity0pagerank2peel2degree-1
+1321,"('name:Dalla degree:6 peel:6 diversity:1.242453325 betweenness:', '3.51e-05 pagerank:0.000753343')",betweenness-1diversity0pagerank0peel2degree-1
+1322,"('name:Nestor Royce degree:7 peel:6 diversity:1.475076311 betweenness:', '7.73e-05 pagerank:0.000805248')",betweenness-1diversity0pagerank0peel2degree-1
+1323,"('name:Hyle Hunt degree:7 peel:6 diversity:1.153741943 betweenness:', '0.000285899 pagerank:0.000925346')",betweenness1diversity0pagerank0peel2degree-1
+1324,"('name:Doreah degree:6 peel:6 diversity:0.450561209 betweenness:', '2.07e-06 pagerank:0.000790894')",betweenness0diversity-2pagerank0peel2degree-1
+1325,"('name:Garlan Tyrell degree:7 peel:6 diversity:0.79631164 betweenness:', '0.002519168 pagerank:0.000765968')",betweenness0diversity-1pagerank0peel2degree-1
+1326,"('name:Lemore degree:7 peel:6 diversity:0.955699891 betweenness:', '2.04e-06 pagerank:0.000825797')",betweenness-1diversity-1pagerank0peel2degree-1
+1327,"('name:Lollys Stokeworth degree:7 peel:6 diversity:1.549826046 betweenness:', '1.17e-05 pagerank:0.000771718')",betweenness0diversity1pagerank0peel2degree-1
+1328,"('name:Ellaria Sand degree:6 peel:6 diversity:1.329661349 betweenness:', '0.000988794 pagerank:0.000464905')",betweenness0diversity-1pagerank-2peel2degree-1
+1329,"('name:Hullen degree:6 peel:6 diversity:1.242453325 betweenness:', '4.65e-05 pagerank:0.000404489')",betweenness-1diversity-1pagerank-2peel2degree-1
+1330,"('name:Tansy degree:6 peel:6 diversity:1.560710409 betweenness:', '0.000190475 pagerank:0.000467736')",betweenness0diversity1pagerank-2peel2degree-1
+1331,"('name:Yandry degree:7 peel:6 diversity:0.955699891 betweenness:', '2.04e-06 pagerank:0.000967965')",betweenness0diversity0pagerank1peel2degree-1
+1332,"('name:Cleos Frey degree:7 peel:7 diversity:0.0 betweenness:', '1.95e-05 pagerank:0.001092543')",betweenness0diversity0pagerank0peel3degree-1
+1333,"('name:Aemon Targaryen (Maester Aemon) degree:26 peel:8 diversity:1.751052605 betweenness:', '0.019000091 pagerank:0.005212806')",betweenness0diversity-1pagerank0peel-1degree1
+1334,"('name:Drogo degree:21 peel:8 diversity:1.706770659 betweenness:', '0.012390513 pagerank:0.004373204')",betweenness-1diversity-1pagerank0peel-1degree1
+1335,"('name:Hizdahr zo Loraq degree:22 peel:8 diversity:1.857200791 betweenness:', '0.005928327 pagerank:0.004349047')",betweenness-1diversity0pagerank0peel-1degree1
+1336,"('name:Ramsay Snow degree:23 peel:9 diversity:2.002058727 betweenness:', '0.016712732 pagerank:0.004330747')",betweenness0diversity0pagerank0peel-1degree1
+1337,"('name:Jorah Mormont degree:26 peel:8 diversity:1.655707776 betweenness:', '0.010826778 pagerank:0.004940556')",betweenness0diversity-2pagerank0peel-1degree1
+1338,"('name:Melisandre degree:23 peel:8 diversity:2.088091943 betweenness:', '0.006490368 pagerank:0.004323498')",betweenness0diversity1pagerank0peel-1degree1
+1339,"('name:Doran Martell degree:21 peel:9 diversity:2.045576462 betweenness:', '0.014536796 pagerank:0.002944615')",betweenness0diversity0pagerank-1peel-1degree1
+1340,"('name:Gendry degree:20 peel:8 diversity:2.029682547 betweenness:', '0.012466572 pagerank:0.003370625')",betweenness0diversity-1pagerank-1peel-1degree1
+1341,"('name:Eddison Tollett degree:20 peel:8 diversity:1.33999644 betweenness:', '0.003126949 pagerank:0.002152904')",betweenness0diversity-1pagerank-2peel-1degree1
+1342,"('name:Robert Arryn degree:20 peel:8 diversity:1.877524281 betweenness:', '0.011219033 pagerank:0.002562505')",betweenness0diversity0pagerank-2peel-1degree1
+1343,"('name:Jeor Mormont degree:28 peel:8 diversity:1.925892175 betweenness:', '0.017268244 pagerank:0.006136861')",betweenness0diversity0pagerank1peel-1degree1
+1344,"('name:Amory Lorch degree:20 peel:12 diversity:1.344257669 betweenness:', '0.001181454 pagerank:0.00122693')",betweenness0diversity-1pagerank-2peel0degree1
+1345,"('name:Jory Cassel degree:21 peel:12 diversity:1.68185408 betweenness:', '0.0048781 pagerank:0.002033503')",betweenness0diversity0pagerank-2peel0degree1
+1346,"('name:Bronn degree:25 peel:10 diversity:2.033458636 betweenness:', '0.00290005 pagerank:0.003617359')",betweenness-1diversity0pagerank0peel0degree1
+1347,"('name:Edmure Tully degree:24 peel:10 diversity:2.0252303 betweenness:', '0.003460566 pagerank:0.003702267')",betweenness-1diversity0pagerank0peel0degree1
+1348,"('name:Roose Bolton degree:28 peel:12 diversity:1.98950834 betweenness:', '0.005556184 pagerank:0.003105126')",betweenness-1diversity0pagerank0peel0degree1
+1349,"('name:Rodrik Cassel degree:30 peel:12 diversity:2.051787046 betweenness:', '0.011062043 pagerank:0.00339896')",betweenness1diversity0pagerank0peel0degree1
+1350,"('name:Lysa Arryn degree:24 peel:12 diversity:1.710642901 betweenness:', '0.006064574 pagerank:0.003950672')",betweenness0diversity-2pagerank0peel0degree1
+1351,"('name:Myrcella Baratheon degree:22 peel:11 diversity:1.790313567 betweenness:', '0.020192887 pagerank:0.003252601')",betweenness0diversity-1pagerank0peel0degree1
+1352,"('name:Ilyn Payne degree:22 peel:12 diversity:1.116485597 betweenness:', '0.0008953 pagerank:0.002676977')",betweenness-1diversity-1pagerank-1peel0degree1
+1353,"('name:Meryn Trant degree:21 peel:12 diversity:1.153741943 betweenness:', '0.00094058 pagerank:0.002872904')",betweenness-1diversity-1pagerank-1peel0degree1
+1354,"('name:Janos Slynt degree:23 peel:11 diversity:1.274586732 betweenness:', '0.007182702 pagerank:0.002285066')",betweenness1diversity-1pagerank-1peel0degree1
+1355,"('name:Mace Tyrell degree:23 peel:12 diversity:1.893275591 betweenness:', '0.005881332 pagerank:0.002386206')",betweenness-1diversity1pagerank-1peel0degree1
+1356,"('name:Oberyn Martell degree:20 peel:10 diversity:1.941927724 betweenness:', '0.009803338 pagerank:0.002351696')",betweenness0diversity1pagerank-1peel0degree1
+1357,"('name:Luwin degree:22 peel:10 diversity:1.957615479 betweenness:', '0.003151405 pagerank:0.004179481')",betweenness0diversity-1pagerank1peel0degree1
+1358,"('name:Margaery Tyrell degree:30 peel:12 diversity:1.995750869 betweenness:', '0.004545928 pagerank:0.004678732')",betweenness0diversity0pagerank1peel0degree1
+1359,"('name:Arianne Martell degree:20 peel:6 diversity:2.029682547 betweenness:', '0.017878371 pagerank:0.003815659')",betweenness0diversity0pagerank0peel-2degree1
+1360,"('name:Asha Greyjoy degree:25 peel:5 diversity:1.809598882 betweenness:', '0.033024754 pagerank:0.005649906')",betweenness0diversity0pagerank-1peel-3degree1
+1361,"('name:Victarion Greyjoy degree:24 peel:5 diversity:1.856036234 betweenness:', '0.036450737 pagerank:0.006672877')",betweenness0diversity0pagerank0peel-3degree1
+1362,"('name:Loras Tyrell degree:28 peel:13 diversity:1.558057246 betweenness:', '0.001442737 pagerank:0.003420664')",betweenness0diversity0pagerank-1peel1degree1
+1363,"('name:Pycelle degree:27 peel:13 diversity:1.591968682 betweenness:', '0.007406401 pagerank:0.003931511')",betweenness0diversity0pagerank0peel1degree1
+1364,"('name:Arya Stark degree:84 peel:13 diversity:2.332991632 betweenness:', '0.087242361 pagerank:0.018538945')",betweenness0diversity0pagerank0peel0degree6
+1365,"('name:Stannis Baratheon degree:89 peel:13 diversity:2.399455178 betweenness:', '0.110139553 pagerank:0.018051671')",betweenness0diversity0pagerank-1peel0degree6
+1366,"('name:Barristan Selmy degree:41 peel:12 diversity:2.153082 betweenness:', '0.045549578 pagerank:0.006072068')",betweenness0diversity0pagerank0peel0degree2
+1367,"('name:Varys degree:34 peel:13 diversity:1.876820905 betweenness:', '0.009201379 pagerank:0.006229212')",betweenness0diversity-1pagerank0peel0degree2
+1368,"('name:Brienne of Tarth degree:45 peel:13 diversity:2.208504507 betweenness:', '0.032251919 pagerank:0.007360664')",betweenness0diversity0pagerank1peel0degree2
+1369,"('name:Renly Baratheon degree:38 peel:13 diversity:1.877240061 betweenness:', '0.018923484 pagerank:0.007433869')",betweenness0diversity-1pagerank1peel0degree2
+1370,"('name:Gregor Clegane degree:33 peel:13 diversity:1.662755842 betweenness:', '0.005485884 pagerank:0.004225564')",betweenness0diversity0pagerank-2peel0degree2
+1371,"('name:Sandor Clegane degree:36 peel:13 diversity:1.849112878 betweenness:', '0.008828141 pagerank:0.005438164')",betweenness0diversity-1pagerank-1peel0degree2
+1372,"('name:Tommen Baratheon degree:33 peel:12 diversity:1.946915338 betweenness:', '0.006251297 pagerank:0.005535565')",betweenness0diversity0pagerank-1peel0degree2
+1373,"('name:Davos Seaworth degree:33 peel:7 diversity:2.120173779 betweenness:', '0.023846811 pagerank:0.007860805')",betweenness0diversity0pagerank-1peel-2degree2
+1374,"('name:Mance Rayder degree:33 peel:8 diversity:1.931601912 betweenness:', '0.013605084 pagerank:0.00514145')",betweenness0diversity-1pagerank-1peel-2degree2
+1375,"('name:Samwell Tarly degree:44 peel:8 diversity:1.958122578 betweenness:', '0.041466204 pagerank:0.011871965')",betweenness0diversity0pagerank1peel-2degree2
+1376,"('name:Bran Stark degree:54 peel:12 diversity:2.160724355 betweenness:', '0.044911179 pagerank:0.016699569')",betweenness0diversity0pagerank0peel-2degree3
+1377,"('name:Petyr Baelish degree:47 peel:13 diversity:1.984776869 betweenness:', '0.025898583 pagerank:0.008391054')",betweenness0diversity0pagerank0peel0degree3
+1378,"('name:Tywin Lannister degree:48 peel:13 diversity:2.026165337 betweenness:', '0.020669858 pagerank:0.007644692')",betweenness0diversity0pagerank-1peel0degree3
+1379,"('name:Catelyn Stark degree:75 peel:13 diversity:2.317345932 betweenness:', '0.054973668 pagerank:0.015210744')",betweenness0diversity0pagerank-2peel0degree5
+1380,"('name:Eddard Stark degree:74 peel:13 diversity:2.290519575 betweenness:', '0.078732393 pagerank:0.01893822')",betweenness0diversity0pagerank1peel0degree5
+1381,"('name:Robb Stark degree:74 peel:13 diversity:2.380112478 betweenness:', '0.066468427 pagerank:0.017344651')",betweenness0diversity0pagerank0peel0degree5
+1382,"('name:Sansa Stark degree:75 peel:13 diversity:2.323459966 betweenness:', '0.048690982 pagerank:0.016291184')",betweenness0diversity0pagerank-1peel0degree5
+1383,"('name:Daenerys Targaryen degree:73 peel:9 diversity:2.181770082 betweenness:', '0.118418019 pagerank:0.022306882')",betweenness0diversity0pagerank0peel-2degree5
+1384,"('name:Cersei Lannister degree:97 peel:13 diversity:2.401216936 betweenness:', '0.088704267 pagerank:0.023607039')",betweenness0diversity0pagerank0peel0degree7
+1385,"('name:Jaime Lannister degree:101 peel:13 diversity:2.398059966 betweenness:', '0.100838006 pagerank:0.01975355')",betweenness0diversity0pagerank-1peel0degree7
+1386,"('name:Joffrey Baratheon degree:69 peel:13 diversity:2.108929177 betweenness:', '0.031758722 pagerank:0.017420084')",betweenness0diversity0pagerank0peel0degree4
+1387,"('name:Robert Baratheon degree:65 peel:13 diversity:2.104875124 betweenness:', '0.078227691 pagerank:0.015677734')",betweenness0diversity0pagerank-1peel0degree4
+1388,"('name:Theon Greyjoy degree:66 peel:12 diversity:2.307204332 betweenness:', '0.111283318 pagerank:0.013877295')",betweenness0diversity0pagerank0peel-2degree4
+1389,"('name:Jon Snow degree:114 peel:12 diversity:2.277964323 betweenness:', '0.19211962 pagerank:0.035693765')",betweenness0diversity0pagerank0peel0degree8
+1390,"('name:Tyrion Lannister degree:122 peel:13 diversity:2.466368473 betweenness:', '0.162191096 pagerank:0.03284906')",betweenness0diversity0pagerank0peel0degree9
