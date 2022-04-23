@@ -1,16 +1,17 @@
 {
-    "nodes" : [
+    "nodes" :
+    [
   {
     "id": "data-structures",
     "count": 2
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "skeleton",
@@ -22,7 +23,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "composer",
@@ -30,7 +31,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "composer",
@@ -38,11 +39,11 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "twig",
@@ -50,11 +51,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "unity",
@@ -74,7 +75,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ansible-role",
@@ -82,7 +83,7 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotfiles-manager",
@@ -90,7 +91,7 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "osx",
@@ -98,7 +99,7 @@
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "osx",
@@ -110,31 +111,31 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gatsby",
@@ -142,7 +143,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "babel-plugin",
@@ -166,7 +167,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "geojson",
@@ -174,31 +175,31 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "search",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "search",
-    "count": 5
+    "count": 7
   },
   {
     "id": "flux",
@@ -206,7 +207,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flux",
@@ -214,15 +215,15 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "decryption",
@@ -230,19 +231,19 @@
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "chrome-extensions",
@@ -254,39 +255,39 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "express",
@@ -294,31 +295,31 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "desktop",
@@ -326,19 +327,19 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-sdk",
@@ -346,27 +347,27 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "forge",
@@ -374,7 +375,7 @@
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "forge",
@@ -386,15 +387,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minecraft-forge",
@@ -402,7 +403,7 @@
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "minecraft-forge",
@@ -438,7 +439,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cern",
@@ -462,7 +463,7 @@
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "interactive",
@@ -486,7 +487,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "interactive",
@@ -510,7 +511,7 @@
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "physics",
@@ -526,7 +527,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "physics",
@@ -550,7 +551,7 @@
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pyroot",
@@ -558,7 +559,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pyroot",
@@ -582,11 +583,11 @@
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "root-cern",
@@ -594,7 +595,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scientific-computing",
@@ -602,11 +603,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "root-cern",
@@ -622,7 +623,7 @@
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "scientific-computing",
@@ -630,7 +631,7 @@
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "backup",
@@ -638,7 +639,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pyramid",
@@ -646,15 +647,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "camel",
@@ -662,7 +663,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "guice",
@@ -670,7 +671,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "drupal",
@@ -682,23 +683,23 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular-directives",
@@ -706,15 +707,15 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "promise",
@@ -722,7 +723,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "promise-buttons",
@@ -734,7 +735,7 @@
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular-directives",
@@ -754,7 +755,7 @@
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "promise",
@@ -762,7 +763,7 @@
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "promise-buttons",
@@ -778,11 +779,11 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cuba-component",
@@ -798,43 +799,43 @@
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wrapper",
@@ -842,23 +843,23 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wrapper",
@@ -870,19 +871,19 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wrapper",
@@ -890,7 +891,7 @@
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wrapper",
@@ -914,11 +915,11 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "build-tool",
@@ -986,7 +987,7 @@
   },
   {
     "id": "async",
-    "count": 5
+    "count": 7
   },
   {
     "id": "await",
@@ -998,19 +999,19 @@
   },
   {
     "id": "twitter",
-    "count": 5
+    "count": 7
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack2",
@@ -1018,7 +1019,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack2",
@@ -1026,7 +1027,7 @@
   },
   {
     "id": "bioinformatics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "genomics",
@@ -1034,7 +1035,7 @@
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "internet-of-things",
@@ -1042,11 +1043,11 @@
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "internet-of-things",
@@ -1054,11 +1055,11 @@
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "iot-platform",
@@ -1066,7 +1067,7 @@
   },
   {
     "id": "lua",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pico-8",
@@ -1074,7 +1075,7 @@
   },
   {
     "id": "github",
-    "count": 5
+    "count": 7
   },
   {
     "id": "notifications",
@@ -1082,11 +1083,11 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ascii",
@@ -1110,7 +1111,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ascii",
@@ -1142,7 +1143,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ascii-art",
@@ -1158,7 +1159,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graphics",
@@ -1166,19 +1167,19 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "table",
@@ -1186,7 +1187,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "terminal",
@@ -1202,15 +1203,15 @@
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress-theme",
@@ -1222,7 +1223,7 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "continuous-delivery",
@@ -1230,27 +1231,27 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "watchtower",
@@ -1258,23 +1259,23 @@
   },
   {
     "id": "c-sharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-sharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-sharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wpf",
@@ -1282,11 +1283,11 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "metro",
@@ -1294,7 +1295,7 @@
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "open-source",
@@ -1302,7 +1303,7 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "open-source",
@@ -1310,11 +1311,11 @@
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wpf",
@@ -1322,7 +1323,7 @@
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wpf",
@@ -1338,11 +1339,11 @@
   },
   {
     "id": "r",
-    "count": 5
+    "count": 7
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "groovy",
@@ -1350,11 +1351,11 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "desktop",
@@ -1366,23 +1367,23 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "podcasts",
@@ -1390,11 +1391,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rss",
@@ -1430,7 +1431,7 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bash-script",
@@ -1438,7 +1439,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bashrc",
@@ -1446,27 +1447,27 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugins",
@@ -1474,15 +1475,15 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "shell-script",
@@ -1490,7 +1491,7 @@
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shell-script",
@@ -1510,7 +1511,7 @@
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "correlation-id",
@@ -1518,7 +1519,7 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "correlation-id",
@@ -1526,7 +1527,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "debugging",
@@ -1534,7 +1535,7 @@
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "debugging",
@@ -1542,7 +1543,7 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "debugging",
@@ -1550,31 +1551,31 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chat",
@@ -1582,7 +1583,7 @@
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "chat",
@@ -1602,7 +1603,7 @@
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "irc",
@@ -1610,11 +1611,11 @@
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "irc",
@@ -1626,11 +1627,11 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "babel",
@@ -1654,7 +1655,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cordova",
@@ -1670,11 +1671,11 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue2",
@@ -1682,15 +1683,15 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vuejs2",
@@ -1698,7 +1699,7 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vuex",
@@ -1706,11 +1707,11 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vue2",
@@ -1718,7 +1719,7 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue2",
@@ -1730,7 +1731,7 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vuejs2",
@@ -1738,7 +1739,7 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vuex",
@@ -1746,11 +1747,11 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vuejs2",
@@ -1766,19 +1767,19 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react-native",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "qgis",
@@ -1786,7 +1787,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mybatis",
@@ -1794,11 +1795,11 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mybatis",
@@ -1806,35 +1807,35 @@
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serialization",
@@ -1842,7 +1843,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "packet-analyzer",
@@ -1850,7 +1851,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wireshark",
@@ -1870,7 +1871,7 @@
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "es2015",
@@ -1878,31 +1879,31 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dsl",
@@ -1910,7 +1911,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "config",
@@ -1918,7 +1919,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "config",
@@ -1926,7 +1927,7 @@
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "config",
@@ -1934,7 +1935,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "file",
@@ -1942,11 +1943,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jonschlinkert",
@@ -1954,11 +1955,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jonschlinkert",
@@ -1966,7 +1967,7 @@
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jonschlinkert",
@@ -1974,19 +1975,19 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bioinformatics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "next-generation-sequencing",
@@ -1994,39 +1995,39 @@
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "osx",
@@ -2034,11 +2035,11 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "osx",
@@ -2046,19 +2047,19 @@
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sqlite3",
@@ -2066,7 +2067,7 @@
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlite3",
@@ -2074,19 +2075,19 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "archived",
@@ -2094,7 +2095,7 @@
   },
   {
     "id": "deprecated",
-    "count": 5
+    "count": 7
   },
   {
     "id": "archived",
@@ -2106,15 +2107,15 @@
   },
   {
     "id": "deprecated",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "deprecated",
-    "count": 5
+    "count": 7
   },
   {
     "id": "obsolete",
@@ -2122,23 +2123,23 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "github-pages",
@@ -2146,19 +2147,19 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "geophysics",
@@ -2166,7 +2167,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "modeling",
@@ -2174,7 +2175,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "open-source",
@@ -2182,7 +2183,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cern",
@@ -2194,27 +2195,27 @@
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "unity",
@@ -2230,7 +2231,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css3",
@@ -2238,27 +2239,27 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vagrant",
-    "count": 5
+    "count": 7
   },
   {
     "id": "virtual-machine",
@@ -2266,15 +2267,15 @@
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "url-shortener",
@@ -2282,7 +2283,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "url-shortener",
@@ -2290,11 +2291,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "date",
@@ -2334,7 +2335,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "openapi",
@@ -2346,7 +2347,7 @@
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "arduino-library",
@@ -2354,7 +2355,7 @@
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "i2c",
@@ -2362,7 +2363,7 @@
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spi",
@@ -2446,19 +2447,19 @@
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift3",
@@ -2466,7 +2467,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift3",
@@ -2474,7 +2475,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xcode",
@@ -2482,7 +2483,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "player",
@@ -2490,7 +2491,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "threejs",
@@ -2498,11 +2499,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "video",
-    "count": 5
+    "count": 7
   },
   {
     "id": "player",
@@ -2534,7 +2535,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chef",
@@ -2558,7 +2559,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chef-cookbook",
@@ -2574,7 +2575,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chef-resource",
@@ -2586,7 +2587,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "managed-by-terraform",
@@ -2594,7 +2595,7 @@
   },
   {
     "id": "audio",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jack",
@@ -2602,7 +2603,7 @@
   },
   {
     "id": "audio",
-    "count": 5
+    "count": 7
   },
   {
     "id": "midi",
@@ -2610,7 +2611,7 @@
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "time",
@@ -2622,7 +2623,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gtk",
@@ -2630,103 +2631,103 @@
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sublime-package",
@@ -2758,7 +2759,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hierarchy",
@@ -2766,19 +2767,19 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nested-objects",
@@ -2786,11 +2787,11 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "express-middleware",
@@ -2798,7 +2799,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "finance",
@@ -2806,7 +2807,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "finance",
@@ -2818,7 +2819,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "stock",
@@ -2826,7 +2827,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "stock-data",
@@ -2834,7 +2835,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ionic",
@@ -2842,7 +2843,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webdriver",
@@ -2854,35 +2855,35 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lamp",
@@ -2890,19 +2891,19 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lamp",
@@ -2910,19 +2911,19 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server-side-rendering",
@@ -2930,7 +2931,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ssr",
@@ -2938,7 +2939,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "static-site-generator",
@@ -2946,11 +2947,11 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "server-side-rendering",
@@ -2974,7 +2975,7 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dimensional-analysis",
@@ -3002,27 +3003,27 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ember",
@@ -3038,7 +3039,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "offline",
@@ -3074,7 +3075,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb-driver",
@@ -3082,11 +3083,11 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb-driver",
@@ -3094,19 +3095,19 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yii2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ansible-playbooks",
@@ -3114,11 +3115,11 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ansible-playbooks",
@@ -3130,23 +3131,23 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "openstack",
@@ -3154,15 +3155,15 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "openstack",
@@ -3170,35 +3171,35 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "migration",
@@ -3206,7 +3207,7 @@
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "continuous-delivery",
@@ -3254,7 +3255,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "continuous-integration",
@@ -3270,7 +3271,7 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "continuous-integration",
@@ -3278,7 +3279,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "continuous-testing",
@@ -3286,7 +3287,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "faas",
@@ -3306,7 +3307,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "esa-io",
@@ -3314,19 +3315,19 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "esa-io",
@@ -3334,7 +3335,7 @@
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "esa-io",
@@ -3342,7 +3343,7 @@
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "esa-io",
@@ -3350,35 +3351,35 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sendgrid",
@@ -3422,7 +3423,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "automate",
@@ -3470,7 +3471,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "diagnostics",
@@ -3510,7 +3511,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "infrastructure-monitoring",
@@ -3542,7 +3543,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "network",
@@ -3566,7 +3567,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "network-admin",
@@ -3586,7 +3587,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "routing",
@@ -3594,7 +3595,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "watchdog",
@@ -3610,19 +3611,19 @@
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "image-processing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gem",
@@ -3630,7 +3631,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flow",
@@ -3638,7 +3639,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "obdi",
@@ -3654,7 +3655,7 @@
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "chip8",
@@ -3666,7 +3667,7 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "winforms",
@@ -3686,7 +3687,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "debian",
@@ -3698,47 +3699,47 @@
   },
   {
     "id": "docker-image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "neovim",
@@ -3746,31 +3747,31 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "neovim",
@@ -3778,35 +3779,35 @@
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "neovim",
@@ -3814,7 +3815,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "neovim",
@@ -3822,19 +3823,19 @@
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "diff",
@@ -3842,15 +3843,15 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "schema",
@@ -3862,15 +3863,15 @@
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "build-tool",
@@ -3878,11 +3879,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker-compose",
@@ -3890,11 +3891,11 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "date-picker",
@@ -3926,7 +3927,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "expressjs",
@@ -3934,79 +3935,79 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graphql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "augmentation",
@@ -4014,15 +4015,15 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "daemon",
@@ -4030,7 +4031,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "driver",
@@ -4046,7 +4047,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "keyboard",
@@ -4054,19 +4055,19 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "roguelike",
@@ -4074,7 +4075,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "video-game",
@@ -4090,15 +4091,15 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aws-cloudformation",
@@ -4106,15 +4107,15 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node-red",
@@ -4122,7 +4123,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typography",
@@ -4130,15 +4131,15 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spritekit",
@@ -4146,7 +4147,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift3",
@@ -4154,15 +4155,15 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php-framework",
@@ -4170,7 +4171,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php-framework",
@@ -4178,7 +4179,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "drupal",
@@ -4186,15 +4187,15 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vagrant",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tkinter",
@@ -4202,7 +4203,7 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotnet-core",
@@ -4210,7 +4211,7 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "entity-framework",
@@ -4218,7 +4219,7 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "entityframework",
@@ -4234,7 +4235,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "timer",
@@ -4242,55 +4243,55 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "haskell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nginx",
-    "count": 5
+    "count": 7
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nginx",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "programming",
@@ -4298,43 +4299,43 @@
   },
   {
     "id": "haskell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nginx",
-    "count": 5
+    "count": 7
   },
   {
     "id": "haskell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nginx",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "programming",
@@ -4342,15 +4343,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "addon",
@@ -4366,7 +4367,7 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chess",
@@ -4374,7 +4375,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chess",
@@ -4382,7 +4383,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chess",
@@ -4406,7 +4407,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chess-engine",
@@ -4414,7 +4415,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chess-engine",
@@ -4426,15 +4427,15 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "uci-chess-engine",
@@ -4454,7 +4455,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "camera",
@@ -4462,11 +4463,11 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios-app",
@@ -4478,23 +4479,23 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "image-processing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotfile-manager",
@@ -4502,7 +4503,7 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "coursera",
@@ -4518,7 +4519,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "data-analysis",
@@ -4526,7 +4527,7 @@
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "data-analysis",
@@ -4534,7 +4535,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "data-analysis",
@@ -4542,23 +4543,23 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ksp",
@@ -4582,7 +4583,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "password",
@@ -4590,7 +4591,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "password-manager",
@@ -4598,11 +4599,11 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tool",
@@ -4610,23 +4611,23 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react-native",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "push-notifications",
@@ -4634,19 +4635,19 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react-native",
-    "count": 5
+    "count": 7
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "form",
@@ -4654,7 +4655,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "form",
@@ -4662,7 +4663,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "form",
@@ -4674,7 +4675,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm-package",
@@ -4682,7 +4683,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "validation",
@@ -4690,7 +4691,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "validation",
@@ -4698,7 +4699,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "maven",
@@ -4706,7 +4707,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reporting",
@@ -4734,19 +4735,19 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database-schema",
@@ -4754,7 +4755,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "db2",
@@ -4762,15 +4763,15 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "migration",
@@ -4778,15 +4779,15 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "oracle",
@@ -4794,7 +4795,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgres",
@@ -4802,7 +4803,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redshift",
@@ -4810,15 +4811,15 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql-server",
@@ -4854,7 +4855,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "db2",
@@ -4878,7 +4879,7 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "db2",
@@ -4890,7 +4891,7 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "migration",
@@ -4902,7 +4903,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "migration",
@@ -4918,11 +4919,11 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "oracle",
@@ -4930,7 +4931,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgres",
@@ -4938,7 +4939,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redshift",
@@ -4966,7 +4967,7 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "oracle",
@@ -4982,11 +4983,11 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sql-server",
@@ -4994,11 +4995,11 @@
   },
   {
     "id": "browser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "crawler",
@@ -5014,7 +5015,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "crawler",
@@ -5034,11 +5035,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jsdom",
@@ -5046,7 +5047,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jsdom",
@@ -5058,15 +5059,15 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "phantomjs",
@@ -5074,7 +5075,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scraper",
@@ -5102,7 +5103,7 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "geocoder",
@@ -5110,7 +5111,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "geocoder",
@@ -5118,11 +5119,11 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "objc",
@@ -5134,7 +5135,7 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cuda",
@@ -5158,31 +5159,31 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vagrant",
-    "count": 5
+    "count": 7
   },
   {
     "id": "alexa",
@@ -5194,15 +5195,15 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cloudwatch",
@@ -5210,11 +5211,11 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "monolog",
@@ -5222,7 +5223,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "apache",
@@ -5230,7 +5231,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hibernate",
@@ -5238,43 +5239,43 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bioinformatics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "fasta",
@@ -5290,7 +5291,7 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress-boilerplate",
@@ -5298,7 +5299,7 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress-development",
@@ -5306,11 +5307,11 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress-plugin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wordpress-boilerplate",
@@ -5318,7 +5319,7 @@
   },
   {
     "id": "wordpress-plugin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wordpress-development",
@@ -5330,7 +5331,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vanilla-javascript",
@@ -5342,7 +5343,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "facebook",
@@ -5350,11 +5351,11 @@
   },
   {
     "id": "telegram",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "social-network",
@@ -5362,15 +5363,15 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "twitter",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vanilla",
@@ -5378,7 +5379,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vanillajs",
@@ -5386,7 +5387,7 @@
   },
   {
     "id": "telegram",
-    "count": 5
+    "count": 7
   },
   {
     "id": "whatsapp",
@@ -5402,15 +5403,15 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "meteor",
@@ -5422,7 +5423,7 @@
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "emulator",
@@ -5438,7 +5439,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aframe",
@@ -5458,15 +5459,15 @@
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "virtual-reality",
@@ -5474,7 +5475,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vr",
@@ -5490,7 +5491,7 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wp-cli",
@@ -5502,7 +5503,7 @@
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "socket",
@@ -5518,7 +5519,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dateutils",
@@ -5526,11 +5527,11 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django-rest-framework",
@@ -5538,11 +5539,11 @@
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django-rest-framework",
@@ -5550,7 +5551,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django-rest-framework",
@@ -5558,7 +5559,7 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "edp",
@@ -5566,7 +5567,7 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "edp",
@@ -5598,7 +5599,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "edp",
@@ -5622,11 +5623,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "electron-app",
@@ -5634,7 +5635,7 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "epal",
@@ -5642,7 +5643,7 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "galp",
@@ -5650,15 +5651,15 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "leituras",
@@ -5666,7 +5667,7 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nightmarejs",
@@ -5674,11 +5675,11 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "electron-app",
@@ -5698,51 +5699,51 @@
   },
   {
     "id": "electron-app",
-    "count": 2
-  },
-  {
-    "id": "javascript",
-    "count": 5
-  },
-  {
-    "id": "electron-app",
-    "count": 2
-  },
-  {
-    "id": "leituras",
-    "count": 2
-  },
-  {
-    "id": "electron-app",
-    "count": 2
-  },
-  {
-    "id": "nightmarejs",
-    "count": 2
-  },
-  {
-    "id": "electron-app",
-    "count": 2
-  },
-  {
-    "id": "nodejs",
-    "count": 5
-  },
-  {
-    "id": "epal",
-    "count": 2
-  },
-  {
-    "id": "galp",
-    "count": 2
-  },
-  {
-    "id": "epal",
     "count": 2
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
+  },
+  {
+    "id": "electron-app",
+    "count": 2
+  },
+  {
+    "id": "leituras",
+    "count": 2
+  },
+  {
+    "id": "electron-app",
+    "count": 2
+  },
+  {
+    "id": "nightmarejs",
+    "count": 2
+  },
+  {
+    "id": "electron-app",
+    "count": 2
+  },
+  {
+    "id": "nodejs",
+    "count": 15
+  },
+  {
+    "id": "epal",
+    "count": 2
+  },
+  {
+    "id": "galp",
+    "count": 2
+  },
+  {
+    "id": "epal",
+    "count": 2
+  },
+  {
+    "id": "javascript",
+    "count": 15
   },
   {
     "id": "epal",
@@ -5766,7 +5767,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "galp",
@@ -5774,7 +5775,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "galp",
@@ -5798,11 +5799,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "leituras",
@@ -5810,7 +5811,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nightmarejs",
@@ -5830,7 +5831,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nightmarejs",
@@ -5838,11 +5839,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "libgdx",
@@ -5862,7 +5863,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "eslint",
@@ -5870,23 +5871,23 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "physics",
@@ -5902,7 +5903,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "front-end",
@@ -5910,7 +5911,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "i18n",
@@ -5918,11 +5919,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lib",
@@ -5946,7 +5947,7 @@
   },
   {
     "id": "kotlin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "kotlin-android",
@@ -5954,7 +5955,7 @@
   },
   {
     "id": "kotlin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "kotlin-android-extensions",
@@ -5966,7 +5967,7 @@
   },
   {
     "id": "personal-website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "homepage",
@@ -5978,7 +5979,7 @@
   },
   {
     "id": "personal-website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "resume",
@@ -5986,7 +5987,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react-components",
@@ -5998,7 +5999,7 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "email",
@@ -6018,7 +6019,7 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mail",
@@ -6034,31 +6035,31 @@
   },
   {
     "id": "carthage",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "carthage",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "carthage",
-    "count": 5
+    "count": 7
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "carthage",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tvos",
@@ -6066,15 +6067,15 @@
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tvos",
@@ -6082,15 +6083,15 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tvos",
@@ -6098,7 +6099,7 @@
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tvos",
@@ -6114,23 +6115,23 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "zsh",
@@ -6138,15 +6139,15 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "zsh",
@@ -6154,7 +6155,7 @@
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "zsh",
@@ -6170,7 +6171,7 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "command",
@@ -6178,7 +6179,7 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "config",
@@ -6190,11 +6191,11 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "firebase",
@@ -6202,15 +6203,15 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kotlin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kotlin-extensions",
@@ -6218,7 +6219,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rxjava",
@@ -6226,7 +6227,7 @@
   },
   {
     "id": "kotlin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "kotlin-extensions",
@@ -6234,7 +6235,7 @@
   },
   {
     "id": "kotlin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rxjava",
@@ -6242,11 +6243,11 @@
   },
   {
     "id": "personal-website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "composer-packages",
@@ -6254,11 +6255,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel-5-package",
@@ -6266,7 +6267,7 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "package",
@@ -6274,15 +6275,15 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "real-time",
@@ -6298,7 +6299,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "real-time",
@@ -6330,7 +6331,7 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gesture-driven-animations",
@@ -6338,15 +6339,15 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "motion",
@@ -6354,7 +6355,7 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "reactive",
@@ -6362,15 +6363,15 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "transitions",
@@ -6382,7 +6383,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gesture-driven-animations",
@@ -6406,7 +6407,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gesture-driven-animations",
@@ -6418,7 +6419,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "motion",
@@ -6426,7 +6427,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactive",
@@ -6434,7 +6435,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "transitions",
@@ -6454,7 +6455,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "motion",
@@ -6470,7 +6471,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactive",
@@ -6482,7 +6483,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "transitions",
@@ -6490,23 +6491,23 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "googletest",
@@ -6514,15 +6515,15 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "netbeans",
@@ -6530,7 +6531,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "netbeans-plugin",
@@ -6538,7 +6539,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unit-testing",
@@ -6554,15 +6555,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "real-time",
@@ -6570,39 +6571,39 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spark",
@@ -6614,7 +6615,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "abhishekghosh",
@@ -6626,15 +6627,15 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json-data",
@@ -6642,11 +6643,11 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aframe",
@@ -6674,19 +6675,19 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery-plugin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "debian",
@@ -6702,7 +6703,7 @@
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "chrome",
@@ -6714,7 +6715,7 @@
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "firefox",
@@ -6722,11 +6723,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "deep-reinforcement-learning",
@@ -6734,7 +6735,7 @@
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "authentication",
@@ -6742,7 +6743,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "artists",
@@ -6750,19 +6751,19 @@
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "audio",
-    "count": 5
+    "count": 7
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "robot",
@@ -6774,7 +6775,7 @@
   },
   {
     "id": "utility",
-    "count": 5
+    "count": 7
   },
   {
     "id": "optimization",
@@ -6782,15 +6783,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "utility",
-    "count": 5
+    "count": 7
   },
   {
     "id": "computer-vision",
@@ -6798,7 +6799,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "computer-vision",
@@ -6806,11 +6807,11 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "neural-network",
@@ -6818,7 +6819,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "neural-network",
@@ -6870,7 +6871,7 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "enzyme",
@@ -6878,7 +6879,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mocha",
@@ -6894,11 +6895,11 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tdd",
@@ -6906,11 +6907,11 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "should",
@@ -6934,7 +6935,7 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tdd",
@@ -6950,7 +6951,7 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "test",
@@ -6958,11 +6959,11 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gamedev",
@@ -6970,7 +6971,7 @@
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "unity",
@@ -6978,7 +6979,7 @@
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vim-plugin",
@@ -6986,11 +6987,11 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "crud",
@@ -6998,7 +6999,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cs",
@@ -7014,11 +7015,11 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jdbc",
@@ -7026,19 +7027,19 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "apple",
@@ -7046,7 +7047,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "apple",
@@ -7062,11 +7063,11 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift-3",
@@ -7082,7 +7083,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift-3",
@@ -7090,7 +7091,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tampermonkey",
@@ -7098,15 +7099,15 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unit-testing",
@@ -7114,15 +7115,15 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unit-testing",
@@ -7142,19 +7143,19 @@
   },
   {
     "id": "kotlin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "fastlane",
@@ -7162,7 +7163,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gitlab-ci",
@@ -7170,7 +7171,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "fastlane",
@@ -7178,7 +7179,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gitlab-ci",
@@ -7198,11 +7199,11 @@
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wysiwyg",
@@ -7230,7 +7231,7 @@
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "apache-beam",
@@ -7270,7 +7271,7 @@
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "apache-spark",
@@ -7302,7 +7303,7 @@
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "big-data",
@@ -7330,7 +7331,7 @@
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sdk",
@@ -7338,7 +7339,7 @@
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spark",
@@ -7346,7 +7347,7 @@
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "stream-processing",
@@ -7382,7 +7383,7 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "progress-bar",
@@ -7394,7 +7395,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react-component",
@@ -7406,7 +7407,7 @@
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "kafka",
@@ -7418,7 +7419,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serialization",
@@ -7426,47 +7427,47 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react-native",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react-native",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "orchestration",
@@ -7474,39 +7475,39 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "grpc",
@@ -7514,55 +7515,55 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "console",
@@ -7574,7 +7575,7 @@
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "competitive-programming",
@@ -7586,19 +7587,19 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "geoscience",
@@ -7610,27 +7611,27 @@
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jira",
@@ -7638,7 +7639,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "artificial-intelligence",
@@ -7646,7 +7647,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "artificial-intelligence",
@@ -7654,7 +7655,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "artificial-intelligence",
@@ -7670,15 +7671,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "neural-network",
@@ -7686,7 +7687,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "evolutionary-algorithms",
@@ -7698,7 +7699,7 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "inline",
@@ -7706,11 +7707,11 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "activerecord",
@@ -7718,7 +7719,7 @@
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "activerecord",
@@ -7726,15 +7727,15 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bundle",
@@ -7742,7 +7743,7 @@
   },
   {
     "id": "symfony",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rails-application",
@@ -7750,11 +7751,11 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby-on-rails",
@@ -7762,35 +7763,35 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "configuration",
@@ -7802,15 +7803,15 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mvc",
@@ -7818,7 +7819,7 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php-7",
@@ -7838,7 +7839,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mvc",
@@ -7854,7 +7855,7 @@
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "chat",
@@ -7862,23 +7863,23 @@
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chrome",
@@ -7898,27 +7899,27 @@
   },
   {
     "id": "compiler",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "compiler",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serverless",
@@ -7926,39 +7927,39 @@
   },
   {
     "id": "slack",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "apns",
@@ -7970,23 +7971,23 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "notifications",
@@ -7994,7 +7995,7 @@
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bluetooth",
@@ -8002,15 +8003,15 @@
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rov",
@@ -8018,7 +8019,7 @@
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "serial",
@@ -8026,7 +8027,7 @@
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "underwater-robotics",
@@ -8038,7 +8039,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bluetooth",
@@ -8062,11 +8063,11 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "stream",
@@ -8078,7 +8079,7 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "handlebars",
@@ -8094,7 +8095,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "3d",
@@ -8102,27 +8103,27 @@
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gopherjs",
@@ -8134,7 +8135,7 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dependency-injection",
@@ -8146,7 +8147,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-application",
@@ -8154,11 +8155,11 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-application",
@@ -8166,7 +8167,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "customizable",
@@ -8198,7 +8199,7 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "polymer",
@@ -8206,7 +8207,7 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aptible-deploy",
@@ -8226,7 +8227,7 @@
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mocha",
@@ -8234,11 +8235,11 @@
   },
   {
     "id": "browser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "user-agent",
@@ -8254,7 +8255,7 @@
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "lexer",
@@ -8262,15 +8263,15 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "apache",
@@ -8278,7 +8279,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "apache",
@@ -8286,51 +8287,51 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "github",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "github",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios-development",
@@ -8338,7 +8339,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift-library",
@@ -8346,7 +8347,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift4",
@@ -8358,11 +8359,11 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift-library",
@@ -8370,7 +8371,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift4",
@@ -8386,27 +8387,27 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "debug",
@@ -8454,7 +8455,7 @@
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "algorithm",
@@ -8462,7 +8463,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "google-books",
@@ -8486,7 +8487,7 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "peewee",
@@ -8502,7 +8503,7 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pyqt5",
@@ -8510,7 +8511,7 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "excel",
@@ -8526,7 +8527,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "antd",
@@ -8534,7 +8535,7 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "babel",
@@ -8542,7 +8543,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "babel",
@@ -8558,7 +8559,7 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "babel",
@@ -8566,7 +8567,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "es2015",
@@ -8574,7 +8575,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es2015",
@@ -8582,7 +8583,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "es2015",
@@ -8590,11 +8591,11 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react-router",
@@ -8602,19 +8603,19 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react-router",
@@ -8622,31 +8623,31 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "codeigniter",
@@ -8654,7 +8655,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "joomla",
@@ -8670,7 +8671,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "accordion",
@@ -8678,35 +8679,35 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "radix-tree",
@@ -8714,7 +8715,7 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "trie-tree",
@@ -8722,7 +8723,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "radix-tree",
@@ -8730,7 +8731,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "trie-tree",
@@ -8746,7 +8747,7 @@
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "data-structures",
@@ -8754,11 +8755,11 @@
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "data-structures",
@@ -8774,11 +8775,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "junit",
@@ -8786,7 +8787,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tdd",
@@ -8794,15 +8795,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tdd",
@@ -8810,11 +8811,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "junit",
@@ -8826,15 +8827,15 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "storybook",
@@ -8846,7 +8847,7 @@
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chrome-extensions",
@@ -8898,15 +8899,15 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "logging-library",
@@ -8914,15 +8915,15 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sdk",
@@ -8934,15 +8935,15 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "climate",
@@ -8950,7 +8951,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ai",
@@ -8974,7 +8975,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "artificial-intelligence",
@@ -8982,7 +8983,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chess",
@@ -8990,7 +8991,7 @@
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "chess",
@@ -8998,15 +8999,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "coffeescript",
@@ -9014,7 +9015,7 @@
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "coffeescript",
@@ -9026,7 +9027,7 @@
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "music-player",
@@ -9034,7 +9035,7 @@
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webaudio",
@@ -9058,7 +9059,7 @@
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yarn",
@@ -9086,11 +9087,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript-library",
@@ -9110,11 +9111,11 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotnetcore",
@@ -9122,7 +9123,7 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "steam",
@@ -9130,23 +9131,23 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discordapp",
@@ -9154,19 +9155,19 @@
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "discordapp",
@@ -9174,7 +9175,7 @@
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discordapp",
@@ -9182,27 +9183,27 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "realtime",
@@ -9210,27 +9211,27 @@
   },
   {
     "id": "language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "programming-language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "programming-language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bitmap",
@@ -9306,11 +9307,11 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "roguelike",
@@ -9322,11 +9323,11 @@
   },
   {
     "id": "c-sharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "data-visualization",
@@ -9334,19 +9335,19 @@
   },
   {
     "id": "visualization",
-    "count": 5
+    "count": 7
   },
   {
     "id": "visualization",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-2d",
@@ -9354,7 +9355,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "games",
@@ -9362,7 +9363,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pygame",
@@ -9370,7 +9371,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pygame-application",
@@ -9378,11 +9379,11 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-2d",
@@ -9390,11 +9391,11 @@
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "games",
@@ -9402,27 +9403,27 @@
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "github",
-    "count": 5
+    "count": 7
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "github",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "keyboard",
@@ -9446,7 +9447,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "player",
@@ -9454,7 +9455,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pygame",
@@ -9478,7 +9479,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pygame-application",
@@ -9486,7 +9487,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pygame-library",
@@ -9494,11 +9495,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python-3",
@@ -9506,7 +9507,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python-3-6",
@@ -9526,7 +9527,7 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python-3-6",
@@ -9534,23 +9535,23 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tdd",
@@ -9570,7 +9571,7 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "quartz",
@@ -9578,11 +9579,11 @@
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "erlang",
@@ -9590,7 +9591,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "computer-vision",
@@ -9598,7 +9599,7 @@
   },
   {
     "id": "image-processing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "computer-vision",
@@ -9614,27 +9615,27 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "image-processing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "machinelearning",
@@ -9662,39 +9663,39 @@
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "esoteric-programming-language",
@@ -9842,7 +9843,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dockerfile",
@@ -9850,15 +9851,15 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest2020",
@@ -9870,7 +9871,7 @@
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "regl",
@@ -9878,7 +9879,7 @@
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vr",
@@ -9886,7 +9887,7 @@
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ocr",
@@ -9894,7 +9895,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "threejs",
@@ -9914,7 +9915,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "neural-networks",
@@ -9922,7 +9923,7 @@
   },
   {
     "id": "atom",
-    "count": 5
+    "count": 7
   },
   {
     "id": "atom-package",
@@ -9934,19 +9935,19 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "blockchain",
@@ -9954,11 +9955,11 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gwt",
@@ -9966,7 +9967,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "matplotlib",
@@ -9974,7 +9975,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "numpy",
@@ -9982,11 +9983,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "r",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shiny",
@@ -9998,19 +9999,19 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xpath",
@@ -10034,15 +10035,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "simulation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hugo",
@@ -10050,7 +10051,7 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "personal",
@@ -10062,7 +10063,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "eslint",
@@ -10078,7 +10079,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "eslint-plugin",
@@ -10086,11 +10087,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm-module",
@@ -10110,11 +10111,11 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tkinter",
@@ -10122,7 +10123,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotnet-core",
@@ -10130,7 +10131,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nuget",
@@ -10138,15 +10139,15 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unity",
@@ -10154,7 +10155,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unity",
@@ -10166,7 +10167,7 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "emulator",
@@ -10174,11 +10175,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "imageview",
@@ -10186,7 +10187,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "view",
@@ -10194,7 +10195,7 @@
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "view",
@@ -10206,51 +10207,51 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "carthage",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bech32",
@@ -10258,7 +10259,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bip44",
@@ -10266,7 +10267,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bip49",
@@ -10274,7 +10275,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bip84",
@@ -10282,15 +10283,15 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bitcoinj",
@@ -10298,15 +10299,15 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "segwit",
@@ -10342,7 +10343,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bech32",
@@ -10358,7 +10359,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bech32",
@@ -10390,7 +10391,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bip44",
@@ -10406,7 +10407,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bip44",
@@ -10430,7 +10431,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bip49",
@@ -10446,7 +10447,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bip49",
@@ -10462,7 +10463,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bip84",
@@ -10478,7 +10479,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bip84",
@@ -10490,7 +10491,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bitcoinj",
@@ -10498,7 +10499,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "segwit",
@@ -10510,7 +10511,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bitcoinj",
@@ -10522,7 +10523,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "segwit",
@@ -10534,7 +10535,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "backpropagation-learning-algorithm",
@@ -10546,7 +10547,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "deep-neural-networks",
@@ -10574,11 +10575,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hal",
@@ -10586,15 +10587,15 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "microservice",
@@ -10602,7 +10603,7 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "microservices",
@@ -10610,15 +10611,15 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "transformer",
@@ -10626,11 +10627,11 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hal",
@@ -10638,7 +10639,7 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hal",
@@ -10646,7 +10647,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hal",
@@ -10654,7 +10655,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hal",
@@ -10670,11 +10671,11 @@
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "microservice",
@@ -10682,7 +10683,7 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "microservices",
@@ -10690,23 +10691,23 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "transformer",
@@ -10714,11 +10715,11 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "microservice",
@@ -10734,7 +10735,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "microservice",
@@ -10742,7 +10743,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "microservice",
@@ -10758,7 +10759,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "microservices",
@@ -10766,7 +10767,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "microservices",
@@ -10778,15 +10779,15 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "transformer",
@@ -10794,15 +10795,15 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "transformer",
@@ -10810,11 +10811,11 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "transformer",
@@ -10822,7 +10823,7 @@
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "camera",
@@ -10830,7 +10831,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "kodi",
@@ -10838,11 +10839,11 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "v4l2",
@@ -10858,11 +10859,11 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "code",
@@ -10870,7 +10871,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "coding-standards",
@@ -10886,7 +10887,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "coding-style",
@@ -10894,11 +10895,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "phoenix",
@@ -10906,7 +10907,7 @@
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "phoenix-framework",
@@ -10938,7 +10939,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wrapper",
@@ -10958,7 +10959,7 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "appleseed",
@@ -10966,7 +10967,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "appleseed",
@@ -10982,7 +10983,7 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "appleseed-plugin",
@@ -10990,7 +10991,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "appleseed-plugin",
@@ -11014,19 +11015,19 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "renderer",
@@ -11034,7 +11035,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "renderer",
@@ -11042,7 +11043,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sklearn",
@@ -11050,7 +11051,7 @@
   },
   {
     "id": "svg",
-    "count": 5
+    "count": 7
   },
   {
     "id": "svg-icons",
@@ -11070,7 +11071,7 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ecommerce",
@@ -11110,7 +11111,7 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "extension",
@@ -11146,7 +11147,7 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "multiple-variants",
@@ -11154,7 +11155,7 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "product",
@@ -11162,7 +11163,7 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "solidus",
@@ -11170,7 +11171,7 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "variant",
@@ -11350,7 +11351,7 @@
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "build",
@@ -11374,19 +11375,19 @@
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mezzanine",
@@ -11394,11 +11395,11 @@
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mezzanine",
@@ -11406,11 +11407,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "emacs",
@@ -11418,7 +11419,7 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tmux",
@@ -11426,11 +11427,11 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "emacs",
@@ -11438,19 +11439,19 @@
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "zsh",
@@ -11458,23 +11459,23 @@
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "zsh",
@@ -11486,7 +11487,7 @@
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tmux",
@@ -11498,7 +11499,7 @@
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "zsh",
@@ -11510,7 +11511,7 @@
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "babel-es6",
@@ -11518,19 +11519,19 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react-bootstrap",
@@ -11538,15 +11539,15 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jvm",
@@ -11554,7 +11555,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jvm",
@@ -11562,19 +11563,19 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "containers",
@@ -11582,7 +11583,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "containers",
@@ -11590,15 +11591,15 @@
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "material-ui",
@@ -11606,7 +11607,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "oauth",
@@ -11614,7 +11615,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "book",
@@ -11622,7 +11623,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "middleman",
@@ -11630,11 +11631,11 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "log",
@@ -11642,11 +11643,11 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "log",
@@ -11654,7 +11655,7 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ecs",
@@ -11662,7 +11663,7 @@
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ethereum",
@@ -11678,7 +11679,7 @@
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "assistant-chat-bots",
@@ -11686,7 +11687,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "assistant-chat-bots",
@@ -11698,7 +11699,7 @@
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pytorch",
@@ -11706,7 +11707,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pytorch",
@@ -11714,7 +11715,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "netframework",
@@ -11722,7 +11723,7 @@
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "google-cloud",
@@ -11730,7 +11731,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp-library",
@@ -11738,7 +11739,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp11",
@@ -11754,23 +11755,23 @@
   },
   {
     "id": "editor",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ansible-playbook",
@@ -11778,7 +11779,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ansible-roles",
@@ -11786,7 +11787,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "base",
@@ -11794,7 +11795,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "makefile",
@@ -11930,11 +11931,11 @@
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spotify",
@@ -11958,7 +11959,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spotify-api",
@@ -11970,7 +11971,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "exchange",
@@ -11982,15 +11983,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "frontend",
@@ -11998,19 +11999,19 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vanilla-js",
@@ -12018,7 +12019,7 @@
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "npm-module",
@@ -12026,7 +12027,7 @@
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "npm-package",
@@ -12062,7 +12063,7 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "elmah-io",
@@ -12070,7 +12071,7 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cryptography",
@@ -12082,15 +12083,15 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "texture",
@@ -12098,15 +12099,15 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xposed",
@@ -12114,7 +12115,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css-framework",
@@ -12122,7 +12123,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flexbox",
@@ -12130,7 +12131,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minimal",
@@ -12138,7 +12139,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "responsive",
@@ -12174,7 +12175,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "application",
@@ -12182,31 +12183,31 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "browser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "browser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "browser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "composer",
@@ -12214,11 +12215,11 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mmo",
@@ -12226,7 +12227,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mmorpg",
@@ -12234,7 +12235,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rpg-game",
@@ -12242,11 +12243,11 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hexagonal-architecture",
@@ -12254,23 +12255,23 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mmo",
@@ -12282,19 +12283,19 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "roleplaying-game",
@@ -12306,23 +12307,23 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json-api",
@@ -12330,15 +12331,15 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jwt",
@@ -12346,11 +12347,11 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json-api",
@@ -12358,11 +12359,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "skeleton",
@@ -12406,19 +12407,19 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php-library",
@@ -12430,7 +12431,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php-library",
@@ -12438,19 +12439,19 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api-client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sdk",
@@ -12458,23 +12459,23 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jda",
@@ -12482,7 +12483,7 @@
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jda",
@@ -12498,7 +12499,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript-plugin",
@@ -12506,7 +12507,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "playbook",
@@ -12522,7 +12523,7 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hexo",
@@ -12538,39 +12539,39 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "damn",
-    "count": 2
-  },
-  {
-    "id": "api",
-    "count": 5
-  },
-  {
-    "id": "deviantart",
     "count": 2
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
+  },
+  {
+    "id": "deviantart",
+    "count": 2
+  },
+  {
+    "id": "api",
+    "count": 15
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "damn",
@@ -12578,7 +12579,7 @@
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "deviantart",
@@ -12586,19 +12587,19 @@
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "damn",
@@ -12614,7 +12615,7 @@
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "damn",
@@ -12622,7 +12623,7 @@
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "deviantart",
@@ -12630,7 +12631,7 @@
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "deviantart",
@@ -12638,19 +12639,19 @@
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "material",
@@ -12658,7 +12659,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "picker",
@@ -12670,7 +12671,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "asyncio",
@@ -12678,15 +12679,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chatops",
@@ -12702,7 +12703,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "crawler",
@@ -12718,7 +12719,7 @@
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cloud-storage",
@@ -12734,7 +12735,7 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "chef",
@@ -12750,7 +12751,7 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cookbook",
@@ -12762,7 +12763,7 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mta",
@@ -12778,15 +12779,15 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "matrix",
@@ -12794,7 +12795,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "quaternion",
@@ -12810,15 +12811,15 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang-package",
@@ -12826,7 +12827,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang-package",
@@ -12834,7 +12835,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang-tools",
@@ -12842,15 +12843,15 @@
   },
   {
     "id": "atom",
-    "count": 5
+    "count": 7
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discord-bot",
@@ -12858,7 +12859,7 @@
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discord-api",
@@ -12866,7 +12867,7 @@
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discord-bot",
@@ -12874,11 +12875,11 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "date",
@@ -12894,7 +12895,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "datetimes",
@@ -12902,7 +12903,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "datetimes",
@@ -12914,7 +12915,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "time",
@@ -12922,19 +12923,19 @@
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "application",
@@ -12942,19 +12943,19 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gulp-plugin",
@@ -12962,7 +12963,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python-library",
@@ -12978,7 +12979,7 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "popmotion",
@@ -12990,7 +12991,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "magento",
@@ -12998,7 +12999,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flow",
@@ -13006,15 +13007,15 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bson",
@@ -13022,11 +13023,11 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus-11",
@@ -13034,7 +13035,7 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus-14",
@@ -13042,7 +13043,7 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus-17",
@@ -13050,11 +13051,11 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus-11",
@@ -13082,15 +13083,15 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nosql",
@@ -13098,7 +13099,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nosql",
@@ -13110,15 +13111,15 @@
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "backend",
@@ -13126,23 +13127,23 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "alpine",
@@ -13150,7 +13151,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "debian",
@@ -13162,11 +13163,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "architecture",
@@ -13174,7 +13175,7 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "architecture",
@@ -13186,7 +13187,7 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "flow",
@@ -13194,11 +13195,11 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "flow",
@@ -13206,7 +13207,7 @@
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "app",
@@ -13214,7 +13215,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "app",
@@ -13222,7 +13223,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cocoa",
@@ -13230,7 +13231,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cocoa",
@@ -13238,7 +13239,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dashboard",
@@ -13246,7 +13247,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reddit",
@@ -13274,7 +13275,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wpf",
@@ -13282,7 +13283,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xamarin",
@@ -13290,7 +13291,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xamarin-forms",
@@ -13298,7 +13299,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xaml",
@@ -13410,11 +13411,11 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "luajit",
@@ -13426,11 +13427,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "composer",
@@ -13438,19 +13439,19 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yarn",
@@ -13458,39 +13459,39 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java-library",
@@ -13498,7 +13499,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javafx",
@@ -13514,15 +13515,15 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php-template-engine",
@@ -13530,7 +13531,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "template-engine",
@@ -13550,7 +13551,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "array",
@@ -13562,7 +13563,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "observable",
@@ -13570,7 +13571,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rxswift",
@@ -13582,7 +13583,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ffmpeg",
@@ -13590,7 +13591,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ffmpeg",
@@ -13610,7 +13611,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "youtube",
@@ -13622,7 +13623,7 @@
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "debian",
@@ -13630,11 +13631,11 @@
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "phaser",
@@ -13642,7 +13643,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "phaser",
@@ -13666,7 +13667,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redhat",
@@ -13674,7 +13675,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "movie",
@@ -13682,7 +13683,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "udacity",
@@ -13690,7 +13691,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "udacity-android-nanodegree",
@@ -13718,7 +13719,7 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "table",
@@ -13726,11 +13727,11 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue-cli",
@@ -13738,7 +13739,7 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue-resource",
@@ -13750,7 +13751,7 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue-cli",
@@ -13766,11 +13767,11 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "winforms",
@@ -13782,7 +13783,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "forms",
@@ -13790,7 +13791,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "input",
@@ -13798,7 +13799,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dolphin-platform",
@@ -13810,31 +13811,31 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift-library",
@@ -13846,55 +13847,55 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "emoji",
@@ -13906,11 +13907,11 @@
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bottle",
@@ -13918,7 +13919,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "deployment",
@@ -13930,7 +13931,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tool",
@@ -13938,23 +13939,23 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mono",
@@ -13970,7 +13971,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "steam",
@@ -13978,7 +13979,7 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mono",
@@ -13986,7 +13987,7 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tool",
@@ -14002,11 +14003,11 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "iptables",
@@ -14014,15 +14015,15 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "example",
@@ -14046,7 +14047,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacking",
@@ -14054,11 +14055,11 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ruby-on-rails",
@@ -14066,7 +14067,7 @@
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sidekiq",
@@ -14078,19 +14079,19 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "esp8266",
@@ -14114,7 +14115,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "icons",
@@ -14122,11 +14123,11 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "computer-science",
@@ -14134,7 +14135,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "computer-science",
@@ -14142,7 +14143,7 @@
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ecmascript",
@@ -14150,11 +14151,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mocha",
@@ -14162,11 +14163,11 @@
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mocha",
@@ -14174,7 +14175,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "networking",
@@ -14182,7 +14183,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "protocol",
@@ -14190,11 +14191,11 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "keras",
@@ -14210,19 +14211,19 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "curl",
@@ -14230,19 +14231,19 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http-client",
@@ -14258,11 +14259,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "datepicker",
@@ -14274,7 +14275,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gradle-plugin",
@@ -14282,7 +14283,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "foss",
@@ -14290,7 +14291,7 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "oauth",
@@ -14298,7 +14299,7 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "oauth1",
@@ -14306,7 +14307,7 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "oauth2",
@@ -14314,7 +14315,7 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "social-media",
@@ -14322,7 +14323,7 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "socialite",
@@ -14330,7 +14331,7 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "socialite-providers",
@@ -14462,11 +14463,11 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "single-page-app",
@@ -14474,19 +14475,19 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "compiler",
-    "count": 5
+    "count": 7
   },
   {
     "id": "programming-language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cron",
@@ -14494,11 +14495,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vdr",
@@ -14506,7 +14507,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tinymce",
@@ -14514,7 +14515,7 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tinymce",
@@ -14522,7 +14523,7 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wysiwyg",
@@ -14542,11 +14543,11 @@
   },
   {
     "id": "programming-language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap3",
@@ -14554,7 +14555,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yeoman",
@@ -14594,11 +14595,11 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "config",
@@ -14606,11 +14607,11 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "password-manager",
@@ -14618,15 +14619,15 @@
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "audio",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webaudio",
@@ -14634,7 +14635,7 @@
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mercurial",
@@ -14642,7 +14643,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "grid",
@@ -14650,7 +14651,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mobile-first",
@@ -14666,23 +14667,23 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker-container",
@@ -14690,11 +14691,11 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "threejs",
@@ -14702,7 +14703,7 @@
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "a-star",
@@ -14794,7 +14795,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "puzzle-game",
@@ -14802,19 +14803,19 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "editor",
-    "count": 5
+    "count": 7
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "common-lisp",
@@ -14842,11 +14843,11 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pentesting",
@@ -14854,11 +14855,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "github-pages",
@@ -14866,7 +14867,7 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pelican",
@@ -14886,31 +14887,31 @@
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jss",
@@ -14918,15 +14919,15 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bower",
@@ -14934,7 +14935,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "d3",
@@ -14950,19 +14951,19 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "time-series",
@@ -14970,11 +14971,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "face-detection",
@@ -14990,11 +14991,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "onboarding",
@@ -15002,7 +15003,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tutorial",
@@ -15018,15 +15019,15 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sdl2",
@@ -15034,7 +15035,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sdl2",
@@ -15046,7 +15047,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gradle",
@@ -15054,19 +15055,19 @@
   },
   {
     "id": "kotlin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "toolkit",
@@ -15074,15 +15075,15 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "micro-framework",
@@ -15090,7 +15091,7 @@
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "microservices",
@@ -15098,43 +15099,43 @@
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bluetooth",
@@ -15142,7 +15143,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bluetooth-low-energy",
@@ -15150,27 +15151,27 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker-image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gitlab",
@@ -15182,11 +15183,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "telegram",
-    "count": 5
+    "count": 7
   },
   {
     "id": "telegram-bot",
@@ -15198,7 +15199,7 @@
   },
   {
     "id": "docker-image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "continuous-integration",
@@ -15206,7 +15207,7 @@
   },
   {
     "id": "docker-image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "font-face",
@@ -15218,11 +15219,11 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "svg",
-    "count": 5
+    "count": 7
   },
   {
     "id": "latex",
@@ -15234,7 +15235,7 @@
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spigot",
@@ -15242,7 +15243,7 @@
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spigot-plugin",
@@ -15254,7 +15255,7 @@
   },
   {
     "id": "personal-website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "applet",
@@ -15266,7 +15267,7 @@
   },
   {
     "id": "graphql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "graphql-server",
@@ -15274,7 +15275,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "camera",
@@ -15282,7 +15283,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gallery",
@@ -15290,11 +15291,11 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "camera",
@@ -15306,7 +15307,7 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "picture",
@@ -15318,7 +15319,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "debug",
@@ -15334,7 +15335,7 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "log",
@@ -15350,7 +15351,7 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cordova",
@@ -15362,15 +15363,15 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "image-processing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "open-source",
@@ -15378,7 +15379,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opencv",
@@ -15386,7 +15387,7 @@
   },
   {
     "id": "image-processing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "opencv",
@@ -15394,7 +15395,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "stun",
@@ -15402,7 +15403,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webrtc",
@@ -15418,7 +15419,7 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dynamodb",
@@ -15430,7 +15431,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wechat",
@@ -15442,23 +15443,23 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "springboot",
@@ -15466,27 +15467,27 @@
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "portal",
@@ -15494,7 +15495,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "portal",
@@ -15510,7 +15511,7 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "productivity",
@@ -15518,7 +15519,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "productivity",
@@ -15526,7 +15527,7 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ror",
@@ -15534,11 +15535,11 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tool",
@@ -15546,11 +15547,11 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby-on-rails",
@@ -15558,7 +15559,7 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tool",
@@ -15566,19 +15567,19 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "localization",
@@ -15586,7 +15587,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mobile",
@@ -15598,7 +15599,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "i18n",
@@ -15618,7 +15619,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "localization",
@@ -15626,7 +15627,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mobile",
@@ -15638,11 +15639,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "virtualenv",
@@ -15650,7 +15651,7 @@
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "erlang",
@@ -15666,7 +15667,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "device",
@@ -15686,7 +15687,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "conference",
@@ -15694,59 +15695,59 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "carthage",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios-animation",
@@ -15754,15 +15755,15 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "uikit",
@@ -15770,15 +15771,15 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "uikit",
@@ -15786,7 +15787,7 @@
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "uikit",
@@ -15794,7 +15795,7 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shell-script",
@@ -15806,7 +15807,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es5",
@@ -15814,15 +15815,15 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mpi",
@@ -15830,27 +15831,27 @@
   },
   {
     "id": "simulation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-sharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "static-site-generator",
@@ -15858,35 +15859,35 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-sharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-sharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-sharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "antlr",
@@ -15894,7 +15895,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lambda-calculus",
@@ -15906,15 +15907,15 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "telegram",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "telegram-bot",
@@ -15922,7 +15923,7 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bashrc",
@@ -15942,11 +15943,11 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "self-hosted",
@@ -15954,11 +15955,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "twitter",
-    "count": 5
+    "count": 7
   },
   {
     "id": "exploits",
@@ -15970,7 +15971,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python-wrapper",
@@ -15978,7 +15979,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scanner",
@@ -15990,7 +15991,7 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "autoprefixer",
@@ -16006,11 +16007,11 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "eslint",
@@ -16018,39 +16019,39 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yeoman",
@@ -16058,7 +16059,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es2015",
@@ -16066,15 +16067,15 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "handlebars",
@@ -16082,7 +16083,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "stylus",
@@ -16102,7 +16103,7 @@
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "eslint",
@@ -16110,27 +16111,27 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "stylus",
@@ -16138,7 +16139,7 @@
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yeoman",
@@ -16146,23 +16147,23 @@
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "stylus",
@@ -16170,7 +16171,7 @@
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yeoman",
@@ -16178,7 +16179,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "stylus",
@@ -16186,7 +16187,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yeoman",
@@ -16194,7 +16195,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yeoman-generator",
@@ -16202,7 +16203,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "stylus",
@@ -16210,7 +16211,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yeoman-generator",
@@ -16238,11 +16239,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "self-hosted",
@@ -16250,19 +16251,19 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "real-time",
@@ -16278,15 +16279,15 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "distributed",
@@ -16298,15 +16299,15 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "trade",
@@ -16322,7 +16323,7 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aws-sdk",
@@ -16374,7 +16375,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "grunt-plugins",
@@ -16390,7 +16391,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gruntfile",
@@ -16398,7 +16399,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysqli",
@@ -16406,11 +16407,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "edge-extension",
@@ -16418,7 +16419,7 @@
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "firefox-addon",
@@ -16426,7 +16427,7 @@
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "google-chrome",
@@ -16434,11 +16435,11 @@
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "edge-extension",
@@ -16450,47 +16451,47 @@
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "svg",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "svg",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "terminal",
@@ -16498,7 +16499,7 @@
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "terminal",
@@ -16514,7 +16515,7 @@
   },
   {
     "id": "image-processing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "terminal",
@@ -16530,7 +16531,7 @@
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "openssl",
@@ -16538,11 +16539,11 @@
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "openssl",
@@ -16550,7 +16551,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "photo-gallery",
@@ -16558,15 +16559,15 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ble",
@@ -16618,7 +16619,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-app",
@@ -16642,7 +16643,7 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jsx",
@@ -16650,15 +16651,15 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jsx",
@@ -16666,11 +16667,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jsx",
@@ -16678,7 +16679,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nextjs",
@@ -16686,11 +16687,11 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "application",
@@ -16706,7 +16707,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sbt",
@@ -16714,11 +16715,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sbt",
@@ -16734,7 +16735,7 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sbt-plugin",
@@ -16742,11 +16743,11 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scalatest",
@@ -16778,7 +16779,7 @@
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "raspberry-pi-3",
@@ -16806,7 +16807,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "detect-faces",
@@ -16862,11 +16863,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scipy",
@@ -16874,15 +16875,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "video",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jsp",
@@ -16902,7 +16903,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "emulator",
@@ -16910,7 +16911,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "emulator",
@@ -16926,7 +16927,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "habbo",
@@ -16934,7 +16935,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "habbo",
@@ -16942,7 +16943,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "habbo",
@@ -16954,7 +16955,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tcp-server",
@@ -16962,7 +16963,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tcp-server",
@@ -16970,7 +16971,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tcp-server",
@@ -16978,7 +16979,7 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scalafx",
@@ -16986,15 +16987,15 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spi",
@@ -17002,7 +17003,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "st7735",
@@ -17018,7 +17019,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack-loader",
@@ -17026,7 +17027,7 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discord-py",
@@ -17034,7 +17035,7 @@
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discord-py",
@@ -17042,11 +17043,11 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "maven-plugin",
@@ -17066,7 +17067,7 @@
   },
   {
     "id": "async",
-    "count": 5
+    "count": 7
   },
   {
     "id": "promises",
@@ -17074,11 +17075,11 @@
   },
   {
     "id": "async",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "await",
@@ -17090,11 +17091,11 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "stylelint",
@@ -17110,7 +17111,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "crawler",
@@ -17126,19 +17127,19 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spider",
@@ -17178,15 +17179,15 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "widget",
@@ -17194,87 +17195,87 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lua",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lua",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "lua",
-    "count": 5
+    "count": 7
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pandas",
@@ -17282,7 +17283,7 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wordpress-theme",
@@ -17290,11 +17291,11 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "context-menu",
@@ -17314,15 +17315,15 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "management",
@@ -17346,7 +17347,7 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python2",
@@ -17354,15 +17355,15 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python2",
@@ -17374,7 +17375,7 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wayland",
@@ -17394,15 +17395,15 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "telegram",
-    "count": 5
+    "count": 7
   },
   {
     "id": "telegram-bot-api",
@@ -17434,7 +17435,7 @@
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular4",
@@ -17442,7 +17443,7 @@
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular7",
@@ -17458,15 +17459,15 @@
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "terminal",
@@ -17474,43 +17475,43 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "alerting",
@@ -17518,7 +17519,7 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "playframework",
@@ -17526,11 +17527,11 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scalajs",
@@ -17562,7 +17563,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pdo",
@@ -17574,15 +17575,15 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "coffeescript",
@@ -17590,7 +17591,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lint",
@@ -17606,7 +17607,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ajax",
@@ -17614,19 +17615,19 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "async",
-    "count": 5
+    "count": 7
   },
   {
     "id": "asynchronous",
@@ -17634,11 +17635,11 @@
   },
   {
     "id": "async",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "asynchronous",
@@ -17650,15 +17651,15 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sync",
@@ -17666,7 +17667,7 @@
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sync",
@@ -17674,7 +17675,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tvos",
@@ -17682,7 +17683,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kanban",
@@ -17714,11 +17715,11 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "appleseed",
@@ -17814,7 +17815,7 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "autodesk-maya",
@@ -17822,7 +17823,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "autodesk-maya",
@@ -17854,7 +17855,7 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cg",
@@ -17862,7 +17863,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cg",
@@ -17886,7 +17887,7 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "computer-graphics",
@@ -17894,7 +17895,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "computer-graphics",
@@ -17910,7 +17911,7 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cplusplus",
@@ -17922,15 +17923,15 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aws-lambda",
@@ -17938,7 +17939,7 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "serverless",
@@ -17958,7 +17959,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jamstack",
@@ -17974,7 +17975,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "netlify",
@@ -17982,7 +17983,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5-canvas",
@@ -17990,43 +17991,43 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nfs",
@@ -18034,35 +18035,35 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "screenshot",
@@ -18070,11 +18071,11 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "haproxy",
@@ -18082,7 +18083,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http-proxy",
@@ -18090,7 +18091,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "proxy",
@@ -18106,7 +18107,7 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aws-s3",
@@ -18114,7 +18115,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mssql",
@@ -18122,19 +18123,19 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mssql",
@@ -18142,7 +18143,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mssql",
@@ -18154,31 +18155,31 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "elixir-lang",
@@ -18186,7 +18187,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "maven-plugin",
@@ -18202,11 +18203,11 @@
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "personal-blog",
@@ -18214,7 +18215,7 @@
   },
   {
     "id": "personal-website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "personal-site",
@@ -18222,11 +18223,11 @@
   },
   {
     "id": "personal-website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "validation",
@@ -18234,7 +18235,7 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "unix",
@@ -18286,19 +18287,19 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "serverless-framework",
@@ -18310,11 +18311,11 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serverless-framework",
@@ -18330,7 +18331,7 @@
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "datascience",
@@ -18338,11 +18339,11 @@
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "r",
-    "count": 5
+    "count": 7
   },
   {
     "id": "datascience",
@@ -18350,15 +18351,15 @@
   },
   {
     "id": "r",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "elm",
@@ -18370,11 +18371,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "anime",
@@ -18386,7 +18387,7 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nuget",
@@ -18394,7 +18395,7 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gem",
@@ -18402,11 +18403,11 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dart",
@@ -18418,7 +18419,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "uitableview",
@@ -18430,7 +18431,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "command-line-tool",
@@ -18438,7 +18439,7 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "commandline",
@@ -18446,11 +18447,11 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux-saga",
@@ -18458,7 +18459,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux-thunk",
@@ -18466,7 +18467,7 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux-saga",
@@ -18474,7 +18475,7 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux-thunk",
@@ -18486,11 +18487,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "writer",
@@ -18498,7 +18499,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "writer",
@@ -18506,7 +18507,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webworker",
@@ -18526,23 +18527,23 @@
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "lua",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gpu",
@@ -18554,23 +18555,23 @@
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "passport",
@@ -18578,7 +18579,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular-cli",
@@ -18586,7 +18587,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios-swift",
@@ -18598,11 +18599,11 @@
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php-sdk",
@@ -18610,7 +18611,7 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "developer-tools",
@@ -18618,15 +18619,15 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "developer-tools",
@@ -18634,11 +18635,11 @@
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "developer-tools",
@@ -18646,7 +18647,7 @@
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "developer-tools",
@@ -18658,15 +18659,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unicode",
@@ -18674,7 +18675,7 @@
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "subcommands",
@@ -18682,11 +18683,11 @@
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "analytics",
@@ -18698,23 +18699,23 @@
   },
   {
     "id": "language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "programming-language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-development",
@@ -18722,7 +18723,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-studio",
@@ -18762,11 +18763,11 @@
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "visualization",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sparql-query",
@@ -18778,7 +18779,7 @@
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mobile",
@@ -18786,15 +18787,15 @@
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mobile",
@@ -18802,19 +18803,19 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minecraft-forge-mod",
@@ -18830,7 +18831,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api-server",
@@ -18838,7 +18839,7 @@
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api-server",
@@ -18850,15 +18851,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web-framework",
@@ -18866,7 +18867,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wsgi-server",
@@ -18890,11 +18891,11 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dot-net-5",
@@ -18926,7 +18927,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dot-net-5",
@@ -18966,7 +18967,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotnet-5",
@@ -18998,7 +18999,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotnet-core",
@@ -19022,7 +19023,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotnet5",
@@ -19042,7 +19043,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kentico-kontent",
@@ -19050,7 +19051,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "net5",
@@ -19078,7 +19079,7 @@
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "developer-tools",
@@ -19086,11 +19087,11 @@
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "git-addons",
@@ -19098,19 +19099,19 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "podcast",
@@ -19118,27 +19119,27 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "customview",
@@ -19150,7 +19151,7 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dom",
@@ -19158,39 +19159,39 @@
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "discord-bot",
@@ -19198,11 +19199,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlalchemy",
@@ -19218,79 +19219,79 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "apis",
@@ -19298,15 +19299,15 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "service",
@@ -19318,11 +19319,11 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lua",
-    "count": 5
+    "count": 7
   },
   {
     "id": "openresty",
@@ -19330,23 +19331,23 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "starter-kit",
@@ -19358,11 +19359,11 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dockerfiles",
@@ -19374,7 +19375,7 @@
   },
   {
     "id": "docker-image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "crawler",
@@ -19382,7 +19383,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "elasticsearch",
@@ -19390,7 +19391,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "config",
@@ -19406,15 +19407,15 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "activerecord",
@@ -19422,7 +19423,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web-development",
@@ -19434,7 +19435,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hyperparameter-optimization",
@@ -19446,7 +19447,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "asp-net-core",
@@ -19490,15 +19491,15 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "toml",
@@ -19506,7 +19507,7 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yaml",
@@ -19514,7 +19515,7 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang-library",
@@ -19522,7 +19523,7 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "toml",
@@ -19530,7 +19531,7 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yaml",
@@ -19566,7 +19567,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "agpl",
@@ -19598,7 +19599,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "data-structures",
@@ -19610,7 +19611,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "search-trees",
@@ -19622,15 +19623,15 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "exploit",
@@ -19638,7 +19639,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacking-tool",
@@ -19646,7 +19647,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacking-tool",
@@ -19658,7 +19659,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "security-tools",
@@ -19674,7 +19675,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javaee",
@@ -19686,7 +19687,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "led",
@@ -19694,11 +19695,11 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "credentials",
@@ -19710,15 +19711,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "form",
@@ -19726,11 +19727,11 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "subscribe",
@@ -19738,7 +19739,7 @@
   },
   {
     "id": "atom",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rss",
@@ -19758,11 +19759,11 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tokio",
@@ -19770,11 +19771,11 @@
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hash",
@@ -19794,7 +19795,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "service",
@@ -19802,7 +19803,7 @@
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "service",
@@ -19810,19 +19811,19 @@
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongo",
@@ -19830,23 +19831,23 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "custom-elements",
@@ -19882,11 +19883,11 @@
   },
   {
     "id": "api-client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "analysis",
@@ -19898,7 +19899,7 @@
   },
   {
     "id": "bioinformatics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pipeline",
@@ -19906,11 +19907,11 @@
   },
   {
     "id": "bioinformatics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "backup",
@@ -19922,15 +19923,15 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "requirejs",
@@ -19938,39 +19939,39 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker-compose",
@@ -19978,11 +19979,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker-compose",
@@ -19990,11 +19991,11 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "simple",
@@ -20002,15 +20003,15 @@
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "networking",
@@ -20018,11 +20019,11 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "networking",
@@ -20030,35 +20031,35 @@
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "notifications",
@@ -20066,7 +20067,7 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nrpe",
@@ -20074,19 +20075,19 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "symfony",
-    "count": 5
+    "count": 7
   },
   {
     "id": "latex",
@@ -20102,11 +20103,11 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spaceship",
@@ -20114,7 +20115,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xna",
@@ -20138,19 +20139,19 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery-plugin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "google",
@@ -20158,7 +20159,7 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "images",
@@ -20166,23 +20167,23 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hugo",
@@ -20198,7 +20199,7 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "apollo-client",
@@ -20206,11 +20207,11 @@
   },
   {
     "id": "graphql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scanner",
@@ -20230,11 +20231,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "utilities",
@@ -20246,7 +20247,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chat-application",
@@ -20258,23 +20259,23 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reinforcement-learning",
@@ -20282,23 +20283,23 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "s3",
@@ -20310,7 +20311,7 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "example",
@@ -20326,7 +20327,7 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kafka",
@@ -20342,7 +20343,7 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "prometheus",
@@ -20350,11 +20351,11 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "slick",
@@ -20362,15 +20363,15 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "qt",
@@ -20378,7 +20379,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "qt",
@@ -20390,7 +20391,7 @@
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "3d",
@@ -20398,19 +20399,19 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rpg",
@@ -20418,7 +20419,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jmonkeyengine3",
@@ -20462,7 +20463,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rbac",
@@ -20470,7 +20471,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cipher",
@@ -20478,19 +20479,19 @@
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jest",
@@ -20498,7 +20499,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "template-project",
@@ -20510,15 +20511,15 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "template-project",
@@ -20526,15 +20527,15 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spritekit",
@@ -20542,19 +20543,19 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wiki",
@@ -20566,7 +20567,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "fortran",
@@ -20574,7 +20575,7 @@
   },
   {
     "id": "simulation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "color-theme",
@@ -20582,7 +20583,7 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jupyter",
@@ -20598,7 +20599,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "notebook",
@@ -20606,7 +20607,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "finance",
@@ -20614,19 +20615,19 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "csv-parser",
@@ -20642,7 +20643,7 @@
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hex",
@@ -20650,7 +20651,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css3",
@@ -20662,7 +20663,7 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css3",
@@ -20670,7 +20671,7 @@
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css3",
@@ -20682,7 +20683,7 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "learning",
@@ -20698,15 +20699,15 @@
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tool",
@@ -20714,7 +20715,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tool",
@@ -20726,11 +20727,11 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack-plugin",
@@ -20738,11 +20739,11 @@
   },
   {
     "id": "editor",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-of-life",
@@ -20758,7 +20759,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gameoflife",
@@ -20766,11 +20767,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "learning",
@@ -20778,23 +20779,23 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "promise",
@@ -20802,7 +20803,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "query-builder",
@@ -20810,7 +20811,7 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "elm",
@@ -20834,7 +20835,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php-codesniffer",
@@ -20846,7 +20847,7 @@
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "comments",
@@ -20854,7 +20855,7 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "documentation",
@@ -20866,19 +20867,19 @@
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "keyboard",
@@ -20890,7 +20891,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postcss",
@@ -20898,7 +20899,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postcss-plugin",
@@ -20906,7 +20907,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minification",
@@ -20914,7 +20915,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postcss",
@@ -20966,11 +20967,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "soundcloud",
@@ -20986,7 +20987,7 @@
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "markdown-editor",
@@ -21006,11 +21007,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dagger2",
@@ -21018,7 +21019,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kotlin-android",
@@ -21030,7 +21031,7 @@
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "activejob",
@@ -21050,15 +21051,15 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cross-platform",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "uwp",
@@ -21066,7 +21067,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xamarin",
@@ -21074,15 +21075,15 @@
   },
   {
     "id": "cross-platform",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xamarin",
@@ -21090,7 +21091,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "uwp",
@@ -21098,7 +21099,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xamarin",
@@ -21114,7 +21115,7 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "date-time",
@@ -21122,15 +21123,15 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "email",
@@ -21138,7 +21139,7 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gmail",
@@ -21146,27 +21147,27 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "email",
@@ -21182,7 +21183,7 @@
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gmail",
@@ -21190,27 +21191,27 @@
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sharepoint",
@@ -21218,11 +21219,11 @@
   },
   {
     "id": "api-client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "debug",
@@ -21230,11 +21231,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unlicense",
@@ -21254,11 +21255,11 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "password",
@@ -21266,7 +21267,7 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ssh",
@@ -21274,7 +21275,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "password",
@@ -21282,7 +21283,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ssh",
@@ -21294,7 +21295,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "beamer",
@@ -21306,15 +21307,15 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "telegram",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "phpunit",
@@ -21322,7 +21323,7 @@
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "graph-algorithms",
@@ -21330,11 +21331,11 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "natural-language-processing",
@@ -21346,7 +21347,7 @@
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "youtube",
@@ -21366,7 +21367,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "backend",
@@ -21374,7 +21375,7 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "chat",
@@ -21382,7 +21383,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chat",
@@ -21390,7 +21391,7 @@
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "frontend",
@@ -21398,7 +21399,7 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "full-stack",
@@ -21406,27 +21407,27 @@
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cryptocurrency",
@@ -21434,7 +21435,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dash",
@@ -21442,7 +21443,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "litecoin",
@@ -21450,11 +21451,11 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cryptocurrency",
@@ -21470,7 +21471,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dash",
@@ -21486,11 +21487,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jax-rs",
@@ -21498,7 +21499,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jpa",
@@ -21506,7 +21507,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json-api",
@@ -21526,7 +21527,7 @@
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jax-rs",
@@ -21542,11 +21543,11 @@
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "restful-api",
@@ -21554,11 +21555,11 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "i18n",
@@ -21570,11 +21571,11 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap4",
@@ -21582,19 +21583,19 @@
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dsharpplus",
@@ -21602,11 +21603,11 @@
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sql-server",
@@ -21618,7 +21619,7 @@
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlserver",
@@ -21630,15 +21631,15 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "parser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "elixir-lang",
@@ -21650,7 +21651,7 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "debian",
@@ -21658,7 +21659,7 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux-distribution",
@@ -21666,11 +21667,11 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "debian",
@@ -21686,7 +21687,7 @@
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "email",
@@ -21702,7 +21703,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "imap",
@@ -21710,7 +21711,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "imap",
@@ -21722,31 +21723,31 @@
   },
   {
     "id": "github",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tdd",
@@ -21754,7 +21755,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scripting-language",
@@ -21762,7 +21763,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "slider",
@@ -21770,7 +21771,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "slideshow",
@@ -21790,11 +21791,11 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql-builder",
@@ -21802,7 +21803,7 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sql-builder",
@@ -21810,11 +21811,11 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "accelerometer",
@@ -21826,7 +21827,7 @@
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sensor",
@@ -21834,23 +21835,23 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "menubar",
@@ -21862,7 +21863,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bundle",
@@ -21886,19 +21887,19 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "symfony",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "symfony-bundle",
@@ -21906,7 +21907,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "symfony2",
@@ -21914,7 +21915,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "symfony3",
@@ -21922,7 +21923,7 @@
   },
   {
     "id": "symfony",
-    "count": 5
+    "count": 7
   },
   {
     "id": "symfony-bundle",
@@ -21930,7 +21931,7 @@
   },
   {
     "id": "symfony",
-    "count": 5
+    "count": 7
   },
   {
     "id": "symfony2",
@@ -21938,7 +21939,7 @@
   },
   {
     "id": "symfony",
-    "count": 5
+    "count": 7
   },
   {
     "id": "symfony3",
@@ -21974,7 +21975,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "glsl",
@@ -21982,7 +21983,7 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "glsl",
@@ -21994,15 +21995,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "shaders",
@@ -22010,7 +22011,7 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shaders",
@@ -22018,11 +22019,11 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "data",
@@ -22030,15 +22031,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cnn",
@@ -22062,11 +22063,11 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tetris",
@@ -22074,23 +22075,23 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm-module",
@@ -22098,7 +22099,7 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm-package",
@@ -22106,15 +22107,15 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node-module",
@@ -22122,23 +22123,23 @@
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spotify",
@@ -22146,7 +22147,7 @@
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spotify-api",
@@ -22158,11 +22159,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm-module",
@@ -22170,7 +22171,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm-package",
@@ -22198,7 +22199,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cryptocurrency",
@@ -22222,15 +22223,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pandas",
@@ -22238,7 +22239,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap4",
@@ -22246,7 +22247,7 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "domain",
@@ -22254,15 +22255,15 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "information-retrieval",
@@ -22270,7 +22271,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "d3js",
@@ -22286,11 +22287,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mobile-web",
@@ -22298,11 +22299,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "daterange",
@@ -22310,11 +22311,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap4",
@@ -22322,27 +22323,27 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap4",
@@ -22350,7 +22351,7 @@
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap4",
@@ -22358,7 +22359,7 @@
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap4",
@@ -22374,19 +22375,19 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "starter-kit",
@@ -22398,11 +22399,11 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "fintech",
@@ -22410,7 +22411,7 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "payments",
@@ -22418,7 +22419,7 @@
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cloud-management",
@@ -22426,27 +22427,27 @@
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "containers",
@@ -22454,7 +22455,7 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "containers",
@@ -22462,7 +22463,7 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "containers",
@@ -22474,35 +22475,35 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mvc-framework",
@@ -22518,7 +22519,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "homebridge",
@@ -22542,19 +22543,19 @@
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "github",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "project",
@@ -22574,7 +22575,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "backup",
@@ -22582,15 +22583,15 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "expressjs",
@@ -22602,7 +22603,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongoose",
@@ -22614,11 +22615,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server-side-rendering",
@@ -22626,7 +22627,7 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "server-side-rendering",
@@ -22638,35 +22639,35 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "networking",
@@ -22674,7 +22675,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "networking",
@@ -22682,7 +22683,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql-client",
@@ -22694,7 +22695,7 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "postgres",
@@ -22702,11 +22703,11 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http-client",
@@ -22714,11 +22715,11 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http-client",
@@ -22726,11 +22727,11 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "slf4j",
@@ -22742,35 +22743,35 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "slack",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "slack",
-    "count": 5
+    "count": 7
   },
   {
     "id": "slack",
-    "count": 5
+    "count": 7
   },
   {
     "id": "slackbot",
@@ -22778,7 +22779,7 @@
   },
   {
     "id": "compiler",
-    "count": 5
+    "count": 7
   },
   {
     "id": "es2015",
@@ -22786,23 +22787,23 @@
   },
   {
     "id": "compiler",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yarn",
@@ -22810,7 +22811,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yubikey",
@@ -22818,11 +22819,11 @@
   },
   {
     "id": "docker-image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "retrofit2",
@@ -22834,7 +22835,7 @@
   },
   {
     "id": "yii2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yii2-extension",
@@ -22854,7 +22855,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "polymer",
@@ -22870,11 +22871,11 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "state-management",
@@ -22890,7 +22891,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scrum",
@@ -22898,7 +22899,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tdd",
@@ -22914,7 +22915,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "debian",
@@ -22922,7 +22923,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "postfix",
@@ -22946,7 +22947,7 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aws-cloudwatch",
@@ -22954,15 +22955,15 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "slack",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "terraform",
@@ -22978,39 +22979,39 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cross-platform",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cross-platform",
-    "count": 5
+    "count": 7
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "openbsd",
@@ -23030,19 +23031,19 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "real-time",
@@ -23050,7 +23051,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wasm",
@@ -23058,11 +23059,11 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "graphics",
@@ -23070,7 +23071,7 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "graphics",
@@ -23090,7 +23091,7 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "opengl-es",
@@ -23098,7 +23099,7 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vulkan",
@@ -23106,7 +23107,7 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wasm",
@@ -23114,11 +23115,11 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "opengl-es",
@@ -23134,7 +23135,7 @@
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "esp32",
@@ -23154,7 +23155,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "progress",
@@ -23162,7 +23163,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "widget",
@@ -23170,7 +23171,7 @@
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "progress",
@@ -23178,7 +23179,7 @@
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "widget",
@@ -23186,7 +23187,7 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "widget",
@@ -23194,7 +23195,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp14",
@@ -23202,7 +23203,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp17",
@@ -23234,15 +23235,15 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vuex",
@@ -23250,7 +23251,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "request",
@@ -23262,19 +23263,19 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "open-source",
@@ -23306,7 +23307,7 @@
   },
   {
     "id": "bioinformatics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rna-seq",
@@ -23314,11 +23315,11 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android-app",
@@ -23346,7 +23347,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reverse-proxy",
@@ -23406,7 +23407,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cplusplus",
@@ -23414,7 +23415,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cplusplus",
@@ -23422,19 +23423,19 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "emscripten",
@@ -23442,23 +23443,23 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "utility",
-    "count": 5
+    "count": 7
   },
   {
     "id": "utility",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wpf",
@@ -23466,19 +23467,19 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6-javascript",
@@ -23486,7 +23487,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6-javascript",
@@ -23494,11 +23495,11 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "twitter",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wpf",
@@ -23506,7 +23507,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node-js",
@@ -23518,15 +23519,15 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node-js",
@@ -23542,15 +23543,15 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "reactive",
@@ -23558,11 +23559,11 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "state",
@@ -23574,7 +23575,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "2d-game",
@@ -23582,11 +23583,11 @@
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gamedev",
@@ -23594,7 +23595,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tiled",
@@ -23602,7 +23603,7 @@
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gamedev",
@@ -23614,11 +23615,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vim-configuration",
@@ -23626,7 +23627,7 @@
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vim-configuration",
@@ -23634,7 +23635,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "torrent",
@@ -23650,7 +23651,7 @@
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "minecraft-forge-mod",
@@ -23658,7 +23659,7 @@
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "minecraft-mod",
@@ -23666,7 +23667,7 @@
   },
   {
     "id": "powershell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "powershell-module",
@@ -23674,19 +23675,19 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "immutablejs",
@@ -23694,7 +23695,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "360-video",
@@ -23714,23 +23715,23 @@
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "texture",
@@ -23738,7 +23739,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "virtual-reality",
@@ -23746,15 +23747,15 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "threejs",
@@ -23774,7 +23775,7 @@
   },
   {
     "id": "webgl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ajax",
@@ -23782,7 +23783,7 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ajax",
@@ -23790,7 +23791,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ajax",
@@ -23798,7 +23799,7 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap3",
@@ -23806,7 +23807,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pharo",
@@ -23818,7 +23819,7 @@
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tsv",
@@ -23830,7 +23831,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "robotics",
@@ -23846,7 +23847,7 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ros",
@@ -23854,7 +23855,7 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graphics",
@@ -23862,11 +23863,11 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "networking",
@@ -23874,7 +23875,7 @@
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "networking",
@@ -23890,15 +23891,15 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress-theme",
@@ -23906,11 +23907,11 @@
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "google-maps",
@@ -23918,23 +23919,23 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "utility",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "utility",
-    "count": 5
+    "count": 7
   },
   {
     "id": "generics",
@@ -23942,7 +23943,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gis",
@@ -23950,7 +23951,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "network",
@@ -23958,7 +23959,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgis",
@@ -23966,7 +23967,7 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "arm",
@@ -23974,7 +23975,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "recyclerview",
@@ -23986,7 +23987,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webrtc",
@@ -23998,7 +23999,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "education",
@@ -24006,7 +24007,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jsx",
@@ -24018,19 +24019,19 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cuda",
@@ -24038,7 +24039,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "data-analysis",
@@ -24054,11 +24055,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "protobuf",
@@ -24122,7 +24123,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "raspberrypi",
@@ -24142,27 +24143,27 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "open-source",
@@ -24174,7 +24175,7 @@
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "couchdb",
@@ -24182,11 +24183,11 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database-management",
@@ -24194,7 +24195,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sqlite3",
@@ -24202,7 +24203,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "test",
@@ -24238,7 +24239,7 @@
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "3d",
@@ -24246,7 +24247,7 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cmake",
@@ -24254,7 +24255,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cmake",
@@ -24262,23 +24263,23 @@
   },
   {
     "id": "cross-platform",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cross-platform",
-    "count": 5
+    "count": 7
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "graphics-engine",
@@ -24286,7 +24287,7 @@
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "graphics-engine",
@@ -24294,23 +24295,23 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "component",
@@ -24318,7 +24319,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "open-source",
@@ -24326,15 +24327,15 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python-library",
@@ -24342,11 +24343,11 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cmake",
@@ -24354,15 +24355,15 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp17",
@@ -24370,7 +24371,7 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "player",
@@ -24382,7 +24383,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus-17",
@@ -24402,7 +24403,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "less",
@@ -24418,31 +24419,31 @@
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "datepicker",
@@ -24450,7 +24451,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "timepicker",
@@ -24466,19 +24467,19 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gis",
@@ -24494,7 +24495,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gis",
@@ -24502,7 +24503,7 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "openlayers",
@@ -24510,7 +24511,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "openlayers",
@@ -24518,7 +24519,7 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "aiohttp",
@@ -24534,27 +24535,27 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "restapi",
@@ -24574,7 +24575,7 @@
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongo",
@@ -24582,11 +24583,11 @@
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wagtail",
@@ -24598,7 +24599,7 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "annotation",
@@ -24614,7 +24615,7 @@
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "annotation",
@@ -24642,7 +24643,7 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "microservices",
@@ -24650,15 +24651,15 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "restful",
@@ -24666,7 +24667,7 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rpc",
@@ -24674,7 +24675,7 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swagger",
@@ -24686,7 +24687,7 @@
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "microservices",
@@ -24714,7 +24715,7 @@
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "restful",
@@ -24722,7 +24723,7 @@
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rpc",
@@ -24730,7 +24731,7 @@
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swagger",
@@ -24766,15 +24767,15 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "messenger",
@@ -24786,15 +24787,15 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "metrics",
@@ -24802,7 +24803,7 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "metrics",
@@ -24810,27 +24811,27 @@
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gamedev",
@@ -24850,7 +24851,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serverless",
@@ -24870,7 +24871,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dataset",
@@ -24878,19 +24879,19 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sublime-text",
@@ -24898,7 +24899,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "utilities",
@@ -24926,7 +24927,7 @@
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "babel",
@@ -24934,7 +24935,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "browser-sync",
@@ -24942,7 +24943,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "browser-sync",
@@ -24950,7 +24951,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css3",
@@ -24958,7 +24959,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css3",
@@ -24966,7 +24967,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "eslint",
@@ -24974,35 +24975,35 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html5",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sprites",
@@ -25010,7 +25011,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pug",
@@ -25018,7 +25019,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sprites",
@@ -25026,51 +25027,51 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "backup",
@@ -25078,7 +25079,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "backup",
@@ -25086,19 +25087,19 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "s3",
@@ -25106,39 +25107,39 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "slack",
-    "count": 5
+    "count": 7
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "s3",
@@ -25146,7 +25147,7 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gatsbyjs",
@@ -25154,19 +25155,19 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graphql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "calendar",
@@ -25178,7 +25179,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "protractor",
@@ -25186,15 +25187,15 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "twitter",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ssh",
@@ -25206,11 +25207,11 @@
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "md",
@@ -25218,7 +25219,7 @@
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "md",
@@ -25226,19 +25227,19 @@
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "md",
@@ -25246,7 +25247,7 @@
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "md",
@@ -25254,7 +25255,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "data-analysis",
@@ -25262,7 +25263,7 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "data-analysis",
@@ -25270,11 +25271,11 @@
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swarm",
@@ -25282,11 +25283,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vagrant",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android-app",
@@ -25294,11 +25295,11 @@
   },
   {
     "id": "kotlin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "styled-components",
@@ -25338,7 +25339,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "metadata",
@@ -25346,27 +25347,27 @@
   },
   {
     "id": "audio",
-    "count": 5
+    "count": 7
   },
   {
     "id": "video",
-    "count": 5
+    "count": 7
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "video",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "video",
-    "count": 5
+    "count": 7
   },
   {
     "id": "design-patterns",
@@ -25382,7 +25383,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gof",
@@ -25390,7 +25391,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "elixir-lang",
@@ -25402,7 +25403,7 @@
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "microcontroller",
@@ -25414,7 +25415,7 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "component",
@@ -25422,7 +25423,7 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "responsive",
@@ -25430,7 +25431,7 @@
   },
   {
     "id": "utility",
-    "count": 5
+    "count": 7
   },
   {
     "id": "d3",
@@ -25438,15 +25439,15 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "automation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gtk3",
@@ -25454,7 +25455,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gtk3",
@@ -25462,7 +25463,7 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pyqt5",
@@ -25470,19 +25471,19 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest2021",
@@ -25530,15 +25531,15 @@
   },
   {
     "id": "compiler",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "compiler",
-    "count": 5
+    "count": 7
   },
   {
     "id": "object-oriented-programming",
@@ -25550,7 +25551,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "components",
@@ -25558,27 +25559,27 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue-components",
@@ -25590,27 +25591,27 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jenkins",
@@ -25618,15 +25619,15 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pipeline",
@@ -25634,7 +25635,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jenkins",
@@ -25642,7 +25643,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pipeline",
@@ -25666,11 +25667,11 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "insertion-sort",
@@ -25682,7 +25683,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reverse-proxy",
@@ -25694,11 +25695,11 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "template-engine",
@@ -25710,11 +25711,11 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bioinformatics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "computational-biology",
@@ -25726,7 +25727,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bundle",
@@ -25738,15 +25739,15 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jekyll-search",
@@ -25754,7 +25755,7 @@
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll-blog",
@@ -25762,7 +25763,7 @@
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll-search",
@@ -25770,11 +25771,11 @@
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "search",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll-search",
@@ -25782,11 +25783,11 @@
   },
   {
     "id": "search",
-    "count": 5
+    "count": 7
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "flask-extensions",
@@ -25794,7 +25795,7 @@
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "restful",
@@ -25806,11 +25807,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "restful",
@@ -25818,7 +25819,7 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api-wrapper",
@@ -25830,7 +25831,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "array-helper",
@@ -25854,7 +25855,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "datastructures",
@@ -25862,7 +25863,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": 2048,
@@ -25870,7 +25871,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "deep-q-network",
@@ -25910,7 +25911,7 @@
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "recurrent-neural-networks",
@@ -25926,15 +25927,15 @@
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "async",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lede",
@@ -26074,19 +26075,19 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dependency-injection",
@@ -26094,11 +26095,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "operating-system",
@@ -26110,7 +26111,7 @@
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "emulator",
@@ -26118,19 +26119,19 @@
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "libgdx",
@@ -26142,11 +26143,11 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "libgdx",
@@ -26154,11 +26155,11 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "erlang",
@@ -26170,11 +26171,11 @@
   },
   {
     "id": "api-client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "weather",
@@ -26202,7 +26203,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "clean-architecture",
@@ -26214,7 +26215,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "doctrine",
@@ -26222,27 +26223,27 @@
   },
   {
     "id": "symfony",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server-side-swift",
@@ -26250,15 +26251,15 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "server-side-swift",
@@ -26266,11 +26267,11 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server-side-swift",
@@ -26278,7 +26279,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "middleware",
@@ -26298,11 +26299,11 @@
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "caddy",
@@ -26318,11 +26319,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php-fpm",
@@ -26334,7 +26335,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "arch-linux",
@@ -26346,7 +26347,7 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "operating-system",
@@ -26354,7 +26355,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "operating-system",
@@ -26362,7 +26363,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "timber",
@@ -26382,7 +26383,7 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "twig",
@@ -26390,7 +26391,7 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graphics",
@@ -26410,7 +26411,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mvp",
@@ -26418,7 +26419,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "socket",
@@ -26450,7 +26451,7 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sensu-plugins",
@@ -26458,7 +26459,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "templates",
@@ -26466,11 +26467,11 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "celery",
@@ -26478,7 +26479,7 @@
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "celery",
@@ -26486,15 +26487,15 @@
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "anime",
@@ -26506,23 +26507,23 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "protractor",
@@ -26542,27 +26543,27 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ng2",
@@ -26582,7 +26583,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mqtt",
@@ -26590,7 +26591,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "asynchronous",
@@ -26598,7 +26599,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "events",
@@ -26606,15 +26607,15 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "voice",
@@ -26666,7 +26667,7 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sgf",
@@ -26674,15 +26675,15 @@
   },
   {
     "id": "atom",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jee",
@@ -26714,7 +26715,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sensor",
@@ -26726,7 +26727,7 @@
   },
   {
     "id": "visualization",
-    "count": 5
+    "count": 7
   },
   {
     "id": "graphics",
@@ -26754,23 +26755,23 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "research",
@@ -26778,11 +26779,11 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "visualization",
-    "count": 5
+    "count": 7
   },
   {
     "id": "behat",
@@ -26798,7 +26799,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "drupal",
@@ -26814,7 +26815,7 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "drupal-8",
@@ -26822,7 +26823,7 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "letters",
@@ -26834,11 +26835,11 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "emacs",
@@ -26854,19 +26855,19 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "travis-ci",
@@ -26874,7 +26875,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unittest",
@@ -26894,7 +26895,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "backend",
@@ -26902,7 +26903,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "backend",
@@ -26910,7 +26911,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "backend",
@@ -26918,27 +26919,27 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "twitter-api",
@@ -26946,15 +26947,15 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "twitter-api",
@@ -26974,15 +26975,15 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "celery",
@@ -26990,15 +26991,15 @@
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ember",
@@ -27010,7 +27011,7 @@
   },
   {
     "id": "language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "scripting-language",
@@ -27018,7 +27019,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "header-only",
@@ -27026,7 +27027,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serverless",
@@ -27034,7 +27035,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tsx",
@@ -27054,7 +27055,7 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "application",
@@ -27062,7 +27063,7 @@
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "codec",
@@ -27070,7 +27071,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "desktop",
@@ -27078,7 +27079,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "desktop",
@@ -27086,7 +27087,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "desktop",
@@ -27094,19 +27095,19 @@
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "carthage",
-    "count": 5
+    "count": 7
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wsgi",
@@ -27114,7 +27115,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "selenium",
@@ -27130,31 +27131,31 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress-plugin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "programming-contests",
@@ -27162,7 +27163,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rxandroid",
@@ -27170,7 +27171,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rxjava2",
@@ -27186,11 +27187,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nginx",
-    "count": 5
+    "count": 7
   },
   {
     "id": "databases",
@@ -27198,11 +27199,11 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wallet",
@@ -27214,19 +27215,19 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sports",
@@ -27242,7 +27243,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-ui",
@@ -27250,7 +27251,7 @@
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android-ui",
@@ -27258,7 +27259,7 @@
   },
   {
     "id": "compiler",
-    "count": 5
+    "count": 7
   },
   {
     "id": "interpreter",
@@ -27274,7 +27275,7 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "time-series",
@@ -27282,15 +27283,15 @@
   },
   {
     "id": "clojure",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mod",
@@ -27298,7 +27299,7 @@
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mod",
@@ -27310,7 +27311,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "blade",
@@ -27318,7 +27319,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "controller",
@@ -27326,11 +27327,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "middleware",
@@ -27338,7 +27339,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "view",
@@ -27346,7 +27347,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "timeseries",
@@ -27386,15 +27387,15 @@
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotnet-core",
@@ -27406,7 +27407,7 @@
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "keras",
@@ -27414,7 +27415,7 @@
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "communication",
@@ -27438,7 +27439,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "entity",
@@ -27446,11 +27447,11 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unity3d",
@@ -27458,15 +27459,15 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "demo",
@@ -27474,19 +27475,19 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cryptography",
@@ -27494,15 +27495,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "messaging",
@@ -27518,15 +27519,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "protocol",
@@ -27534,7 +27535,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swagger",
@@ -27546,7 +27547,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift-framework",
@@ -27562,39 +27563,39 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bioinformatics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "poloniex",
@@ -27606,7 +27607,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "movie",
@@ -27618,7 +27619,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ide",
@@ -27630,15 +27631,15 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hash",
@@ -27646,7 +27647,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "feature-engineering",
@@ -27654,7 +27655,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "feature-engineering",
@@ -27662,7 +27663,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kaggle",
@@ -27670,11 +27671,11 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "arduino",
-    "count": 5
+    "count": 7
   },
   {
     "id": "neopixel",
@@ -27682,7 +27683,7 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "irc",
@@ -27702,7 +27703,7 @@
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "osx",
@@ -27710,7 +27711,7 @@
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "script",
@@ -27718,11 +27719,11 @@
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "interpolation",
@@ -27730,7 +27731,7 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tween",
@@ -27746,7 +27747,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "deployment",
@@ -27754,7 +27755,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "google-maps",
@@ -27762,7 +27763,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "zeromq",
@@ -27770,7 +27771,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgres",
@@ -27778,7 +27779,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cordova",
@@ -27794,15 +27795,15 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webhook",
@@ -27814,11 +27815,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "telegram-bot",
@@ -27826,7 +27827,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webhook",
@@ -27834,7 +27835,7 @@
   },
   {
     "id": "telegram",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webhook",
@@ -27854,7 +27855,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "artificial-intelligence",
@@ -27890,7 +27891,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bitcoin-cash",
@@ -27902,11 +27903,11 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux-form",
@@ -27914,51 +27915,51 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "quaternion",
@@ -27970,7 +27971,7 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "testing-framework",
@@ -27978,7 +27979,7 @@
   },
   {
     "id": "telegram",
-    "count": 5
+    "count": 7
   },
   {
     "id": "telegram-api",
@@ -28006,11 +28007,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript-library",
@@ -28018,7 +28019,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "font",
@@ -28026,11 +28027,11 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "metadata",
@@ -28038,7 +28039,7 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postcss",
@@ -28046,7 +28047,7 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postcss",
@@ -28054,19 +28055,19 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "solr",
@@ -28074,7 +28075,7 @@
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "git-hook",
@@ -28082,7 +28083,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "logger",
@@ -28090,15 +28091,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kotlin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "logger",
@@ -28106,7 +28107,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "request",
@@ -28122,7 +28123,7 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opencl",
@@ -28130,11 +28131,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "graph-database",
@@ -28154,7 +28155,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "socket-io",
@@ -28162,7 +28163,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "keyboard",
@@ -28174,7 +28175,7 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "facebook",
@@ -28182,79 +28183,79 @@
   },
   {
     "id": "wordpress-plugin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gis",
@@ -28270,11 +28271,11 @@
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "computer-science",
@@ -28282,11 +28283,11 @@
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "etl",
@@ -28302,11 +28303,11 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "simulation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "simulator",
@@ -28326,11 +28327,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pytorch",
@@ -28350,7 +28351,7 @@
   },
   {
     "id": "visualization",
-    "count": 5
+    "count": 7
   },
   {
     "id": "data-visualization",
@@ -28366,7 +28367,7 @@
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mei",
@@ -28410,7 +28411,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs-modules",
@@ -28426,7 +28427,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rubygem",
@@ -28434,7 +28435,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "transport",
@@ -28454,11 +28455,11 @@
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "middleware",
@@ -28466,11 +28467,11 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ajax",
@@ -28478,27 +28479,27 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pdo-wrapper",
@@ -28506,7 +28507,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minimal",
@@ -28514,11 +28515,11 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pdo-wrapper",
@@ -28526,7 +28527,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jekyll-blog",
@@ -28538,15 +28539,15 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift-3",
@@ -28558,7 +28559,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "animations",
@@ -28566,7 +28567,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "recyclerview",
@@ -28578,7 +28579,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ethereum",
@@ -28586,7 +28587,7 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "trading",
@@ -28622,7 +28623,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "benchmark",
@@ -28646,7 +28647,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "couchbase",
@@ -28666,7 +28667,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "n1ql",
@@ -28682,15 +28683,15 @@
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "trend",
@@ -28702,35 +28703,35 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby-gem",
@@ -28738,7 +28739,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby-gem",
@@ -28750,7 +28751,7 @@
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ncurses",
@@ -28758,27 +28759,27 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "snake",
@@ -28786,7 +28787,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "snake-game",
@@ -28806,7 +28807,7 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "build",
@@ -28814,11 +28815,11 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "app",
@@ -28854,7 +28855,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "embeddings",
@@ -28862,11 +28863,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ml",
@@ -28874,7 +28875,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nlp",
@@ -28882,7 +28883,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "word2vec",
@@ -28898,7 +28899,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "word2vec",
@@ -28906,15 +28907,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "programming-language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "programming-language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "scripting-language",
@@ -28926,15 +28927,15 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cloud",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cplusplus",
@@ -28942,19 +28943,19 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rad",
@@ -28966,19 +28967,19 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cross-platform",
-    "count": 5
+    "count": 7
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "search",
-    "count": 5
+    "count": 7
   },
   {
     "id": "search-engine",
@@ -28986,15 +28987,15 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jsonapi",
@@ -29002,7 +29003,7 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "marshaller",
@@ -29010,7 +29011,7 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serialization",
@@ -29018,7 +29019,7 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json-api",
@@ -29026,7 +29027,7 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jsonapi",
@@ -29034,7 +29035,7 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "marshaller",
@@ -29062,7 +29063,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "json-api",
@@ -29094,7 +29095,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jsonapi",
@@ -29102,7 +29103,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jsonapi",
@@ -29126,7 +29127,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "marshaller",
@@ -29134,7 +29135,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "marshaller",
@@ -29154,7 +29155,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serialization",
@@ -29162,7 +29163,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "serialization",
@@ -29178,7 +29179,7 @@
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yaml",
@@ -29186,7 +29187,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rxjs",
@@ -29198,7 +29199,7 @@
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "elm",
@@ -29214,7 +29215,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "babel",
@@ -29242,15 +29243,15 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server-side-rendering",
@@ -29258,7 +29259,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack2",
@@ -29270,7 +29271,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker-compose",
@@ -29278,7 +29279,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jest",
@@ -29286,11 +29287,11 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "websockets",
@@ -29298,7 +29299,7 @@
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "websockets",
@@ -29334,7 +29335,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "babel",
@@ -29342,7 +29343,7 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "babel",
@@ -29370,7 +29371,7 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "postcss",
@@ -29378,7 +29379,7 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "starter",
@@ -29422,7 +29423,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postcss",
@@ -29430,7 +29431,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postcss",
@@ -29438,11 +29439,11 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "starter",
@@ -29454,11 +29455,11 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yarn",
@@ -29470,23 +29471,23 @@
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "management-system",
@@ -29494,15 +29495,15 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "shiro",
@@ -29510,11 +29511,11 @@
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "grunt",
@@ -29546,7 +29547,7 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ecs",
@@ -29554,7 +29555,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ecs",
@@ -29562,7 +29563,7 @@
   },
   {
     "id": "vagrant",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vagrantfile",
@@ -29570,7 +29571,7 @@
   },
   {
     "id": "vagrant",
-    "count": 5
+    "count": 7
   },
   {
     "id": "virtualbox",
@@ -29578,11 +29579,11 @@
   },
   {
     "id": "vagrant",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vagrantfile",
@@ -29602,7 +29603,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "material",
@@ -29610,11 +29611,11 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "material",
@@ -29622,7 +29623,7 @@
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "material",
@@ -29630,15 +29631,15 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dropbox",
@@ -29646,23 +29647,23 @@
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "asynchronous",
@@ -29698,7 +29699,7 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unix",
@@ -29706,7 +29707,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unix",
@@ -29714,15 +29715,15 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "blogging",
@@ -29730,23 +29731,23 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "editor",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ide",
@@ -29754,15 +29755,15 @@
   },
   {
     "id": "editor",
-    "count": 5
+    "count": 7
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "writing",
@@ -29770,7 +29771,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "im",
@@ -29782,19 +29783,19 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "browser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tfs",
@@ -29818,15 +29819,15 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "streams",
@@ -29838,27 +29839,27 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "router",
@@ -29866,7 +29867,7 @@
   },
   {
     "id": "c-sharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "unity",
@@ -29886,11 +29887,11 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "native",
@@ -29910,7 +29911,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "starter-kit",
@@ -29922,7 +29923,7 @@
   },
   {
     "id": "github",
-    "count": 5
+    "count": 7
   },
   {
     "id": "github-api",
@@ -29930,11 +29931,11 @@
   },
   {
     "id": "cross-platform",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rack",
@@ -29950,7 +29951,7 @@
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bip47",
@@ -29958,7 +29959,7 @@
   },
   {
     "id": "bitcoin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bip47",
@@ -29974,7 +29975,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "static-site",
@@ -29982,31 +29983,31 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api-client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "db2",
@@ -30014,7 +30015,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "db2",
@@ -30022,19 +30023,19 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "oracle",
@@ -30042,15 +30043,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "oracle",
@@ -30062,7 +30063,7 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "github-pages",
@@ -30070,7 +30071,7 @@
   },
   {
     "id": "personal-website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "github-pages",
@@ -30078,11 +30079,11 @@
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "best",
@@ -30102,27 +30103,27 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "soap",
@@ -30130,7 +30131,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rancher",
@@ -30146,7 +30147,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "expressjs",
@@ -30154,15 +30155,15 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "karma",
@@ -30170,15 +30171,15 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "expressjs",
@@ -30186,11 +30187,11 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "expressjs",
@@ -30198,7 +30199,7 @@
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mpesa",
@@ -30238,7 +30239,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap3",
@@ -30246,7 +30247,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap4",
@@ -30254,7 +30255,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap4",
@@ -30266,7 +30267,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack2",
@@ -30278,7 +30279,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "less",
@@ -30286,7 +30287,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "less",
@@ -30294,7 +30295,7 @@
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "less",
@@ -30302,19 +30303,19 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack2",
@@ -30322,7 +30323,7 @@
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack2",
@@ -30334,11 +30335,11 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack2",
@@ -30350,7 +30351,7 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "atmi",
@@ -30366,7 +30367,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "atmi",
@@ -30410,7 +30411,7 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "fml32",
@@ -30418,7 +30419,7 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "middleware",
@@ -30426,7 +30427,7 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tuxedo",
@@ -30434,7 +30435,7 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xatmi",
@@ -30474,7 +30475,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "fml32",
@@ -30482,7 +30483,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "middleware",
@@ -30490,7 +30491,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tuxedo",
@@ -30498,7 +30499,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xatmi",
@@ -30594,7 +30595,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mongodb-cli",
@@ -30602,31 +30603,31 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "graphql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "roguelike",
@@ -30638,7 +30639,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "fantasy",
@@ -30650,7 +30651,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "multiplayer",
@@ -30682,11 +30683,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linked-data",
@@ -30702,7 +30703,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "astronomy",
@@ -30730,7 +30731,7 @@
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "command-line-tool",
@@ -30742,7 +30743,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "islam",
@@ -30754,23 +30755,23 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "text-classification",
@@ -30778,7 +30779,7 @@
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "text-classification",
@@ -30786,7 +30787,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "socket",
@@ -30814,7 +30815,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cordova",
@@ -30822,7 +30823,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cordova",
@@ -30830,7 +30831,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cordova",
@@ -30838,7 +30839,7 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cordova",
@@ -30846,7 +30847,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cordova",
@@ -30854,7 +30855,7 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cplusplus",
@@ -30862,7 +30863,7 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cplusplus",
@@ -30878,7 +30879,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cplusplus",
@@ -30886,35 +30887,35 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mobile",
@@ -30922,23 +30923,23 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mobile",
@@ -30946,15 +30947,15 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mobile",
@@ -30962,19 +30963,19 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mobile",
@@ -30982,7 +30983,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mobile",
@@ -30990,27 +30991,27 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java-library",
@@ -31018,7 +31019,7 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "reddit",
@@ -31026,7 +31027,7 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "reddit-bot",
@@ -31034,7 +31035,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reddit",
@@ -31042,7 +31043,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reddit-bot",
@@ -31058,7 +31059,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spa",
@@ -31070,7 +31071,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "recommender-system",
@@ -31078,11 +31079,11 @@
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c-sharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "productivity",
@@ -31090,7 +31091,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "androidstudio",
@@ -31098,7 +31099,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gradle",
@@ -31118,7 +31119,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "extend",
@@ -31142,7 +31143,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "grid",
@@ -31150,7 +31151,7 @@
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mixins",
@@ -31158,7 +31159,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mixins",
@@ -31166,7 +31167,7 @@
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "responsive",
@@ -31174,7 +31175,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "responsive",
@@ -31182,11 +31183,11 @@
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "multiplexer",
@@ -31194,15 +31195,15 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "terminal",
@@ -31210,15 +31211,15 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "utility",
-    "count": 5
+    "count": 7
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "blog-engine",
@@ -31226,7 +31227,7 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "static-site-generator",
@@ -31242,11 +31243,11 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery-plugin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "emacs",
@@ -31258,7 +31259,7 @@
   },
   {
     "id": "carthage",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xcode",
@@ -31270,11 +31271,11 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xcode",
@@ -31286,7 +31287,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dark-theme",
@@ -31294,11 +31295,11 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xcode",
@@ -31310,7 +31311,7 @@
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mac",
@@ -31318,11 +31319,11 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xcode",
@@ -31330,7 +31331,7 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xcode-plugin",
@@ -31346,11 +31347,11 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bigquery",
@@ -31366,7 +31367,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "data-mining",
@@ -31382,23 +31383,23 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "twitter",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "semantic",
@@ -31430,15 +31431,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node-module",
@@ -31462,11 +31463,11 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hot-reload",
@@ -31474,7 +31475,7 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "static-site-generator",
@@ -31490,7 +31491,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "telegram-bot",
@@ -31502,11 +31503,11 @@
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "service-discovery",
@@ -31514,7 +31515,7 @@
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "service-mesh",
@@ -31530,7 +31531,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "robotics",
@@ -31538,7 +31539,7 @@
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scala-library",
@@ -31546,19 +31547,19 @@
   },
   {
     "id": "nginx",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nginx",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "helm",
@@ -31566,11 +31567,11 @@
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "async",
-    "count": 5
+    "count": 7
   },
   {
     "id": "concurrency",
@@ -31578,7 +31579,7 @@
   },
   {
     "id": "async",
-    "count": 5
+    "count": 7
   },
   {
     "id": "queue",
@@ -31586,7 +31587,7 @@
   },
   {
     "id": "async",
-    "count": 5
+    "count": 7
   },
   {
     "id": "worker",
@@ -31606,7 +31607,7 @@
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "queue",
@@ -31618,15 +31619,15 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yalantis",
@@ -31634,7 +31635,7 @@
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yalantis",
@@ -31646,11 +31647,11 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yalantis",
@@ -31658,7 +31659,7 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yalantis",
@@ -31686,7 +31687,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "backend",
@@ -31694,39 +31695,39 @@
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker-compose",
@@ -31734,7 +31735,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker-compose",
@@ -31742,15 +31743,15 @@
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "flask",
-    "count": 5
+    "count": 7
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "assign",
@@ -31766,7 +31767,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "assign",
@@ -31782,7 +31783,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "extend",
@@ -31790,7 +31791,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "extend",
@@ -31806,11 +31807,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "merge",
@@ -31818,7 +31819,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "object",
@@ -31830,7 +31831,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "object",
@@ -31850,7 +31851,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular-components",
@@ -31862,7 +31863,7 @@
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "asp-net",
@@ -31870,7 +31871,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lisp",
@@ -31902,15 +31903,15 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "functional-programming",
@@ -31918,19 +31919,19 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "databases",
@@ -31938,7 +31939,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pdo",
@@ -31946,7 +31947,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "prepared-statements",
@@ -31958,11 +31959,11 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "prepared-statements",
@@ -31974,7 +31975,7 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pdo",
@@ -31982,19 +31983,19 @@
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "prepared-statements",
@@ -32002,15 +32003,15 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "table",
@@ -32018,7 +32019,7 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vuejs-components",
@@ -32026,7 +32027,7 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vuejs-components",
@@ -32070,15 +32071,15 @@
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "fbp",
@@ -32090,23 +32091,23 @@
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graph",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactphp",
@@ -32118,7 +32119,7 @@
   },
   {
     "id": "search",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sketch",
@@ -32130,19 +32131,19 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "joomla",
@@ -32150,19 +32151,19 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "templates",
@@ -32170,7 +32171,7 @@
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "templates",
@@ -32178,7 +32179,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodegame",
@@ -32194,7 +32195,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "promise",
@@ -32202,11 +32203,11 @@
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "convolutional-neural-networks",
@@ -32214,7 +32215,7 @@
   },
   {
     "id": "image-processing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "convolutional-neural-networks",
@@ -32222,11 +32223,11 @@
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "natural-language-processing",
@@ -32234,7 +32235,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "recommender-system",
@@ -32242,7 +32243,7 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "command-line-tool",
@@ -32270,7 +32271,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gosu",
@@ -32278,11 +32279,11 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spark",
@@ -32294,11 +32295,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing-tools",
@@ -32314,7 +32315,7 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "testing-tools",
@@ -32322,23 +32323,23 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vagrant",
-    "count": 5
+    "count": 7
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "zabbix",
@@ -32346,7 +32347,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "travis-ci",
@@ -32362,7 +32363,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "zookeeper",
@@ -32374,7 +32375,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "elasticsearch",
@@ -32382,15 +32383,15 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "kivy",
@@ -32398,7 +32399,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "audio-processing",
@@ -32410,7 +32411,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "machine-learning-algorithms",
@@ -32418,7 +32419,7 @@
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "minecraft-plugin",
@@ -32426,7 +32427,7 @@
   },
   {
     "id": "minecraft",
-    "count": 5
+    "count": 7
   },
   {
     "id": "minecraft-server",
@@ -32446,7 +32447,7 @@
   },
   {
     "id": "haskell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rss",
@@ -32462,11 +32463,11 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap4",
@@ -32474,15 +32475,15 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ngrx",
@@ -32490,7 +32491,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "starter-project",
@@ -32534,7 +32535,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reducer",
@@ -32542,11 +32543,11 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kafka",
@@ -32586,7 +32587,7 @@
   },
   {
     "id": "audio",
-    "count": 5
+    "count": 7
   },
   {
     "id": "desktop",
@@ -32594,19 +32595,19 @@
   },
   {
     "id": "audio",
-    "count": 5
+    "count": 7
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "audio",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "desktop-app",
@@ -32614,11 +32615,11 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "open-source",
@@ -32626,7 +32627,7 @@
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "microservices",
@@ -32634,15 +32635,15 @@
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-mvc",
@@ -32650,7 +32651,7 @@
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-mvc",
@@ -32658,15 +32659,15 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "photography",
@@ -32686,7 +32687,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "privacy",
@@ -32694,11 +32695,11 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "promise",
@@ -32710,7 +32711,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cookiecutter",
@@ -32718,7 +32719,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "armhf",
@@ -32762,15 +32763,15 @@
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "less",
@@ -32778,15 +32779,15 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "zendframework",
@@ -32806,7 +32807,7 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "3d-graphics",
@@ -32814,7 +32815,7 @@
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "3d-graphics",
@@ -32822,31 +32823,31 @@
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "astrodynamics",
@@ -32862,7 +32863,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ember",
@@ -32870,7 +32871,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ember-cli",
@@ -32878,23 +32879,23 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "neovim",
@@ -32910,7 +32911,7 @@
   },
   {
     "id": "npm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "operating-system",
@@ -32922,15 +32923,15 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "search",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "header-only",
@@ -32938,7 +32939,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "less",
@@ -32946,15 +32947,15 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ludum-dare",
@@ -32986,7 +32987,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "no-dependencies",
@@ -33002,7 +33003,7 @@
   },
   {
     "id": "editor",
-    "count": 5
+    "count": 7
   },
   {
     "id": "text",
@@ -33010,7 +33011,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nested-properties",
@@ -33018,11 +33019,11 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "babel",
@@ -33030,7 +33031,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "babel",
@@ -33038,35 +33039,35 @@
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pages",
@@ -33078,7 +33079,7 @@
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cv",
@@ -33090,7 +33091,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mobile-app",
@@ -33110,7 +33111,7 @@
   },
   {
     "id": "clojure",
-    "count": 5
+    "count": 7
   },
   {
     "id": "boot",
@@ -33122,7 +33123,7 @@
   },
   {
     "id": "clojure",
-    "count": 5
+    "count": 7
   },
   {
     "id": "clojurescript",
@@ -33130,7 +33131,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dialog",
@@ -33138,27 +33139,27 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "app",
@@ -33166,7 +33167,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "express",
@@ -33178,11 +33179,11 @@
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "embeddable",
@@ -33190,7 +33191,7 @@
   },
   {
     "id": "programming-language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "embeddable",
@@ -33202,15 +33203,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sqlite",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sqlserver",
@@ -33226,7 +33227,7 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlserver",
@@ -33258,7 +33259,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack2",
@@ -33266,15 +33267,15 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "flux",
@@ -33282,15 +33283,15 @@
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack2",
@@ -33298,15 +33299,15 @@
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "universal",
@@ -33322,7 +33323,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mesos",
@@ -33366,7 +33367,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "acf",
@@ -33374,7 +33375,7 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cms",
@@ -33410,7 +33411,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minesweeper",
@@ -33422,27 +33423,27 @@
   },
   {
     "id": "lua",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redis",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "websockets",
@@ -33450,7 +33451,7 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vimrc",
@@ -33474,7 +33475,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vaadin",
@@ -33494,15 +33495,15 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dnn",
@@ -33530,11 +33531,11 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "object-detection",
@@ -33554,15 +33555,15 @@
   },
   {
     "id": "search",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "iphone",
@@ -33570,7 +33571,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "uicollectionview",
@@ -33578,7 +33579,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "uicollectionview",
@@ -33586,7 +33587,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "uitableview",
@@ -33606,11 +33607,11 @@
   },
   {
     "id": "graphql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rtmp",
@@ -33626,7 +33627,7 @@
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue-router",
@@ -33650,7 +33651,7 @@
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mvp",
@@ -33662,7 +33663,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "analytics",
@@ -33674,7 +33675,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sdk",
@@ -33682,7 +33683,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python-script",
@@ -33690,19 +33691,19 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gzip",
@@ -33714,7 +33715,7 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap-theme",
@@ -33722,7 +33723,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tabs",
@@ -33730,23 +33731,23 @@
   },
   {
     "id": "jquery-plugin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ncurses",
@@ -33754,15 +33755,15 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ncurses",
@@ -33770,7 +33771,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ncurses",
@@ -33778,7 +33779,7 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "restful",
@@ -33786,23 +33787,23 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "i3",
@@ -33826,7 +33827,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "zsh",
@@ -33834,11 +33835,11 @@
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "middleware",
@@ -33846,11 +33847,11 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php71",
@@ -33858,7 +33859,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sublime-text-3",
@@ -33870,7 +33871,7 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "clang",
@@ -33878,7 +33879,7 @@
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "katex",
@@ -33886,23 +33887,23 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "handlebars",
@@ -33910,7 +33911,7 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "handlebars",
@@ -33918,7 +33919,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "discord-bot",
@@ -33926,7 +33927,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "autolayout",
@@ -33934,7 +33935,7 @@
   },
   {
     "id": "carthage",
-    "count": 5
+    "count": 7
   },
   {
     "id": "autolayout",
@@ -33942,7 +33943,7 @@
   },
   {
     "id": "cocoapods",
-    "count": 5
+    "count": 7
   },
   {
     "id": "autolayout",
@@ -33950,7 +33951,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "autolayout",
@@ -33958,7 +33959,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "internet-of-things",
@@ -33966,15 +33967,15 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cdi",
@@ -33982,11 +33983,11 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows-10",
@@ -33994,7 +33995,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vuejs2",
@@ -34002,15 +34003,15 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "github",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "embedded-systems",
@@ -34018,7 +34019,7 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "monitoring-tool",
@@ -34026,7 +34027,7 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "status",
@@ -34034,15 +34035,15 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "glfw-bindings",
@@ -34050,7 +34051,7 @@
   },
   {
     "id": "csharp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "glfw3",
@@ -34058,7 +34059,7 @@
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "glfw-bindings",
@@ -34066,7 +34067,7 @@
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "glfw3",
@@ -34082,7 +34083,7 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "front-end",
@@ -34094,7 +34095,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "openvpn",
@@ -34186,7 +34187,7 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ux",
@@ -34198,7 +34199,7 @@
   },
   {
     "id": "lua",
-    "count": 5
+    "count": 7
   },
   {
     "id": "addon",
@@ -34210,7 +34211,7 @@
   },
   {
     "id": "lua",
-    "count": 5
+    "count": 7
   },
   {
     "id": "world-of-warcraft",
@@ -34242,7 +34243,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sorting",
@@ -34278,7 +34279,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "imap",
@@ -34306,7 +34307,7 @@
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rtos",
@@ -34314,7 +34315,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "text",
@@ -34338,15 +34339,15 @@
   },
   {
     "id": "nginx",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ubuntu",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "message",
@@ -34354,7 +34355,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "snackbar",
@@ -34366,7 +34367,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "build-automation",
@@ -34378,19 +34379,19 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dropbox",
@@ -34398,7 +34399,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lastfm",
@@ -34406,7 +34407,7 @@
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "music-player",
@@ -34422,7 +34423,7 @@
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "metrics",
@@ -34430,7 +34431,7 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "metrics",
@@ -34466,7 +34467,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ui-components",
@@ -34474,7 +34475,7 @@
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ui-components",
@@ -34482,7 +34483,7 @@
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "uicollectionview",
@@ -34526,11 +34527,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "latex",
@@ -34538,7 +34539,7 @@
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "personal-blog",
@@ -34546,7 +34547,7 @@
   },
   {
     "id": "slack",
-    "count": 5
+    "count": 7
   },
   {
     "id": "slack-bot",
@@ -34554,7 +34555,7 @@
   },
   {
     "id": "async",
-    "count": 5
+    "count": 7
   },
   {
     "id": "promise",
@@ -34574,7 +34575,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "functor",
@@ -34586,7 +34587,7 @@
   },
   {
     "id": "haskell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "monad",
@@ -34602,11 +34603,11 @@
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spell",
@@ -34618,7 +34619,7 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nagios",
@@ -34626,7 +34627,7 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "puppet",
@@ -34634,11 +34635,11 @@
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gitlab",
@@ -34654,7 +34655,7 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ecs",
@@ -34678,7 +34679,7 @@
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "entity",
@@ -34694,11 +34695,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tutorial",
@@ -34714,19 +34715,19 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cms",
@@ -34734,7 +34735,7 @@
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cms",
@@ -34742,15 +34743,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gradle",
@@ -34758,11 +34759,11 @@
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "video",
-    "count": 5
+    "count": 7
   },
   {
     "id": "youtube",
@@ -34770,7 +34771,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "shell-script",
@@ -34782,7 +34783,7 @@
   },
   {
     "id": "docker-image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "celery",
@@ -34790,7 +34791,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cookiecutter",
@@ -34798,7 +34799,7 @@
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bytecode-instrumentation",
@@ -34806,7 +34807,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cdi",
@@ -34814,7 +34815,7 @@
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cdi",
@@ -34826,7 +34827,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java8",
@@ -34834,7 +34835,7 @@
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java8",
@@ -34846,7 +34847,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "package",
@@ -34854,11 +34855,11 @@
   },
   {
     "id": "r",
-    "count": 5
+    "count": 7
   },
   {
     "id": "lua",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tutorial",
@@ -34894,7 +34895,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chai",
@@ -34902,7 +34903,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "continuous-integration",
@@ -34910,11 +34911,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opensource",
@@ -34926,11 +34927,11 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "http-client",
@@ -34938,7 +34939,7 @@
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "http-server",
@@ -34946,7 +34947,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "push",
@@ -34954,7 +34955,7 @@
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ec2",
@@ -34962,7 +34963,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ec2",
@@ -34970,11 +34971,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "landing-page",
@@ -34982,7 +34983,7 @@
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pwa",
@@ -34990,11 +34991,11 @@
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sms",
@@ -35030,7 +35031,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "text-mining",
@@ -35042,7 +35043,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "intent",
@@ -35054,7 +35055,7 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "awesome-go",
@@ -35062,7 +35063,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "firebase",
@@ -35074,7 +35075,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pwa",
@@ -35094,7 +35095,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sms",
@@ -35106,39 +35107,39 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "manager",
@@ -35146,7 +35147,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "reinforcement-learning",
@@ -35154,7 +35155,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pytorch",
@@ -35162,7 +35163,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reinforcement-learning-algorithms",
@@ -35178,15 +35179,15 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "helm",
@@ -35194,11 +35195,11 @@
   },
   {
     "id": "git",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "helm",
@@ -35206,39 +35207,39 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongoose",
@@ -35246,7 +35247,7 @@
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "a11y",
@@ -35274,7 +35275,7 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mining",
@@ -35282,7 +35283,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mining",
@@ -35290,27 +35291,27 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "personal-website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "personal-website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "personal-website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "filesystem",
@@ -35318,7 +35319,7 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "qml",
@@ -35342,7 +35343,7 @@
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "consul",
@@ -35350,7 +35351,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "consul-template",
@@ -35358,11 +35359,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "devops",
-    "count": 5
+    "count": 7
   },
   {
     "id": "devops-tools",
@@ -35374,35 +35375,35 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "restful-api",
@@ -35410,7 +35411,7 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lightweight",
@@ -35422,7 +35423,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "modular",
@@ -35430,7 +35431,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "promise",
@@ -35470,7 +35471,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server-side-rendering",
@@ -35486,7 +35487,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ssr",
@@ -35494,7 +35495,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "universal",
@@ -35502,7 +35503,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "code-generation",
@@ -35514,7 +35515,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "transportation",
@@ -35522,15 +35523,15 @@
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery-plugin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "menu",
@@ -35542,11 +35543,11 @@
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "free",
@@ -35566,7 +35567,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "fast",
@@ -35574,7 +35575,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "free",
@@ -35582,7 +35583,7 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gplv3",
@@ -35590,7 +35591,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "homepage",
@@ -35598,19 +35599,19 @@
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "site",
@@ -35618,7 +35619,7 @@
   },
   {
     "id": "search",
-    "count": 5
+    "count": 7
   },
   {
     "id": "site",
@@ -35630,7 +35631,7 @@
   },
   {
     "id": "website",
-    "count": 5
+    "count": 7
   },
   {
     "id": "junit",
@@ -35654,11 +35655,11 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "language",
-    "count": 5
+    "count": 7
   },
   {
     "id": "localization",
@@ -35666,27 +35667,27 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "unit-testing",
@@ -35702,11 +35703,11 @@
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "openstack",
@@ -35722,7 +35723,7 @@
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "static-site-generator",
@@ -35734,11 +35735,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular4",
@@ -35766,7 +35767,7 @@
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular-directives",
@@ -35782,7 +35783,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "github-pages",
@@ -35790,7 +35791,7 @@
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "clojurescript",
@@ -35806,7 +35807,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "flexbox",
@@ -35814,7 +35815,7 @@
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "datepicker",
@@ -35822,7 +35823,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "datepicker",
@@ -35830,7 +35831,7 @@
   },
   {
     "id": "jquery-plugin",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vuejs-components",
@@ -35866,7 +35867,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "libgdx",
@@ -35874,7 +35875,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "libgdx",
@@ -35882,7 +35883,7 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap-4",
@@ -35890,11 +35891,11 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap-4",
@@ -35902,7 +35903,7 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap4",
@@ -35910,7 +35911,7 @@
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap4",
@@ -35918,7 +35919,7 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap4",
@@ -35926,19 +35927,19 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mobile-web",
@@ -35950,7 +35951,7 @@
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dot-config",
@@ -35958,7 +35959,7 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "compression",
@@ -35990,7 +35991,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mvc",
@@ -36006,11 +36007,11 @@
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "restful",
@@ -36026,7 +36027,7 @@
   },
   {
     "id": "video",
-    "count": 5
+    "count": 7
   },
   {
     "id": "video-player",
@@ -36034,7 +36035,7 @@
   },
   {
     "id": "video",
-    "count": 5
+    "count": 7
   },
   {
     "id": "youtube-api",
@@ -36082,15 +36083,15 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgres",
@@ -36098,15 +36099,15 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "functional-programming",
@@ -36122,7 +36123,7 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "laravel-package",
@@ -36134,11 +36135,11 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "validator",
@@ -36146,7 +36147,7 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "crud",
@@ -36158,11 +36159,11 @@
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "photos",
@@ -36170,7 +36171,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "facebook",
@@ -36186,7 +36187,7 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "browsersync",
@@ -36198,15 +36199,15 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ngrx",
@@ -36226,7 +36227,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wifi",
@@ -36234,27 +36235,27 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "analytics",
@@ -36270,19 +36271,19 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "data-visualization",
@@ -36294,19 +36295,19 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cordova",
@@ -36314,7 +36315,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "meteor",
@@ -36326,19 +36327,19 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xpath",
@@ -36358,11 +36359,11 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "text",
@@ -36374,7 +36375,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ajax",
@@ -36382,7 +36383,7 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ajax",
@@ -36390,39 +36391,39 @@
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "owl",
@@ -36434,7 +36435,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jupyter",
@@ -36450,7 +36451,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "openstreetmap",
@@ -36458,7 +36459,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios-ui",
@@ -36470,11 +36471,11 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cloudformation",
@@ -36482,7 +36483,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "custom-view",
@@ -36490,7 +36491,7 @@
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "custom-view",
@@ -36498,7 +36499,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "progress",
@@ -36514,19 +36515,19 @@
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "apollo-client",
@@ -36534,19 +36535,19 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graphql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bower",
@@ -36554,7 +36555,7 @@
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "directives",
@@ -36562,7 +36563,7 @@
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "npm-package",
@@ -36582,7 +36583,7 @@
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cryptography",
@@ -36590,11 +36591,11 @@
   },
   {
     "id": "encryption",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll-theme",
@@ -36602,27 +36603,27 @@
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pac",
@@ -36634,11 +36635,11 @@
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dkim",
@@ -36670,11 +36671,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sql-injection",
@@ -36682,7 +36683,7 @@
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mqtt",
@@ -36690,7 +36691,7 @@
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gulp-plugins",
@@ -36698,11 +36699,11 @@
   },
   {
     "id": "gulp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "materials-science",
@@ -36710,7 +36711,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "forms",
@@ -36722,11 +36723,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "generate",
@@ -36734,7 +36735,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "generate",
@@ -36742,7 +36743,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "is",
@@ -36750,7 +36751,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "eslint",
@@ -36766,7 +36767,7 @@
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "google",
@@ -36774,27 +36775,27 @@
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "https",
@@ -36802,7 +36803,7 @@
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "proxy",
@@ -36810,7 +36811,7 @@
   },
   {
     "id": "http",
-    "count": 5
+    "count": 7
   },
   {
     "id": "wsgi",
@@ -36822,31 +36823,31 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "latitude",
@@ -36858,11 +36859,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yii",
@@ -36870,15 +36871,15 @@
   },
   {
     "id": "yii2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "admob",
@@ -36886,11 +36887,11 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android-library",
-    "count": 5
+    "count": 7
   },
   {
     "id": "edittext",
@@ -36910,27 +36911,27 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "parallel-computing",
@@ -36946,7 +36947,7 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serializer",
@@ -36954,7 +36955,7 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serializer",
@@ -37042,7 +37043,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "serializer",
@@ -37050,7 +37051,7 @@
   },
   {
     "id": "php7",
-    "count": 5
+    "count": 7
   },
   {
     "id": "serializer",
@@ -37074,7 +37075,7 @@
   },
   {
     "id": "twitter",
-    "count": 5
+    "count": 7
   },
   {
     "id": "twitter-api",
@@ -37086,7 +37087,7 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mvp",
@@ -37142,11 +37143,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rna-seq",
@@ -37158,7 +37159,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "setup",
@@ -37166,11 +37167,11 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webpack-boilerplate",
@@ -37182,11 +37183,11 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "isomorphic",
@@ -37198,11 +37199,11 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "chrome-extension",
-    "count": 5
+    "count": 7
   },
   {
     "id": "firefox-extension",
@@ -37210,15 +37211,15 @@
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "personal-blog",
@@ -37230,7 +37231,7 @@
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dsc",
@@ -37270,7 +37271,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hibernate",
@@ -37282,7 +37283,7 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring-mvc",
@@ -37290,7 +37291,7 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring-mvc",
@@ -37298,7 +37299,7 @@
   },
   {
     "id": "spring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-mvc",
@@ -37306,7 +37307,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wifi",
@@ -37334,23 +37335,23 @@
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "statistics",
-    "count": 5
+    "count": 7
   },
   {
     "id": "prediction",
@@ -37366,11 +37367,11 @@
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "recurrent-neural-networks",
@@ -37406,7 +37407,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "c-plus-plus-17",
@@ -37414,7 +37415,7 @@
   },
   {
     "id": "game-engine",
-    "count": 5
+    "count": 7
   },
   {
     "id": "openal",
@@ -37422,7 +37423,7 @@
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "functional",
@@ -37430,11 +37431,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lists",
@@ -37446,7 +37447,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "apache",
@@ -37454,7 +37455,7 @@
   },
   {
     "id": "haskell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "apache",
@@ -37462,15 +37463,15 @@
   },
   {
     "id": "nginx",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nginx",
-    "count": 5
+    "count": 7
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "particle",
@@ -37482,7 +37483,7 @@
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "slider",
@@ -37530,7 +37531,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "recyclerview",
@@ -37538,11 +37539,11 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "utilities",
@@ -37554,7 +37555,7 @@
   },
   {
     "id": "ansible",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ansible-galaxy",
@@ -37562,7 +37563,7 @@
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "commandline",
@@ -37578,15 +37579,15 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "vagrant",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "phpmyadmin",
@@ -37606,7 +37607,7 @@
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript-slider",
@@ -37618,19 +37619,19 @@
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios-swift",
@@ -37638,7 +37639,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios-swift",
@@ -37654,11 +37655,11 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "styled-components",
@@ -37670,7 +37671,7 @@
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "payment-gateway",
@@ -37702,7 +37703,7 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular-2",
@@ -37710,7 +37711,7 @@
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ldp",
@@ -37730,19 +37731,19 @@
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gis",
@@ -37754,15 +37755,15 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web-gis",
@@ -37770,7 +37771,7 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gatsby",
@@ -37778,11 +37779,11 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gatsby",
@@ -37790,7 +37791,7 @@
   },
   {
     "id": "graphql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gatsby",
@@ -37802,15 +37803,15 @@
   },
   {
     "id": "cross-platform",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cross-platform",
-    "count": 5
+    "count": 7
   },
   {
     "id": "games",
@@ -37826,7 +37827,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "recurrent-neural-networks",
@@ -37834,11 +37835,11 @@
   },
   {
     "id": "client",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "adapter",
@@ -37846,7 +37847,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "button",
@@ -37858,7 +37859,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webhook",
@@ -37886,11 +37887,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "time-series",
@@ -37898,15 +37899,15 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "selenium",
@@ -37922,7 +37923,7 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wrapper",
@@ -37930,11 +37931,11 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "metadata",
@@ -37942,7 +37943,7 @@
   },
   {
     "id": "video",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spreadsheet",
@@ -37954,11 +37955,11 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "autolayout",
@@ -37986,15 +37987,15 @@
   },
   {
     "id": "command-line",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "elixir",
-    "count": 5
+    "count": 7
   },
   {
     "id": "macros",
@@ -38002,7 +38003,7 @@
   },
   {
     "id": "haskell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web-framework",
@@ -38038,7 +38039,7 @@
   },
   {
     "id": "sass",
-    "count": 5
+    "count": 7
   },
   {
     "id": "functional-programming",
@@ -38046,11 +38047,11 @@
   },
   {
     "id": "haskell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sqlite3",
@@ -38058,7 +38059,7 @@
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlite3",
@@ -38070,7 +38071,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ant",
@@ -38078,43 +38079,43 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgresql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll-plugin",
@@ -38138,7 +38139,7 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "interpreter",
@@ -38146,7 +38147,7 @@
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yarn",
@@ -38194,7 +38195,7 @@
   },
   {
     "id": "vim",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vimrc",
@@ -38202,7 +38203,7 @@
   },
   {
     "id": "c-plus-plus",
-    "count": 5
+    "count": 15
   },
   {
     "id": "clang",
@@ -38214,7 +38215,7 @@
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "artificial-intelligence",
@@ -38234,7 +38235,7 @@
   },
   {
     "id": "data-science",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ml",
@@ -38242,7 +38243,7 @@
   },
   {
     "id": "kubernetes",
-    "count": 5
+    "count": 7
   },
   {
     "id": "notebook",
@@ -38250,15 +38251,15 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "apk",
@@ -38266,7 +38267,7 @@
   },
   {
     "id": "tensorflow",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yolo",
@@ -38274,7 +38275,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angular7",
@@ -38286,7 +38287,7 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ngrx",
@@ -38294,7 +38295,7 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "embedded",
@@ -38326,7 +38327,7 @@
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vscode",
@@ -38338,11 +38339,11 @@
   },
   {
     "id": "automation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "card",
@@ -38350,7 +38351,7 @@
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css-framework",
@@ -38358,7 +38359,7 @@
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css-framework",
@@ -38366,7 +38367,7 @@
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css3",
@@ -38374,7 +38375,7 @@
   },
   {
     "id": "scss",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css3",
@@ -38382,7 +38383,7 @@
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "icons",
@@ -38394,23 +38395,23 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "svg",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "widget",
@@ -38418,7 +38419,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "wrapper",
@@ -38430,11 +38431,11 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows-puppet-module",
@@ -38450,7 +38451,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swing-gui",
@@ -38462,7 +38463,7 @@
   },
   {
     "id": "testing",
-    "count": 5
+    "count": 7
   },
   {
     "id": "progressive-web-app",
@@ -38470,11 +38471,11 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "pipeline",
@@ -38498,11 +38499,11 @@
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bibtex",
@@ -38526,7 +38527,7 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "grafana",
@@ -38538,15 +38539,15 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tracing",
@@ -38554,7 +38555,7 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "prometheus",
@@ -38582,7 +38583,7 @@
   },
   {
     "id": "r",
-    "count": 5
+    "count": 7
   },
   {
     "id": "data-analysis",
@@ -38590,7 +38591,7 @@
   },
   {
     "id": "r",
-    "count": 5
+    "count": 7
   },
   {
     "id": "google-appengine",
@@ -38598,7 +38599,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "google-appengine",
@@ -38606,7 +38607,7 @@
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios-app",
@@ -38614,15 +38615,15 @@
   },
   {
     "id": "objective-c",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rails",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ios-swift",
@@ -38634,11 +38635,11 @@
   },
   {
     "id": "animation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "svg",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gradle",
@@ -38646,11 +38647,11 @@
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lightweight",
@@ -38662,7 +38663,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "expressjs",
@@ -38670,11 +38671,11 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web-app",
@@ -38682,7 +38683,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "terasology",
@@ -38690,7 +38691,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "terasology-module",
@@ -38698,7 +38699,7 @@
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "voxel",
@@ -38706,7 +38707,7 @@
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "terasology",
@@ -38714,7 +38715,7 @@
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "terasology-module",
@@ -38722,7 +38723,7 @@
   },
   {
     "id": "game-development",
-    "count": 5
+    "count": 7
   },
   {
     "id": "voxel",
@@ -38734,7 +38735,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gamedev",
@@ -38762,7 +38763,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "terasology",
@@ -38770,7 +38771,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "terasology-module",
@@ -38778,7 +38779,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "voxel",
@@ -38814,7 +38815,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "query",
@@ -38822,19 +38823,19 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "discord",
-    "count": 5
+    "count": 7
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker-images",
@@ -38850,7 +38851,7 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "swift5",
@@ -38878,11 +38879,11 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "phone-number",
@@ -38890,7 +38891,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "restful-api",
@@ -38898,7 +38899,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scheduler",
@@ -38926,11 +38927,11 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "lightweight",
@@ -38938,7 +38939,7 @@
   },
   {
     "id": "go",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jwt",
@@ -38954,11 +38955,11 @@
   },
   {
     "id": "editor",
-    "count": 5
+    "count": 7
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gnome",
@@ -38974,11 +38975,11 @@
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "csv",
-    "count": 5
+    "count": 7
   },
   {
     "id": "yaml",
@@ -38986,15 +38987,15 @@
   },
   {
     "id": "bash",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript-tools",
@@ -39006,7 +39007,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "carousel",
@@ -39034,15 +39035,15 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rest-api",
-    "count": 5
+    "count": 7
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "table",
@@ -39058,7 +39059,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "neural-networks",
@@ -39070,15 +39071,15 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "franz",
@@ -39090,11 +39091,11 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "bubble-sort",
@@ -39126,7 +39127,7 @@
   },
   {
     "id": "docker-image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "design",
@@ -39134,15 +39135,15 @@
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "editor",
-    "count": 5
+    "count": 7
   },
   {
     "id": "vue",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cuda",
@@ -39162,7 +39163,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "recurrent-neural-networks",
@@ -39174,11 +39175,11 @@
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "framework",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minimalist",
@@ -39190,11 +39191,11 @@
   },
   {
     "id": "rust",
-    "count": 5
+    "count": 15
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "productivity",
@@ -39202,19 +39203,19 @@
   },
   {
     "id": "haskell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "haskell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "agent",
@@ -39222,11 +39223,11 @@
   },
   {
     "id": "simulation",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "torrent-client",
@@ -39234,7 +39235,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tutorial",
@@ -39242,7 +39243,7 @@
   },
   {
     "id": "deep-learning",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ocr",
@@ -39250,11 +39251,11 @@
   },
   {
     "id": "machine-learning",
-    "count": 5
+    "count": 15
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "intellij",
@@ -39270,7 +39271,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "intellij-plugin",
@@ -39278,15 +39279,15 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "functional-programming",
@@ -39298,11 +39299,11 @@
   },
   {
     "id": "orm",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python3",
-    "count": 5
+    "count": 15
   },
   {
     "id": "eloquent-models",
@@ -39310,7 +39311,7 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "arma3",
@@ -39322,7 +39323,7 @@
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "restful-api",
@@ -39330,7 +39331,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "test",
@@ -39342,7 +39343,7 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "testing-tools",
@@ -39350,7 +39351,7 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gtk",
@@ -39466,7 +39467,7 @@
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json-schema",
@@ -39474,7 +39475,7 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rpc",
@@ -39482,7 +39483,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "math",
@@ -39490,11 +39491,11 @@
   },
   {
     "id": "blog",
-    "count": 5
+    "count": 15
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "lisp",
@@ -39502,11 +39503,11 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "workflow",
@@ -39514,11 +39515,11 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "game",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cherrypy",
@@ -39526,19 +39527,19 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "iot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python-2",
@@ -39558,11 +39559,11 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "smtp",
@@ -39574,7 +39575,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "function",
@@ -39582,11 +39583,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "reactjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "redux-saga",
@@ -39594,27 +39595,27 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "xml",
-    "count": 5
+    "count": 7
   },
   {
     "id": "counter-strike",
@@ -39642,23 +39643,23 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "server",
-    "count": 5
+    "count": 7
   },
   {
     "id": "aws",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webframework",
@@ -39666,7 +39667,7 @@
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "grid",
@@ -39702,11 +39703,11 @@
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ux",
@@ -39718,11 +39719,11 @@
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ux",
@@ -39734,11 +39735,11 @@
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "table",
@@ -39746,7 +39747,7 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "clang",
@@ -39754,7 +39755,7 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "completion",
@@ -39770,15 +39771,15 @@
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "postgres",
@@ -39786,7 +39787,7 @@
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sqlite3",
@@ -39802,7 +39803,7 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mesos",
@@ -39810,7 +39811,7 @@
   },
   {
     "id": "gui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tkinter",
@@ -39830,7 +39831,7 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security-audit",
@@ -39838,23 +39839,23 @@
   },
   {
     "id": "wordpress",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scala",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sublime-text",
@@ -39862,7 +39863,7 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "gnome",
@@ -39870,11 +39871,11 @@
   },
   {
     "id": "linux",
-    "count": 5
+    "count": 15
   },
   {
     "id": "clojure",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dda-pallet",
@@ -39882,7 +39883,7 @@
   },
   {
     "id": "clojure",
-    "count": 5
+    "count": 7
   },
   {
     "id": "pallet",
@@ -39902,7 +39903,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jackson",
@@ -39910,11 +39911,11 @@
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "opengl",
-    "count": 5
+    "count": 7
   },
   {
     "id": "virtual-reality",
@@ -39922,7 +39923,7 @@
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "web-application",
@@ -39934,7 +39935,7 @@
   },
   {
     "id": "video",
-    "count": 5
+    "count": 7
   },
   {
     "id": "i18n",
@@ -39946,7 +39947,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "timeseries",
@@ -39966,11 +39967,11 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "recommender-system",
@@ -39982,7 +39983,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gem",
@@ -39994,11 +39995,11 @@
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ionic",
@@ -40006,11 +40007,11 @@
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang-library",
@@ -40030,7 +40031,7 @@
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dom",
@@ -40042,7 +40043,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "raspberry-pi-camera",
@@ -40050,15 +40051,15 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "es6",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dotfiles",
-    "count": 5
+    "count": 7
   },
   {
     "id": "osx",
@@ -40066,15 +40067,15 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rpc",
@@ -40094,15 +40095,15 @@
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "asyncio",
@@ -40126,7 +40127,7 @@
   },
   {
     "id": "clojure",
-    "count": 5
+    "count": 7
   },
   {
     "id": "acm-icpc",
@@ -40138,7 +40139,7 @@
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "competitive-programming",
@@ -40158,11 +40159,11 @@
   },
   {
     "id": "image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "uiview",
@@ -40178,7 +40179,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "security-audit",
@@ -40186,7 +40187,7 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "http-server",
@@ -40194,15 +40195,15 @@
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "webapp",
-    "count": 5
+    "count": 7
   },
   {
     "id": "webserver",
@@ -40214,11 +40215,11 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "minecraft-mod",
@@ -40226,11 +40227,11 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "openapi",
@@ -40238,35 +40239,35 @@
   },
   {
     "id": "rest",
-    "count": 5
+    "count": 7
   },
   {
     "id": "atom",
-    "count": 5
+    "count": 7
   },
   {
     "id": "editor",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "macos",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "learning",
@@ -40274,7 +40275,7 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tutorial",
@@ -40282,7 +40283,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "notifications",
@@ -40290,23 +40291,23 @@
   },
   {
     "id": "algorithms",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cpp",
-    "count": 5
+    "count": 15
   },
   {
     "id": "browser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "electron",
-    "count": 5
+    "count": 7
   },
   {
     "id": "electron-vue",
@@ -40318,31 +40319,31 @@
   },
   {
     "id": "vuejs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "database",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "search",
-    "count": 5
+    "count": 7
   },
   {
     "id": "json",
-    "count": 5
+    "count": 15
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "gem",
@@ -40350,11 +40351,11 @@
   },
   {
     "id": "library",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ssl",
@@ -40362,7 +40363,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tls",
@@ -40374,11 +40375,11 @@
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "cli",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ec2",
@@ -40394,11 +40395,11 @@
   },
   {
     "id": "c",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "eloquent",
@@ -40406,11 +40407,11 @@
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "seo",
@@ -40426,15 +40427,15 @@
   },
   {
     "id": "mysql",
-    "count": 5
+    "count": 15
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tutorial",
@@ -40442,7 +40443,7 @@
   },
   {
     "id": "music",
-    "count": 5
+    "count": 7
   },
   {
     "id": "musicxml",
@@ -40450,39 +40451,39 @@
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "laravel",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "docker-image",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "css",
-    "count": 5
+    "count": 15
   },
   {
     "id": "datatables",
@@ -40494,7 +40495,7 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "datatables",
@@ -40506,11 +40507,11 @@
   },
   {
     "id": "html",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web",
-    "count": 5
+    "count": 15
   },
   {
     "id": "nextjs",
@@ -40518,7 +40519,7 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "isomorphic",
@@ -40526,11 +40527,11 @@
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "health-check",
@@ -40538,19 +40539,19 @@
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "redux",
-    "count": 5
+    "count": 7
   },
   {
     "id": "angular2",
-    "count": 5
+    "count": 7
   },
   {
     "id": "js",
-    "count": 5
+    "count": 7
   },
   {
     "id": "atom-package",
@@ -40574,7 +40575,7 @@
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cms",
@@ -40586,7 +40587,7 @@
   },
   {
     "id": "markdown",
-    "count": 5
+    "count": 7
   },
   {
     "id": "mustache",
@@ -40598,7 +40599,7 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cookbook",
@@ -40606,11 +40607,11 @@
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "tornado",
@@ -40622,7 +40623,7 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "elasticsearch",
@@ -40630,11 +40631,11 @@
   },
   {
     "id": "spring-boot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spring-mvc",
@@ -40646,11 +40647,11 @@
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "java-8",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jpa",
@@ -40666,11 +40667,11 @@
   },
   {
     "id": "dotnet",
-    "count": 5
+    "count": 7
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "functional-programming",
@@ -40678,11 +40679,11 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "map",
@@ -40698,7 +40699,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "scrapy",
@@ -40706,7 +40707,7 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "web-development",
@@ -40722,7 +40723,7 @@
   },
   {
     "id": "ios",
-    "count": 5
+    "count": 15
   },
   {
     "id": "photos",
@@ -40734,11 +40735,11 @@
   },
   {
     "id": "swift",
-    "count": 5
+    "count": 15
   },
   {
     "id": "golang",
-    "count": 5
+    "count": 15
   },
   {
     "id": "restful-api",
@@ -40774,7 +40775,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "cron",
@@ -40790,7 +40791,7 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jobs",
@@ -40798,11 +40799,11 @@
   },
   {
     "id": "plugin",
-    "count": 5
+    "count": 15
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "object-oriented",
@@ -40814,11 +40815,11 @@
   },
   {
     "id": "mongodb",
-    "count": 5
+    "count": 15
   },
   {
     "id": "graphql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "koa2",
@@ -40830,7 +40831,7 @@
   },
   {
     "id": "react",
-    "count": 5
+    "count": 15
   },
   {
     "id": "koa2",
@@ -40838,11 +40839,11 @@
   },
   {
     "id": "webpack",
-    "count": 5
+    "count": 15
   },
   {
     "id": "java",
-    "count": 5
+    "count": 15
   },
   {
     "id": "spigot",
@@ -40858,15 +40859,15 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "api",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rpc",
@@ -40874,7 +40875,7 @@
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rpc",
@@ -40882,7 +40883,7 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "edittext",
@@ -40898,11 +40899,11 @@
   },
   {
     "id": "bot",
-    "count": 5
+    "count": 7
   },
   {
     "id": "twitter",
-    "count": 5
+    "count": 7
   },
   {
     "id": "home-assistant",
@@ -40918,11 +40919,11 @@
   },
   {
     "id": "monitoring",
-    "count": 5
+    "count": 7
   },
   {
     "id": "bootstrap",
-    "count": 5
+    "count": 15
   },
   {
     "id": "thymeleaf",
@@ -40930,15 +40931,15 @@
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "security",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jquery",
-    "count": 5
+    "count": 15
   },
   {
     "id": "notification",
@@ -40946,7 +40947,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "yarn",
@@ -40954,19 +40955,19 @@
   },
   {
     "id": "django",
-    "count": 5
+    "count": 15
   },
   {
     "id": "template",
-    "count": 5
+    "count": 7
   },
   {
     "id": "material-design",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "dynamodb",
@@ -40974,11 +40975,11 @@
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "socket",
@@ -40986,11 +40987,11 @@
   },
   {
     "id": "boilerplate",
-    "count": 5
+    "count": 7
   },
   {
     "id": "docker",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rbac",
@@ -41002,11 +41003,11 @@
   },
   {
     "id": "android",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ui",
-    "count": 5
+    "count": 7
   },
   {
     "id": "books",
@@ -41014,15 +41015,15 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "jekyll",
-    "count": 5
+    "count": 7
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "jekyll-theme",
@@ -41030,7 +41031,7 @@
   },
   {
     "id": "theme",
-    "count": 5
+    "count": 7
   },
   {
     "id": "tool",
@@ -41038,11 +41039,11 @@
   },
   {
     "id": "utility",
-    "count": 5
+    "count": 7
   },
   {
     "id": "php",
-    "count": 5
+    "count": 15
   },
   {
     "id": "sdk",
@@ -41050,7 +41051,7 @@
   },
   {
     "id": "raspberry-pi",
-    "count": 5
+    "count": 7
   },
   {
     "id": "raspberry-pi-gpio",
@@ -41062,23 +41063,23 @@
   },
   {
     "id": "logging",
-    "count": 5
+    "count": 7
   },
   {
     "id": "nodejs",
-    "count": 5
+    "count": 15
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "angularjs",
-    "count": 5
+    "count": 7
   },
   {
     "id": "sql",
-    "count": 5
+    "count": 7
   },
   {
     "id": "json-rpc",
@@ -41146,7 +41147,7 @@
   },
   {
     "id": "angular",
-    "count": 5
+    "count": 15
   },
   {
     "id": "ng",
@@ -41154,7 +41155,7 @@
   },
   {
     "id": "python",
-    "count": 5
+    "count": 15
   },
   {
     "id": "rpc",
@@ -41202,11 +41203,11 @@
   },
   {
     "id": "browser",
-    "count": 5
+    "count": 7
   },
   {
     "id": "node",
-    "count": 5
+    "count": 15
   },
   {
     "id": "fun",
@@ -41214,31 +41215,31 @@
   },
   {
     "id": "javascript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "hacktoberfest",
-    "count": 5
+    "count": 15
   },
   {
     "id": "typescript",
-    "count": 5
+    "count": 15
   },
   {
     "id": "generator",
-    "count": 5
+    "count": 7
   },
   {
     "id": "ruby",
-    "count": 5
+    "count": 15
   },
   {
     "id": "shell",
-    "count": 5
+    "count": 7
   },
   {
     "id": "windows",
-    "count": 5
+    "count": 15
   }
 ],
 "links" : [
